@@ -25,7 +25,16 @@ concord <- list.files(path = "data/concord-2/", pattern = ".csv", full.names = T
   sapply(read.csv,header = FALSE) %>%
   lapply(munge) %>%
   ldply %>%
-  mutate(Region=gsub("data/concord-2//([A-z-]+).csv","\\1",.id))
+  mutate(Region=gsub("data/concord-2//([A-z-]+).csv","\\1",.id),
+         Period=sub("([0-9-]+) ","\\1",Period)) %>%
+  droplevels
 
 concord %>% summary
-head(concord)
+
+library(reshape2)
+library(ggplot2)
+concord %>% 
+  melt %>% 
+  ggplot(aes(x=factor(Period),y=value)) +
+  geom_boxplot() +
+  facet_grid(variable~Region,scales = "free_x")
