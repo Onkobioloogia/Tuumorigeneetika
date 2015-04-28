@@ -21,8 +21,8 @@ img {
 <style> .title-slide {
 background-image:url(http://www.shalomlife.com/img/2012/04/16983/cancer_cells_2_/400_300_cancer_cells_2_.jpg);
 background-repeat: no-repeat;
-background-position: 0% 5%;
-background-size: 22%;
+background-position: 0% -500%;
+background-size: 100%;
 background-color: #CBE7A5; /* ; ; */
 }
 
@@ -57,26 +57,150 @@ strong {
 
 --- .segue .dark .nobackground
 
-## Recap
+## Sissejuhatuseks
 
----- &twocol
+--- 
+## Vähk
+- Mõiste vähk (tuumor, pahaloomuline kasvaja, neoplasm) tähistab suurt hulka erinevaid haiguseid (NCI ~160 olulisemat) mis võivad tekkida kõigis keha kudedes. 
+- Vähi tunnuseks on ebanormaalsete rakkude kasv väljapoole nende normaalseid piire. Kõrvalolevate kudede invasioon ja levik teistesse organitesse ehk metastaseerumine.  
+- Metastaasid on ka enamuse kasvajatest tingitud surmade põhjustajaks.
 
-## Vähi mikrokeskkond
+[A to Z List of Cancers](http://www.cancer.gov/cancertopics/types/alphalist)
 
-Kasvajarakud ümbritseb kompleksne mikrokeskkond, mis koosneb:
+---
+# WHO andmetel
+- Vähkkasvajad on maailmas üks juhtivatest surma põhjustatavatest haigustest, nõudes 8.2 miljonit elu 2012. a (EU-27 osakaal 2012: 1.27 miljonit (15%))
+- Kopsu-, maksa-, mao-, kolorektaal- ja rinnakasvajad põhjustavad enim 
+vähisurmasid
+- sagedasemad vähitüübid on naistel ja meestel erinevad
+
+---
+## Vähi kolm peamist väljakutset maailmas
+
+- ~30% vähisurmadest on tingitud viiest käitumis ja dieediriskist: kõrge BMI, vähe puu- ja aedvilju menüüs, vähene füüsiline aktiivsus, tubakas/suitsetamine, alkohol
+- arengumaades põhjustavad 20% vähkidest hepatiidi viirused B ja C ning papilloomiviirused
+- ennustatkse, et haigestumus suureneb maailmas 14 miljonilt 2012.a 22 miljonini 2030ndatel
+
+
+---&twocol
+## Ülekaalulisus ja vähk
 
 ***=left
 
-- normaalsetest rakkudest,
-- sekreteeritud valkudest,
-- füsioloogilistest madalmolekulaarsetest ühenditest (hormoonid),
-- veresoontest.
+- Ülekaalulisus on riskifaktoriks rinnavähi, soolevähi, endomeetriumi vähi, neerukasvajate, söögitoru- ja kõhunäärmekasvajate puhul. 
+- People who are overweight or are obese may be at greater risk for cancer recurrence and death. 
+- Obesity and overweight rates have increased in countries at all income levels.
+- Physical activity and a healthy diet are the two key ways to reduce the risk.
 
 ***=right
 
-<img src="http://www.nature.com/nature/journal/v501/n7467/images/nature12626-f1.jpg" style="width:300px">
+<img src="http://www.cancer.org/acs/groups/content/@editorial/documents/image/acspc-044686.png" style="width:480px;"/>
 
-<footer class="source">Pilt: Nature.com
+
+<footer class="source">Allikas: 
+<a href="http://www.cancer.org/research/acsresearchupdates/more/three-top-cancer-challenges-of-the-21st-century?utm_source=MB_Twit&utm_medium=Social&utm_content=Feb03_A&utm_campaign=Feb_2015"> www.cancer.org.
+</a>
 </footer>
 
+---&twocol
 
+## Suitsetamise tõus arengumaades
+
+***=left
+
+- Üle 1.3 miljardi inimese suitsetab maailmas tubakat. Suitsetamine põhjustab erinevaid kasvajaid ja vastutab 1/5 vähisurmade eest maailmas.
+- Lähis-Idas ja Aafrikas on ajavahemikus 1990-2009 sigarettide tarbimine suurenenud 57%.
+- Kuigi keskeas suitsetamise maha jätmine vähendab üle 60% kopsuvähi riski, teevad arengumaades seda vähesed.
+- Sigarettide maksustamises nähakse vastumeedet, kuid sissetulekud tõusevad kiiremini kui maksud.
+
+***=right
+
+<img src="http://www.cancer.org/acs/groups/content/@editorial/documents/image/acspc-044688.png" style="width:480px;"/>
+
+<footer class="source">Allikas: 
+<a href="http://www.cancer.org/research/acsresearchupdates/more/three-top-cancer-challenges-of-the-21st-century?utm_source=MB_Twit&utm_medium=Social&utm_content=Feb03_A&utm_campaign=Feb_2015"> www.cancer.org.
+</a>
+</footer>
+
+---&twocol
+
+## Diagnostika ja teraapia kättesaadavus
+
+***=left
+
+- Tingituna piiratud juurdepääsust diagnostikale ja ravile on madala ja keskmise sissetulekuga maades vähisurmade suhe intsidentsi umbes 20% kõrgem kui arenenud maades.
+- Piiratud juurdepääs on tingitud nii kõrgest hinnast, ebapiisavast infrastruktuurist kui personali puudusest.
+- Radioteraapia on näidustatud umbes 60% vähipatsientidest, siiski pole see kättesaadav arengumaades elavatele 82% maailma rahvastikule.
+
+
+***=right
+
+# 30 Aafrika ja Kagu-Aasia riigis puudub radioteraapia teenus täielikult
+
+<img src="http://www.cancer.org/acs/groups/content/@editorial/documents/image/acspc-044689.png" style="width:480px;"/>
+
+<footer class="source">Allikas: 
+<a href="http://www.cancer.org/research/acsresearchupdates/more/three-top-cancer-challenges-of-the-21st-century?utm_source=MB_Twit&utm_medium=Social&utm_content=Feb03_A&utm_campaign=Feb_2015"> www.cancer.org.
+</a>
+</footer>
+
+---
+
+## Erinevused 5-aasta elulemuses maailmas
+
+![5ysurvival](http://assets1.celgene.com/content/uploads/international_discepancies_5_year_cancer_survival_rate.png)
+
+---
+
+## Kõige sagedasemad surmaga lõppevad vähid maailmas, 2012 aasta seis:
+
+- kops (1.59 miljonit surma)
+- maks (745 000)
+- magu (723 000 deaths)
+- kolorektaal (694 000)
+- rinnavähk (521 000)
+- söögitoru (400 000)
+
+
+---
+## Kasvajatesse haigestumus Eestis
+
+```{r haigestumus, echo=FALSE, warning=FALSE, message=FALSE, fig.align = 'center', cache=FALSE}
+kasvajad <- read.csv("data/Kasvajad_haigestumus_2000-9.csv", header = TRUE)
+# load libraries
+library(quantmod)
+library(magrittr)
+library(ggplot2)
+library(reshape)
+library(dplyr)
+library(ggthemes)
+kasv <- melt(kasvajad, id = c("ICD10", "Organ", "Paikmed", "Sugu", "Aasta")) %>%
+  filter(!variable == "Vanusrühmad.kokku",
+         !Paikmed == "Kõik paikmed v.a. nahk (muu) (C00–C97 v.a.C44)",
+         !Paikmed == "Kõik paikmed (C00-C97)")
+kasv %>%
+  group_by(Aasta, Sugu) %>%
+  summarise(value = sum(value)) %>%
+  ggplot(aes(x = as.character(Aasta), y = value, fill = Sugu)) + 
+  geom_bar(stat="identity") + 
+  theme(axis.text.x  = element_text(angle=90, vjust=0.5)) +
+  scale_y_continuous(name="Patsientide arv") +
+  scale_x_discrete(name="Aasta") 
+```
+
+Andmed: TAI vähiregister
+
+---
+## Sagedasemad paikmed
+
+```{r sagedus, echo=FALSE, warning = FALSE, fig.height=8, fig.align = 'center'}
+kasv %>%
+  group_by(Sugu, PaikmedHyph) %>%
+  summarise(value = sum(value)) %>%
+  filter(value>100) %>%
+  ggplot(aes(x = reorder(PaikmedHyph, value), y = value, fill = Sugu)) + 
+  geom_bar(stat="identity") + 
+  scale_y_continuous(name="Patsientide arv 2000-2009") +
+  scale_x_discrete(name="Paikmed") + coord_flip()
+
+```

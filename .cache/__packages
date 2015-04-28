@@ -1,2 +1,11 @@
 base
 slidify
+zoo
+xts
+TTR
+quantmod
+magrittr
+ggplot2
+reshape
+dplyr
+ggthemes

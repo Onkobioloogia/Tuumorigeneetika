@@ -1,0 +1,1281 @@
+Aasta,ICD10,Organ,Paikmed,Sugu,Vanusrühmad kokku,Vanus0-4,Vanus5-9,Vanus10-14,Vanus15-19,Vanus20-24,Vanus25-29,Vanus30-34,Vanus35-39,Vanus40-44,Vanus45-49,Vanus50-54,Vanus55-59,Vanus60-64,Vanus65-69,Vanus70-74,Vanus75-79,Vanus80-84,Vanus85pluss
+2000,C00,..Huul (C00),"Huul, suuõõs, neel (C00–C14)",Mehed,14,0,0,0,0,0,0,0,0,0,0,1,1,2,4,4,0,1,1
+2001,C00,..Huul (C00),"Huul, suuõõs, neel (C00–C14)",Mehed,11,0,0,0,0,0,0,0,0,0,1,0,1,2,3,1,1,0,2
+2002,C00,..Huul (C00),"Huul, suuõõs, neel (C00–C14)",Mehed,10,0,0,0,0,0,0,0,0,0,0,2,0,1,0,4,1,2,0
+2003,C00,..Huul (C00),"Huul, suuõõs, neel (C00–C14)",Mehed,16,0,0,0,0,0,0,0,0,0,1,0,0,3,3,3,4,1,1
+2004,C00,..Huul (C00),"Huul, suuõõs, neel (C00–C14)",Mehed,14,0,0,0,0,0,0,0,0,0,1,1,1,3,2,3,2,1,0
+2005,C00,..Huul (C00),"Huul, suuõõs, neel (C00–C14)",Mehed,14,0,0,0,0,0,0,0,0,0,0,0,1,1,2,5,3,0,2
+2006,C00,..Huul (C00),"Huul, suuõõs, neel (C00–C14)",Mehed,10,0,0,0,0,0,0,0,0,0,0,0,0,1,4,1,1,1,2
+2007,C00,..Huul (C00),"Huul, suuõõs, neel (C00–C14)",Mehed,12,0,0,0,0,0,0,0,0,0,0,2,0,1,2,4,2,1,0
+2008,C00,..Huul (C00),"Huul, suuõõs, neel (C00–C14)",Mehed,12,0,0,0,0,0,0,0,0,0,1,1,1,1,2,3,2,1,0
+2009,C00,..Huul (C00),"Huul, suuõõs, neel (C00–C14)",Mehed,6,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,1,1,0
+2000,C00,..Huul (C00),"Huul, suuõõs, neel (C00–C14)",Naised,11,0,0,0,0,0,0,0,0,0,0,0,0,1,4,1,2,0,3
+2001,C00,..Huul (C00),"Huul, suuõõs, neel (C00–C14)",Naised,10,0,0,0,0,0,0,0,0,0,0,0,0,2,0,3,1,4,0
+2002,C00,..Huul (C00),"Huul, suuõõs, neel (C00–C14)",Naised,4,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,0,0,0
+2003,C00,..Huul (C00),"Huul, suuõõs, neel (C00–C14)",Naised,5,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2,2,0
+2004,C00,..Huul (C00),"Huul, suuõõs, neel (C00–C14)",Naised,8,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2,2,1,2
+2005,C00,..Huul (C00),"Huul, suuõõs, neel (C00–C14)",Naised,5,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,0,1,0
+2006,C00,..Huul (C00),"Huul, suuõõs, neel (C00–C14)",Naised,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,2
+2007,C00,..Huul (C00),"Huul, suuõõs, neel (C00–C14)",Naised,9,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,4,1,1
+2008,C00,..Huul (C00),"Huul, suuõõs, neel (C00–C14)",Naised,5,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,2,1
+2009,C00,..Huul (C00),"Huul, suuõõs, neel (C00–C14)",Naised,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3,1
+2000,C00–C97,Kõik paikmed (C00-C97),Kõik paikmed (C00-C97),Mehed,2917,5,5,6,4,13,17,15,39,70,114,195,320,454,528,576,317,133,106
+2001,C00–C97,Kõik paikmed (C00-C97),Kõik paikmed (C00-C97),Mehed,2973,7,2,7,16,11,23,23,37,60,129,220,256,446,553,589,360,150,84
+2002,C00–C97,Kõik paikmed (C00-C97),Kõik paikmed (C00-C97),Mehed,3001,7,3,5,13,16,16,13,31,57,107,198,270,461,543,598,375,192,96
+2003,C00–C97,Kõik paikmed (C00-C97),Kõik paikmed (C00-C97),Mehed,3126,5,3,3,12,9,14,17,32,64,96,206,277,450,564,634,451,194,95
+2004,C00–C97,Kõik paikmed (C00-C97),Kõik paikmed (C00-C97),Mehed,3382,6,5,5,10,11,24,27,29,47,105,202,308,497,638,648,470,235,115
+2005,C00–C97,Kõik paikmed (C00-C97),Kõik paikmed (C00-C97),Mehed,3224,3,3,1,10,7,11,16,18,49,123,197,337,382,603,616,522,217,109
+2006,C00–C97,Kõik paikmed (C00-C97),Kõik paikmed (C00-C97),Mehed,3666,7,1,4,9,13,16,22,30,64,102,251,345,452,710,682,551,273,134
+2007,C00–C97,Kõik paikmed (C00-C97),Kõik paikmed (C00-C97),Mehed,3680,2,2,5,7,12,12,30,43,47,122,223,382,442,702,649,589,297,114
+2008,C00–C97,Kõik paikmed (C00-C97),Kõik paikmed (C00-C97),Mehed,3590,6,2,3,8,8,15,12,41,61,109,224,373,451,641,674,514,320,128
+2009,C00–C97,Kõik paikmed (C00-C97),Kõik paikmed (C00-C97),Mehed,3613,3,2,2,5,14,23,31,27,45,104,204,353,474,640,690,561,306,129
+2000,C00–C97,Kõik paikmed (C00-C97),Kõik paikmed (C00-C97),Naised,3112,8,1,8,9,12,23,37,79,113,154,236,301,396,400,510,412,201,212
+2001,C00–C97,Kõik paikmed (C00-C97),Kõik paikmed (C00-C97),Naised,3257,5,5,7,7,15,28,32,55,118,174,274,268,383,476,544,453,222,191
+2002,C00–C97,Kõik paikmed (C00-C97),Kõik paikmed (C00-C97),Naised,3108,2,3,8,8,8,19,26,57,119,201,249,254,376,422,500,446,218,192
+2003,C00–C97,Kõik paikmed (C00-C97),Kõik paikmed (C00-C97),Naised,3238,8,4,3,4,20,19,37,49,120,183,240,257,361,434,503,514,297,185
+2004,C00–C97,Kõik paikmed (C00-C97),Kõik paikmed (C00-C97),Naised,3412,5,1,5,11,13,22,42,61,132,176,260,334,337,480,465,512,343,213
+2005,C00–C97,Kõik paikmed (C00-C97),Kõik paikmed (C00-C97),Naised,3280,7,2,7,5,14,20,38,70,107,208,253,271,312,441,482,501,363,179
+2006,C00–C97,Kõik paikmed (C00-C97),Kõik paikmed (C00-C97),Naised,3468,6,0,1,9,16,17,39,69,123,198,264,324,344,449,480,543,374,212
+2007,C00–C97,Kõik paikmed (C00-C97),Kõik paikmed (C00-C97),Naised,3551,1,1,0,9,18,20,41,86,115,179,266,296,323,499,490,538,430,239
+2008,C00–C97,Kõik paikmed (C00-C97),Kõik paikmed (C00-C97),Naised,3605,4,1,5,6,10,22,28,74,94,195,256,350,357,445,546,564,390,258
+2009,C00–C97,Kõik paikmed (C00-C97),Kõik paikmed (C00-C97),Naised,3466,2,3,1,2,10,27,35,57,114,199,257,314,350,400,551,485,416,243
+2000,C00–C97 v.a.C44,Kõik paikmed v.a. nahk (muu) (C00–C97 v.a.C44),Kõik paikmed v.a. nahk (muu) (C00–C97 v.a.C44),Mehed,2640,5,5,6,4,13,16,14,32,67,105,175,291,418,480,531,276,113,89
+2001,C00–C97 v.a.C44,Kõik paikmed v.a. nahk (muu) (C00–C97 v.a.C44),Kõik paikmed v.a. nahk (muu) (C00–C97 v.a.C44),Mehed,2677,7,2,7,16,11,22,19,31,54,121,198,236,394,507,534,318,126,74
+2002,C00–C97 v.a.C44,Kõik paikmed v.a. nahk (muu) (C00–C97 v.a.C44),Kõik paikmed v.a. nahk (muu) (C00–C97 v.a.C44),Mehed,2732,7,3,5,13,15,14,12,30,50,96,179,245,430,510,547,335,162,79
+2003,C00–C97 v.a.C44,Kõik paikmed v.a. nahk (muu) (C00–C97 v.a.C44),Kõik paikmed v.a. nahk (muu) (C00–C97 v.a.C44),Mehed,2886,5,3,3,12,9,13,15,28,61,88,193,264,427,522,575,408,175,85
+2004,C00–C97 v.a.C44,Kõik paikmed v.a. nahk (muu) (C00–C97 v.a.C44),Kõik paikmed v.a. nahk (muu) (C00–C97 v.a.C44),Mehed,3093,6,5,5,10,11,20,26,25,43,96,187,283,455,586,595,436,203,101
+2005,C00–C97 v.a.C44,Kõik paikmed v.a. nahk (muu) (C00–C97 v.a.C44),Kõik paikmed v.a. nahk (muu) (C00–C97 v.a.C44),Mehed,2937,3,3,1,8,7,10,15,16,46,113,182,309,354,561,561,460,193,95
+2006,C00–C97 v.a.C44,Kõik paikmed v.a. nahk (muu) (C00–C97 v.a.C44),Kõik paikmed v.a. nahk (muu) (C00–C97 v.a.C44),Mehed,3326,7,1,4,9,13,14,21,28,56,95,241,314,421,645,619,488,241,109
+2007,C00–C97 v.a.C44,Kõik paikmed v.a. nahk (muu) (C00–C97 v.a.C44),Kõik paikmed v.a. nahk (muu) (C00–C97 v.a.C44),Mehed,3343,2,2,4,7,12,11,27,39,38,111,202,353,415,658,589,526,251,96
+2008,C00–C97 v.a.C44,Kõik paikmed v.a. nahk (muu) (C00–C97 v.a.C44),Kõik paikmed v.a. nahk (muu) (C00–C97 v.a.C44),Mehed,3297,6,2,2,8,8,14,9,38,50,95,210,352,434,586,626,462,281,114
+2009,C00–C97 v.a.C44,Kõik paikmed v.a. nahk (muu) (C00–C97 v.a.C44),Kõik paikmed v.a. nahk (muu) (C00–C97 v.a.C44),Mehed,3291,3,2,2,5,14,21,31,26,39,95,187,328,447,592,617,497,275,110
+2000,C00–C97 v.a.C44,Kõik paikmed v.a. nahk (muu) (C00–C97 v.a.C44),Kõik paikmed v.a. nahk (muu) (C00–C97 v.a.C44),Naised,2719,8,1,8,9,12,21,34,69,107,143,211,277,347,345,440,343,171,173
+2001,C00–C97 v.a.C44,Kõik paikmed v.a. nahk (muu) (C00–C97 v.a.C44),Kõik paikmed v.a. nahk (muu) (C00–C97 v.a.C44),Naised,2768,5,5,7,7,14,26,28,52,111,154,248,234,321,403,448,376,175,154
+2002,C00–C97 v.a.C44,Kõik paikmed v.a. nahk (muu) (C00–C97 v.a.C44),Kõik paikmed v.a. nahk (muu) (C00–C97 v.a.C44),Naised,2679,2,3,8,8,8,19,25,49,108,192,222,213,324,350,437,367,181,163
+2003,C00–C97 v.a.C44,Kõik paikmed v.a. nahk (muu) (C00–C97 v.a.C44),Kõik paikmed v.a. nahk (muu) (C00–C97 v.a.C44),Naised,2777,8,4,2,4,19,19,36,46,111,165,221,223,317,376,421,420,235,150
+2004,C00–C97 v.a.C44,Kõik paikmed v.a. nahk (muu) (C00–C97 v.a.C44),Kõik paikmed v.a. nahk (muu) (C00–C97 v.a.C44),Naised,2925,5,1,5,10,13,20,36,53,116,164,243,301,294,408,375,421,292,168
+2005,C00–C97 v.a.C44,Kõik paikmed v.a. nahk (muu) (C00–C97 v.a.C44),Kõik paikmed v.a. nahk (muu) (C00–C97 v.a.C44),Naised,2786,7,2,7,5,14,17,34,63,102,188,230,236,258,382,394,430,281,136
+2006,C00–C97 v.a.C44,Kõik paikmed v.a. nahk (muu) (C00–C97 v.a.C44),Kõik paikmed v.a. nahk (muu) (C00–C97 v.a.C44),Naised,3003,6,0,1,9,16,17,33,63,114,182,239,291,309,386,403,449,308,177
+2007,C00–C97 v.a.C44,Kõik paikmed v.a. nahk (muu) (C00–C97 v.a.C44),Kõik paikmed v.a. nahk (muu) (C00–C97 v.a.C44),Naised,2984,1,1,0,9,17,16,36,80,102,164,237,257,276,418,418,414,346,192
+2008,C00–C97 v.a.C44,Kõik paikmed v.a. nahk (muu) (C00–C97 v.a.C44),Kõik paikmed v.a. nahk (muu) (C00–C97 v.a.C44),Naised,3079,4,1,5,6,10,21,24,63,82,172,237,307,319,370,453,481,318,206
+2009,C00–C97 v.a.C44,Kõik paikmed v.a. nahk (muu) (C00–C97 v.a.C44),Kõik paikmed v.a. nahk (muu) (C00–C97 v.a.C44),Naised,2895,2,3,1,2,10,26,30,52,96,183,228,277,300,326,448,382,335,194
+2000,C01–C02,..Keel (C01–C02),"Huul, suuõõs, neel (C00–C14)",Mehed,19,0,0,0,0,0,0,0,0,2,2,2,4,2,2,3,0,0,2
+2001,C01–C02,..Keel (C01–C02),"Huul, suuõõs, neel (C00–C14)",Mehed,24,0,0,0,0,0,0,0,0,0,1,4,7,5,3,3,1,0,0
+2002,C01–C02,..Keel (C01–C02),"Huul, suuõõs, neel (C00–C14)",Mehed,22,0,0,0,0,0,0,1,0,0,0,2,4,9,3,1,2,0,0
+2003,C01–C02,..Keel (C01–C02),"Huul, suuõõs, neel (C00–C14)",Mehed,25,0,0,0,0,0,0,0,0,1,0,1,4,8,6,4,1,0,0
+2004,C01–C02,..Keel (C01–C02),"Huul, suuõõs, neel (C00–C14)",Mehed,23,0,0,0,0,0,0,1,0,0,1,3,6,4,5,1,1,1,0
+2005,C01–C02,..Keel (C01–C02),"Huul, suuõõs, neel (C00–C14)",Mehed,22,0,0,0,0,0,0,0,1,0,1,3,2,5,5,4,1,0,0
+2006,C01–C02,..Keel (C01–C02),"Huul, suuõõs, neel (C00–C14)",Mehed,26,0,0,0,0,0,0,0,0,1,1,4,5,6,5,3,1,0,0
+2007,C01–C02,..Keel (C01–C02),"Huul, suuõõs, neel (C00–C14)",Mehed,23,0,0,0,0,0,0,0,0,2,2,4,6,2,1,5,0,1,0
+2008,C01–C02,..Keel (C01–C02),"Huul, suuõõs, neel (C00–C14)",Mehed,20,0,0,0,0,0,0,0,1,0,0,4,5,1,1,4,1,3,0
+2009,C01–C02,..Keel (C01–C02),"Huul, suuõõs, neel (C00–C14)",Mehed,19,0,0,0,0,0,0,0,0,0,3,2,3,6,2,3,0,0,0
+2000,C01–C02,..Keel (C01–C02),"Huul, suuõõs, neel (C00–C14)",Naised,8,0,0,0,0,0,0,0,0,1,0,0,1,0,2,2,0,0,2
+2001,C01–C02,..Keel (C01–C02),"Huul, suuõõs, neel (C00–C14)",Naised,17,0,0,0,0,0,0,0,0,0,1,3,1,2,1,4,2,2,1
+2002,C01–C02,..Keel (C01–C02),"Huul, suuõõs, neel (C00–C14)",Naised,5,0,0,0,0,0,0,0,1,0,1,0,0,1,1,0,1,0,0
+2003,C01–C02,..Keel (C01–C02),"Huul, suuõõs, neel (C00–C14)",Naised,8,0,0,0,0,0,0,0,1,1,0,0,1,0,2,0,1,2,0
+2004,C01–C02,..Keel (C01–C02),"Huul, suuõõs, neel (C00–C14)",Naised,14,0,0,0,0,0,0,0,0,0,1,2,3,2,3,2,1,0,0
+2005,C01–C02,..Keel (C01–C02),"Huul, suuõõs, neel (C00–C14)",Naised,12,0,0,0,0,0,0,0,0,0,3,1,1,1,1,3,1,1,0
+2006,C01–C02,..Keel (C01–C02),"Huul, suuõõs, neel (C00–C14)",Naised,5,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,1,1,0
+2007,C01–C02,..Keel (C01–C02),"Huul, suuõõs, neel (C00–C14)",Naised,6,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,1,1,1
+2008,C01–C02,..Keel (C01–C02),"Huul, suuõõs, neel (C00–C14)",Naised,12,0,0,0,0,0,0,0,1,0,0,2,3,1,1,1,1,1,1
+2009,C01–C02,..Keel (C01–C02),"Huul, suuõõs, neel (C00–C14)",Naised,11,0,0,0,0,0,1,1,0,0,0,1,2,1,0,2,1,2,0
+2000,C03–C06,"..Ige, suupõhi jm. (C03–C06)","Huul, suuõõs, neel (C00–C14)",Mehed,24,0,0,0,0,0,0,0,1,2,2,4,5,3,4,2,0,1,0
+2001,C03–C06,"..Ige, suupõhi jm. (C03–C06)","Huul, suuõõs, neel (C00–C14)",Mehed,27,0,0,0,0,0,0,0,1,0,1,8,4,2,6,2,2,1,0
+2002,C03–C06,"..Ige, suupõhi jm. (C03–C06)","Huul, suuõõs, neel (C00–C14)",Mehed,24,0,0,0,0,0,0,0,0,1,0,5,4,5,3,3,2,1,0
+2003,C03–C06,"..Ige, suupõhi jm. (C03–C06)","Huul, suuõõs, neel (C00–C14)",Mehed,18,0,0,0,0,0,0,0,1,0,3,2,2,2,3,3,2,0,0
+2004,C03–C06,"..Ige, suupõhi jm. (C03–C06)","Huul, suuõõs, neel (C00–C14)",Mehed,18,0,0,0,0,0,0,0,0,0,0,3,2,7,4,1,1,0,0
+2005,C03–C06,"..Ige, suupõhi jm. (C03–C06)","Huul, suuõõs, neel (C00–C14)",Mehed,28,0,0,0,0,0,1,0,0,0,1,1,9,4,5,2,3,2,0
+2006,C03–C06,"..Ige, suupõhi jm. (C03–C06)","Huul, suuõõs, neel (C00–C14)",Mehed,21,0,0,0,0,0,0,0,0,0,3,5,5,3,2,1,1,1,0
+2007,C03–C06,"..Ige, suupõhi jm. (C03–C06)","Huul, suuõõs, neel (C00–C14)",Mehed,23,0,0,0,0,1,0,0,0,0,4,1,4,2,7,2,1,0,1
+2008,C03–C06,"..Ige, suupõhi jm. (C03–C06)","Huul, suuõõs, neel (C00–C14)",Mehed,24,0,0,0,0,0,0,0,0,0,2,3,7,5,4,2,1,0,0
+2009,C03–C06,"..Ige, suupõhi jm. (C03–C06)","Huul, suuõõs, neel (C00–C14)",Mehed,32,0,0,0,0,0,0,0,0,1,2,5,8,6,5,4,1,0,0
+2000,C03–C06,"..Ige, suupõhi jm. (C03–C06)","Huul, suuõõs, neel (C00–C14)",Naised,6,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,2,0
+2001,C03–C06,"..Ige, suupõhi jm. (C03–C06)","Huul, suuõõs, neel (C00–C14)",Naised,9,0,0,0,0,0,0,0,0,0,0,2,1,0,4,1,1,0,0
+2002,C03–C06,"..Ige, suupõhi jm. (C03–C06)","Huul, suuõõs, neel (C00–C14)",Naised,8,0,0,0,0,0,0,0,0,0,1,0,2,1,1,1,2,0,0
+2003,C03–C06,"..Ige, suupõhi jm. (C03–C06)","Huul, suuõõs, neel (C00–C14)",Naised,14,0,0,0,0,0,0,0,0,0,1,3,0,2,3,1,4,0,0
+2004,C03–C06,"..Ige, suupõhi jm. (C03–C06)","Huul, suuõõs, neel (C00–C14)",Naised,11,0,0,0,0,0,1,0,0,0,1,1,1,2,3,0,0,1,1
+2005,C03–C06,"..Ige, suupõhi jm. (C03–C06)","Huul, suuõõs, neel (C00–C14)",Naised,11,0,0,0,0,0,0,0,0,0,0,2,3,1,0,0,2,3,0
+2006,C03–C06,"..Ige, suupõhi jm. (C03–C06)","Huul, suuõõs, neel (C00–C14)",Naised,5,0,0,0,0,0,0,0,0,1,0,0,0,0,2,1,1,0,0
+2007,C03–C06,"..Ige, suupõhi jm. (C03–C06)","Huul, suuõõs, neel (C00–C14)",Naised,6,0,0,0,0,0,0,0,1,0,0,0,0,1,2,1,0,1,0
+2008,C03–C06,"..Ige, suupõhi jm. (C03–C06)","Huul, suuõõs, neel (C00–C14)",Naised,12,0,0,0,0,0,0,0,1,0,1,2,3,2,1,1,0,1,0
+2009,C03–C06,"..Ige, suupõhi jm. (C03–C06)","Huul, suuõõs, neel (C00–C14)",Naised,17,0,0,0,0,0,0,0,0,0,1,0,6,3,3,2,0,1,1
+2000,C03–C06,..Suured süljenäärmed (C07–C08),"Huul, suuõõs, neel (C00–C14)",Mehed,7,0,0,0,0,0,0,0,0,2,1,0,0,2,1,0,1,0,0
+2001,C03–C06,..Suured süljenäärmed (C07–C08),"Huul, suuõõs, neel (C00–C14)",Mehed,9,0,0,0,0,0,0,0,0,0,0,2,2,1,1,1,1,1,0
+2002,C03–C06,..Suured süljenäärmed (C07–C08),"Huul, suuõõs, neel (C00–C14)",Mehed,7,0,0,0,0,0,1,0,0,0,0,1,0,1,2,2,0,0,0
+2003,C03–C06,..Suured süljenäärmed (C07–C08),"Huul, suuõõs, neel (C00–C14)",Mehed,11,0,0,0,0,0,0,0,1,0,0,0,1,3,0,2,2,1,1
+2004,C03–C06,..Suured süljenäärmed (C07–C08),"Huul, suuõõs, neel (C00–C14)",Mehed,13,0,0,0,0,0,0,0,0,1,2,1,1,1,2,3,1,0,1
+2005,C03–C06,..Suured süljenäärmed (C07–C08),"Huul, suuõõs, neel (C00–C14)",Mehed,3,0,0,0,0,0,0,0,0,0,2,0,0,0,1,0,0,0,0
+2006,C03–C06,..Suured süljenäärmed (C07–C08),"Huul, suuõõs, neel (C00–C14)",Mehed,5,0,0,0,0,0,1,0,0,0,0,1,1,2,0,0,0,0,0
+2007,C03–C06,..Suured süljenäärmed (C07–C08),"Huul, suuõõs, neel (C00–C14)",Mehed,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+2008,C03–C06,..Suured süljenäärmed (C07–C08),"Huul, suuõõs, neel (C00–C14)",Mehed,14,0,0,0,0,0,0,0,1,1,0,1,2,1,3,2,2,1,0
+2009,C03–C06,..Suured süljenäärmed (C07–C08),"Huul, suuõõs, neel (C00–C14)",Mehed,7,0,0,0,0,0,0,0,0,0,1,0,2,0,2,1,1,0,0
+2000,C03–C06,..Suured süljenäärmed (C07–C08),"Huul, suuõõs, neel (C00–C14)",Naised,9,0,0,0,0,0,0,1,1,1,1,0,0,1,1,1,0,2,0
+2001,C03–C06,..Suured süljenäärmed (C07–C08),"Huul, suuõõs, neel (C00–C14)",Naised,12,0,0,1,0,0,0,0,0,0,0,0,2,0,4,0,2,1,2
+2002,C03–C06,..Suured süljenäärmed (C07–C08),"Huul, suuõõs, neel (C00–C14)",Naised,9,0,0,0,0,0,0,0,0,1,1,0,1,1,2,0,0,2,1
+2003,C03–C06,..Suured süljenäärmed (C07–C08),"Huul, suuõõs, neel (C00–C14)",Naised,8,0,0,0,0,0,0,0,1,1,1,1,0,0,1,2,0,1,0
+2004,C03–C06,..Suured süljenäärmed (C07–C08),"Huul, suuõõs, neel (C00–C14)",Naised,6,0,0,0,0,0,0,0,0,0,0,1,1,1,2,0,1,0,0
+2005,C03–C06,..Suured süljenäärmed (C07–C08),"Huul, suuõõs, neel (C00–C14)",Naised,8,0,0,0,0,0,0,1,0,0,0,1,2,1,1,0,1,1,0
+2006,C03–C06,..Suured süljenäärmed (C07–C08),"Huul, suuõõs, neel (C00–C14)",Naised,11,0,0,0,0,0,0,0,0,1,2,0,1,1,3,0,3,0,0
+2007,C03–C06,..Suured süljenäärmed (C07–C08),"Huul, suuõõs, neel (C00–C14)",Naised,7,0,0,0,0,0,0,2,0,1,0,1,0,0,0,2,0,1,0
+2008,C03–C06,..Suured süljenäärmed (C07–C08),"Huul, suuõõs, neel (C00–C14)",Naised,13,0,0,0,0,0,0,0,0,0,0,0,2,2,1,2,3,2,1
+2009,C03–C06,..Suured süljenäärmed (C07–C08),"Huul, suuõõs, neel (C00–C14)",Naised,6,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,1,1,1
+2000,C09–C10,"..Mandel, suuneel (C09–C10)","Huul, suuõõs, neel (C00–C14)",Mehed,31,0,0,0,0,0,0,0,0,0,5,8,7,4,3,4,0,0,0
+2001,C09–C10,"..Mandel, suuneel (C09–C10)","Huul, suuõõs, neel (C00–C14)",Mehed,20,0,0,0,0,0,0,0,1,0,1,3,7,3,3,2,0,0,0
+2002,C09–C10,"..Mandel, suuneel (C09–C10)","Huul, suuõõs, neel (C00–C14)",Mehed,23,0,0,0,0,0,0,0,0,0,3,4,4,5,3,2,1,1,0
+2003,C09–C10,"..Mandel, suuneel (C09–C10)","Huul, suuõõs, neel (C00–C14)",Mehed,23,0,0,0,0,0,0,0,2,0,1,5,1,8,1,5,0,0,0
+2004,C09–C10,"..Mandel, suuneel (C09–C10)","Huul, suuõõs, neel (C00–C14)",Mehed,21,0,0,0,0,0,0,1,0,1,2,2,2,6,3,2,2,0,0
+2005,C09–C10,"..Mandel, suuneel (C09–C10)","Huul, suuõõs, neel (C00–C14)",Mehed,15,0,0,0,0,0,0,0,0,0,0,5,4,2,2,2,0,0,0
+2006,C09–C10,"..Mandel, suuneel (C09–C10)","Huul, suuõõs, neel (C00–C14)",Mehed,23,0,0,0,0,0,0,0,0,1,3,5,3,4,3,2,2,0,0
+2007,C09–C10,"..Mandel, suuneel (C09–C10)","Huul, suuõõs, neel (C00–C14)",Mehed,20,0,0,0,0,0,0,0,1,0,0,4,5,3,4,0,2,1,0
+2008,C09–C10,"..Mandel, suuneel (C09–C10)","Huul, suuõõs, neel (C00–C14)",Mehed,26,0,0,0,0,0,0,0,0,2,1,3,3,11,4,1,0,1,0
+2009,C09–C10,"..Mandel, suuneel (C09–C10)","Huul, suuõõs, neel (C00–C14)",Mehed,22,0,0,0,0,0,0,0,0,0,1,4,4,6,4,1,2,0,0
+2000,C09–C10,"..Mandel, suuneel (C09–C10)","Huul, suuõõs, neel (C00–C14)",Naised,5,0,0,0,0,0,0,0,0,1,0,1,1,0,0,1,0,0,1
+2001,C09–C10,"..Mandel, suuneel (C09–C10)","Huul, suuõõs, neel (C00–C14)",Naised,4,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,1
+2002,C09–C10,"..Mandel, suuneel (C09–C10)","Huul, suuõõs, neel (C00–C14)",Naised,2,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0
+2003,C09–C10,"..Mandel, suuneel (C09–C10)","Huul, suuõõs, neel (C00–C14)",Naised,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+2004,C09–C10,"..Mandel, suuneel (C09–C10)","Huul, suuõõs, neel (C00–C14)",Naised,2,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0
+2005,C09–C10,"..Mandel, suuneel (C09–C10)","Huul, suuõõs, neel (C00–C14)",Naised,7,0,0,0,0,0,0,0,0,0,1,0,0,0,0,4,2,0,0
+2006,C09–C10,"..Mandel, suuneel (C09–C10)","Huul, suuõõs, neel (C00–C14)",Naised,5,0,0,0,0,0,0,0,0,0,0,2,3,0,0,0,0,0,0
+2007,C09–C10,"..Mandel, suuneel (C09–C10)","Huul, suuõõs, neel (C00–C14)",Naised,4,0,0,0,0,0,0,0,0,2,0,0,0,1,1,0,0,0,0
+2008,C09–C10,"..Mandel, suuneel (C09–C10)","Huul, suuõõs, neel (C00–C14)",Naised,4,0,0,0,0,0,0,0,1,0,1,0,1,0,1,0,0,0,0
+2009,C09–C10,"..Mandel, suuneel (C09–C10)","Huul, suuõõs, neel (C00–C14)",Naised,4,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,1,0,0
+2000,C11,..Ninaneel (C11),"Huul, suuõõs, neel (C00–C14)",Mehed,2,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0
+2001,C11,..Ninaneel (C11),"Huul, suuõõs, neel (C00–C14)",Mehed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2002,C11,..Ninaneel (C11),"Huul, suuõõs, neel (C00–C14)",Mehed,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0
+2003,C11,..Ninaneel (C11),"Huul, suuõõs, neel (C00–C14)",Mehed,4,0,0,0,0,0,0,0,1,0,0,1,0,1,0,1,0,0,0
+2004,C11,..Ninaneel (C11),"Huul, suuõõs, neel (C00–C14)",Mehed,5,0,0,0,0,0,0,0,1,0,1,0,2,0,1,0,0,0,0
+2005,C11,..Ninaneel (C11),"Huul, suuõõs, neel (C00–C14)",Mehed,5,0,0,0,0,0,0,1,0,2,0,1,0,0,1,0,0,0,0
+2006,C11,..Ninaneel (C11),"Huul, suuõõs, neel (C00–C14)",Mehed,7,0,0,0,0,0,0,0,1,1,0,1,0,2,1,1,0,0,0
+2007,C11,..Ninaneel (C11),"Huul, suuõõs, neel (C00–C14)",Mehed,2,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0
+2008,C11,..Ninaneel (C11),"Huul, suuõõs, neel (C00–C14)",Mehed,3,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0
+2009,C11,..Ninaneel (C11),"Huul, suuõõs, neel (C00–C14)",Mehed,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+2000,C11,..Ninaneel (C11),"Huul, suuõõs, neel (C00–C14)",Naised,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+2001,C11,..Ninaneel (C11),"Huul, suuõõs, neel (C00–C14)",Naised,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+2002,C11,..Ninaneel (C11),"Huul, suuõõs, neel (C00–C14)",Naised,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2003,C11,..Ninaneel (C11),"Huul, suuõõs, neel (C00–C14)",Naised,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1
+2004,C11,..Ninaneel (C11),"Huul, suuõõs, neel (C00–C14)",Naised,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+2005,C11,..Ninaneel (C11),"Huul, suuõõs, neel (C00–C14)",Naised,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2006,C11,..Ninaneel (C11),"Huul, suuõõs, neel (C00–C14)",Naised,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+2007,C11,..Ninaneel (C11),"Huul, suuõõs, neel (C00–C14)",Naised,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+2008,C11,..Ninaneel (C11),"Huul, suuõõs, neel (C00–C14)",Naised,5,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,3,0,0
+2009,C11,..Ninaneel (C11),"Huul, suuõõs, neel (C00–C14)",Naised,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+2000,C12–C13,"..Pirnsopis, alaneel (C12–C13)","Huul, suuõõs, neel (C00–C14)",Mehed,15,0,0,0,0,0,0,0,0,0,2,1,3,3,4,2,0,0,0
+2001,C12–C13,"..Pirnsopis, alaneel (C12–C13)","Huul, suuõõs, neel (C00–C14)",Mehed,18,0,0,0,0,0,0,0,0,0,2,3,6,3,4,0,0,0,0
+2002,C12–C13,"..Pirnsopis, alaneel (C12–C13)","Huul, suuõõs, neel (C00–C14)",Mehed,10,0,0,0,0,0,0,0,0,0,1,2,2,4,0,0,1,0,0
+2003,C12–C13,"..Pirnsopis, alaneel (C12–C13)","Huul, suuõõs, neel (C00–C14)",Mehed,17,0,0,0,0,0,0,0,0,1,1,4,2,4,3,0,1,1,0
+2004,C12–C13,"..Pirnsopis, alaneel (C12–C13)","Huul, suuõõs, neel (C00–C14)",Mehed,22,0,0,0,0,0,0,0,0,0,1,4,4,4,5,2,2,0,0
+2005,C12–C13,"..Pirnsopis, alaneel (C12–C13)","Huul, suuõõs, neel (C00–C14)",Mehed,20,0,0,0,0,0,0,0,0,0,1,3,5,4,7,0,0,0,0
+2006,C12–C13,"..Pirnsopis, alaneel (C12–C13)","Huul, suuõõs, neel (C00–C14)",Mehed,15,0,0,0,0,0,0,1,0,0,0,3,0,4,3,2,2,0,0
+2007,C12–C13,"..Pirnsopis, alaneel (C12–C13)","Huul, suuõõs, neel (C00–C14)",Mehed,19,0,0,0,0,0,0,0,0,0,0,3,4,3,4,1,3,1,0
+2008,C12–C13,"..Pirnsopis, alaneel (C12–C13)","Huul, suuõõs, neel (C00–C14)",Mehed,20,0,0,0,0,0,0,0,0,0,1,2,5,6,2,3,1,0,0
+2009,C12–C13,"..Pirnsopis, alaneel (C12–C13)","Huul, suuõõs, neel (C00–C14)",Mehed,18,0,0,0,0,0,0,0,0,0,0,3,5,5,0,3,1,1,0
+2000,C12–C13,"..Pirnsopis, alaneel (C12–C13)","Huul, suuõõs, neel (C00–C14)",Naised,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2001,C12–C13,"..Pirnsopis, alaneel (C12–C13)","Huul, suuõõs, neel (C00–C14)",Naised,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2002,C12–C13,"..Pirnsopis, alaneel (C12–C13)","Huul, suuõõs, neel (C00–C14)",Naised,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+2003,C12–C13,"..Pirnsopis, alaneel (C12–C13)","Huul, suuõõs, neel (C00–C14)",Naised,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2004,C12–C13,"..Pirnsopis, alaneel (C12–C13)","Huul, suuõõs, neel (C00–C14)",Naised,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2005,C12–C13,"..Pirnsopis, alaneel (C12–C13)","Huul, suuõõs, neel (C00–C14)",Naised,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2006,C12–C13,"..Pirnsopis, alaneel (C12–C13)","Huul, suuõõs, neel (C00–C14)",Naised,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+2007,C12–C13,"..Pirnsopis, alaneel (C12–C13)","Huul, suuõõs, neel (C00–C14)",Naised,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+2008,C12–C13,"..Pirnsopis, alaneel (C12–C13)","Huul, suuõõs, neel (C00–C14)",Naised,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+2009,C12–C13,"..Pirnsopis, alaneel (C12–C13)","Huul, suuõõs, neel (C00–C14)",Naised,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2000,C14,"..Huul, suuõõs, neel (muu) (C14)","Huul, suuõõs, neel (C00–C14)",Mehed,2,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+2001,C14,"..Huul, suuõõs, neel (muu) (C14)","Huul, suuõõs, neel (C00–C14)",Mehed,5,0,0,0,0,0,0,0,0,1,0,1,0,2,0,1,0,0,0
+2002,C14,"..Huul, suuõõs, neel (muu) (C14)","Huul, suuõõs, neel (C00–C14)",Mehed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2003,C14,"..Huul, suuõõs, neel (muu) (C14)","Huul, suuõõs, neel (C00–C14)",Mehed,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0
+2004,C14,"..Huul, suuõõs, neel (muu) (C14)","Huul, suuõõs, neel (C00–C14)",Mehed,3,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0
+2005,C14,"..Huul, suuõõs, neel (muu) (C14)","Huul, suuõõs, neel (C00–C14)",Mehed,3,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0
+2006,C14,"..Huul, suuõõs, neel (muu) (C14)","Huul, suuõõs, neel (C00–C14)",Mehed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007,C14,"..Huul, suuõõs, neel (muu) (C14)","Huul, suuõõs, neel (C00–C14)",Mehed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2008,C14,"..Huul, suuõõs, neel (muu) (C14)","Huul, suuõõs, neel (C00–C14)",Mehed,3,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0
+2009,C14,"..Huul, suuõõs, neel (muu) (C14)","Huul, suuõõs, neel (C00–C14)",Mehed,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+2000,C14,"..Huul, suuõõs, neel (muu) (C14)","Huul, suuõõs, neel (C00–C14)",Naised,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2001,C14,"..Huul, suuõõs, neel (muu) (C14)","Huul, suuõõs, neel (C00–C14)",Naised,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2002,C14,"..Huul, suuõõs, neel (muu) (C14)","Huul, suuõõs, neel (C00–C14)",Naised,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+2003,C14,"..Huul, suuõõs, neel (muu) (C14)","Huul, suuõõs, neel (C00–C14)",Naised,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2004,C14,"..Huul, suuõõs, neel (muu) (C14)","Huul, suuõõs, neel (C00–C14)",Naised,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2005,C14,"..Huul, suuõõs, neel (muu) (C14)","Huul, suuõõs, neel (C00–C14)",Naised,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+2006,C14,"..Huul, suuõõs, neel (muu) (C14)","Huul, suuõõs, neel (C00–C14)",Naised,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007,C14,"..Huul, suuõõs, neel (muu) (C14)","Huul, suuõõs, neel (C00–C14)",Naised,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2008,C14,"..Huul, suuõõs, neel (muu) (C14)","Huul, suuõõs, neel (C00–C14)",Naised,2,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0
+2009,C14,"..Huul, suuõõs, neel (muu) (C14)","Huul, suuõõs, neel (C00–C14)",Naised,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+2000,C15,..Söögitoru (C15),Seedeelundid (C15–C26),Mehed,48,0,0,0,0,0,0,0,0,3,4,3,10,7,2,7,9,0,3
+2001,C15,..Söögitoru (C15),Seedeelundid (C15–C26),Mehed,44,0,0,0,0,0,0,0,0,0,1,5,4,8,17,6,1,0,2
+2002,C15,..Söögitoru (C15),Seedeelundid (C15–C26),Mehed,45,0,0,0,0,0,0,0,1,0,4,2,5,8,13,7,4,1,0
+2003,C15,..Söögitoru (C15),Seedeelundid (C15–C26),Mehed,38,0,0,0,0,0,0,1,0,0,2,6,6,11,5,3,2,1,1
+2004,C15,..Söögitoru (C15),Seedeelundid (C15–C26),Mehed,61,0,0,0,0,0,0,0,0,0,5,9,11,12,11,3,5,3,2
+2005,C15,..Söögitoru (C15),Seedeelundid (C15–C26),Mehed,48,0,0,0,0,0,0,0,0,0,3,9,7,3,10,8,6,1,1
+2006,C15,..Söögitoru (C15),Seedeelundid (C15–C26),Mehed,54,0,0,0,0,0,0,0,0,1,2,8,13,6,10,6,5,2,1
+2007,C15,..Söögitoru (C15),Seedeelundid (C15–C26),Mehed,49,0,0,0,0,0,0,0,0,1,1,9,6,9,8,7,5,3,0
+2008,C15,..Söögitoru (C15),Seedeelundid (C15–C26),Mehed,67,0,0,0,0,0,0,0,0,0,5,10,9,12,14,8,6,3,0
+2009,C15,..Söögitoru (C15),Seedeelundid (C15–C26),Mehed,54,0,0,0,0,0,0,0,1,0,1,7,7,7,14,10,2,4,1
+2000,C15,..Söögitoru (C15),Seedeelundid (C15–C26),Naised,9,0,0,0,0,0,0,0,0,0,1,0,1,1,0,2,3,1,0
+2001,C15,..Söögitoru (C15),Seedeelundid (C15–C26),Naised,11,0,0,0,0,0,0,0,0,0,0,0,0,1,6,1,2,1,0
+2002,C15,..Söögitoru (C15),Seedeelundid (C15–C26),Naised,6,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,0,2,1
+2003,C15,..Söögitoru (C15),Seedeelundid (C15–C26),Naised,15,0,0,0,0,0,0,0,0,0,0,0,1,2,2,2,6,2,0
+2004,C15,..Söögitoru (C15),Seedeelundid (C15–C26),Naised,7,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,2,1,1
+2005,C15,..Söögitoru (C15),Seedeelundid (C15–C26),Naised,12,0,0,0,0,0,0,0,0,0,0,0,0,0,6,1,1,0,4
+2006,C15,..Söögitoru (C15),Seedeelundid (C15–C26),Naised,12,0,0,0,0,0,0,0,1,0,0,0,0,3,1,1,2,0,4
+2007,C15,..Söögitoru (C15),Seedeelundid (C15–C26),Naised,13,0,0,0,0,0,0,0,0,0,0,0,4,3,3,0,2,0,1
+2008,C15,..Söögitoru (C15),Seedeelundid (C15–C26),Naised,9,0,0,0,0,0,0,0,0,1,0,0,1,1,0,1,2,1,2
+2009,C15,..Söögitoru (C15),Seedeelundid (C15–C26),Naised,9,0,0,0,0,0,0,0,0,0,0,0,2,2,1,1,1,0,2
+2000,C16,..Magu (C16),Seedeelundid (C15–C26),Mehed,273,0,0,0,0,1,0,1,4,2,16,22,25,51,61,44,31,8,7
+2001,C16,..Magu (C16),Seedeelundid (C15–C26),Mehed,226,0,0,0,0,1,0,0,7,9,9,23,23,28,43,40,24,12,7
+2002,C16,..Magu (C16),Seedeelundid (C15–C26),Mehed,225,0,0,0,0,0,0,0,2,7,14,14,16,38,44,42,27,14,7
+2003,C16,..Magu (C16),Seedeelundid (C15–C26),Mehed,241,0,0,0,0,0,0,0,1,10,7,17,31,39,42,36,30,22,6
+2004,C16,..Magu (C16),Seedeelundid (C15–C26),Mehed,215,0,0,0,0,0,0,3,3,3,12,11,22,31,44,40,30,8,8
+2005,C16,..Magu (C16),Seedeelundid (C15–C26),Mehed,228,0,0,0,0,0,1,1,5,3,12,15,22,26,46,44,31,14,8
+2006,C16,..Magu (C16),Seedeelundid (C15–C26),Mehed,242,0,0,0,0,1,0,0,4,6,18,22,20,22,49,37,33,19,11
+2007,C16,..Magu (C16),Seedeelundid (C15–C26),Mehed,233,0,0,0,0,0,0,1,5,4,15,13,26,28,44,42,34,16,5
+2008,C16,..Magu (C16),Seedeelundid (C15–C26),Mehed,226,0,0,0,0,0,0,0,1,5,13,27,19,31,38,44,29,12,7
+2009,C16,..Magu (C16),Seedeelundid (C15–C26),Mehed,211,0,0,0,0,1,1,2,2,4,7,14,29,22,38,49,23,13,6
+2000,C16,..Magu (C16),Seedeelundid (C15–C26),Naised,219,0,0,0,0,0,1,1,8,6,16,10,14,23,30,42,30,22,16
+2001,C16,..Magu (C16),Seedeelundid (C15–C26),Naised,168,0,0,0,0,0,0,2,2,2,3,20,10,14,23,33,31,14,14
+2002,C16,..Magu (C16),Seedeelundid (C15–C26),Naised,195,0,0,0,0,1,1,3,0,5,10,9,14,21,28,29,36,23,15
+2003,C16,..Magu (C16),Seedeelundid (C15–C26),Naised,196,0,0,0,0,0,1,1,2,7,7,11,9,26,23,33,39,20,17
+2004,C16,..Magu (C16),Seedeelundid (C15–C26),Naised,210,0,0,1,0,0,1,2,1,6,7,15,16,14,41,31,30,29,16
+2005,C16,..Magu (C16),Seedeelundid (C15–C26),Naised,207,0,0,0,0,0,0,1,5,4,7,11,15,15,25,46,39,28,11
+2006,C16,..Magu (C16),Seedeelundid (C15–C26),Naised,209,0,0,0,0,1,0,2,0,5,6,12,18,15,27,35,43,29,16
+2007,C16,..Magu (C16),Seedeelundid (C15–C26),Naised,189,0,0,0,1,0,0,3,3,6,2,7,11,16,37,29,32,26,16
+2008,C16,..Magu (C16),Seedeelundid (C15–C26),Naised,185,0,0,0,0,0,0,0,1,1,7,6,15,16,24,37,31,30,17
+2009,C16,..Magu (C16),Seedeelundid (C15–C26),Naised,174,0,0,0,0,0,1,3,1,3,13,7,11,19,19,30,27,23,17
+2000,C17,..Peensool (C17),Seedeelundid (C15–C26),Mehed,4,0,0,0,0,0,0,0,0,0,0,0,2,1,0,1,0,0,0
+2001,C17,..Peensool (C17),Seedeelundid (C15–C26),Mehed,3,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0
+2002,C17,..Peensool (C17),Seedeelundid (C15–C26),Mehed,7,0,0,0,0,0,0,0,0,1,0,1,0,2,1,1,1,0,0
+2003,C17,..Peensool (C17),Seedeelundid (C15–C26),Mehed,10,0,0,0,0,0,0,0,0,0,0,2,1,3,2,0,2,0,0
+2004,C17,..Peensool (C17),Seedeelundid (C15–C26),Mehed,3,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0
+2005,C17,..Peensool (C17),Seedeelundid (C15–C26),Mehed,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0
+2006,C17,..Peensool (C17),Seedeelundid (C15–C26),Mehed,4,0,0,0,0,0,0,0,0,0,2,0,0,2,0,0,0,0,0
+2007,C17,..Peensool (C17),Seedeelundid (C15–C26),Mehed,5,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,1,0,0
+2008,C17,..Peensool (C17),Seedeelundid (C15–C26),Mehed,5,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,2,0,0
+2009,C17,..Peensool (C17),Seedeelundid (C15–C26),Mehed,8,0,0,0,0,0,0,0,0,0,0,1,0,1,1,2,0,2,1
+2000,C17,..Peensool (C17),Seedeelundid (C15–C26),Naised,6,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2,0,0,0
+2001,C17,..Peensool (C17),Seedeelundid (C15–C26),Naised,6,0,0,0,0,0,0,1,0,0,0,1,0,0,1,0,1,1,1
+2002,C17,..Peensool (C17),Seedeelundid (C15–C26),Naised,12,0,0,0,0,0,0,0,0,0,3,1,1,1,2,1,2,1,0
+2003,C17,..Peensool (C17),Seedeelundid (C15–C26),Naised,2,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0
+2004,C17,..Peensool (C17),Seedeelundid (C15–C26),Naised,5,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,1,0,0
+2005,C17,..Peensool (C17),Seedeelundid (C15–C26),Naised,8,0,0,0,0,0,0,0,0,0,0,1,1,0,1,3,2,0,0
+2006,C17,..Peensool (C17),Seedeelundid (C15–C26),Naised,6,0,0,0,0,0,0,0,0,0,0,0,1,0,1,2,1,0,1
+2007,C17,..Peensool (C17),Seedeelundid (C15–C26),Naised,10,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2,4,0,0
+2008,C17,..Peensool (C17),Seedeelundid (C15–C26),Naised,7,0,0,0,0,0,0,0,0,0,0,1,0,2,1,0,2,0,1
+2009,C17,..Peensool (C17),Seedeelundid (C15–C26),Naised,17,0,0,0,0,0,0,0,0,1,1,2,1,1,5,2,3,1,0
+2000,C18,..Käärsool (C18),Seedeelundid (C15–C26),Mehed,171,0,0,0,0,0,0,1,0,3,5,10,11,28,26,46,21,14,6
+2001,C18,..Käärsool (C18),Seedeelundid (C15–C26),Mehed,186,0,0,0,0,0,0,1,2,6,5,15,7,23,39,49,28,8,3
+2002,C18,..Käärsool (C18),Seedeelundid (C15–C26),Mehed,180,0,0,0,0,0,0,0,1,1,3,7,17,24,33,42,34,13,5
+2003,C18,..Käärsool (C18),Seedeelundid (C15–C26),Mehed,162,0,0,0,0,0,0,0,1,1,5,6,17,11,39,39,27,12,4
+2004,C18,..Käärsool (C18),Seedeelundid (C15–C26),Mehed,172,0,0,0,0,0,0,1,1,1,3,13,16,15,35,36,30,16,5
+2005,C18,..Käärsool (C18),Seedeelundid (C15–C26),Mehed,182,0,0,0,0,0,0,0,1,1,7,5,24,26,31,35,29,15,8
+2006,C18,..Käärsool (C18),Seedeelundid (C15–C26),Mehed,195,0,0,0,1,0,0,0,3,2,4,10,13,23,34,39,37,20,9
+2007,C18,..Käärsool (C18),Seedeelundid (C15–C26),Mehed,231,0,0,0,0,0,0,1,1,4,4,13,18,28,48,49,37,19,9
+2008,C18,..Käärsool (C18),Seedeelundid (C15–C26),Mehed,205,0,0,0,0,0,0,0,4,7,8,7,17,16,39,44,27,26,10
+2009,C18,..Käärsool (C18),Seedeelundid (C15–C26),Mehed,204,0,0,0,0,1,0,1,2,0,2,4,17,28,29,44,45,25,6
+2000,C18,..Käärsool (C18),Seedeelundid (C15–C26),Naised,217,0,0,0,0,0,0,1,3,4,2,10,12,27,33,47,40,17,21
+2001,C18,..Käärsool (C18),Seedeelundid (C15–C26),Naised,237,0,0,0,0,0,0,0,0,7,5,8,20,22,34,61,55,11,14
+2002,C18,..Käärsool (C18),Seedeelundid (C15–C26),Naised,254,0,0,0,0,0,0,0,2,8,8,14,13,22,39,54,40,24,30
+2003,C18,..Käärsool (C18),Seedeelundid (C15–C26),Naised,220,0,0,0,0,0,0,0,0,3,7,6,9,27,36,49,40,27,16
+2004,C18,..Käärsool (C18),Seedeelundid (C15–C26),Naised,272,0,0,0,0,0,0,1,1,5,9,12,15,22,30,49,66,33,29
+2005,C18,..Käärsool (C18),Seedeelundid (C15–C26),Naised,239,0,0,0,0,0,0,0,0,4,5,11,12,33,32,43,44,32,23
+2006,C18,..Käärsool (C18),Seedeelundid (C15–C26),Naised,271,0,0,0,0,0,0,0,1,5,4,15,14,18,41,57,52,44,20
+2007,C18,..Käärsool (C18),Seedeelundid (C15–C26),Naised,247,0,0,0,0,0,0,1,2,2,8,12,22,19,33,40,49,43,16
+2008,C18,..Käärsool (C18),Seedeelundid (C15–C26),Naised,294,0,0,0,0,0,0,0,4,3,8,8,20,21,33,56,64,48,29
+2009,C18,..Käärsool (C18),Seedeelundid (C15–C26),Naised,244,0,0,0,0,0,0,0,0,1,5,13,18,25,20,56,46,42,18
+2000,C19–C21,..Pärasool jm. (C19–C21),Seedeelundid (C15–C26),Mehed,146,0,0,0,0,0,1,0,1,1,3,9,13,24,25,37,19,8,5
+2001,C19–C21,..Pärasool jm. (C19–C21),Seedeelundid (C15–C26),Mehed,116,0,0,0,0,0,0,0,0,2,2,4,13,28,19,26,11,8,3
+2002,C19–C21,..Pärasool jm. (C19–C21),Seedeelundid (C15–C26),Mehed,132,0,0,0,0,0,0,0,3,0,4,2,14,22,27,27,21,6,6
+2003,C19–C21,..Pärasool jm. (C19–C21),Seedeelundid (C15–C26),Mehed,154,0,0,0,0,0,3,0,1,1,4,3,13,31,32,29,22,9,6
+2004,C19–C21,..Pärasool jm. (C19–C21),Seedeelundid (C15–C26),Mehed,163,0,0,0,0,0,0,0,1,1,9,7,15,23,32,30,28,13,4
+2005,C19–C21,..Pärasool jm. (C19–C21),Seedeelundid (C15–C26),Mehed,155,0,0,0,0,0,0,1,1,1,8,10,9,14,31,34,32,8,6
+2006,C19–C21,..Pärasool jm. (C19–C21),Seedeelundid (C15–C26),Mehed,154,0,0,0,0,0,0,1,0,2,3,13,10,29,24,31,26,11,4
+2007,C19–C21,..Pärasool jm. (C19–C21),Seedeelundid (C15–C26),Mehed,134,0,0,0,0,0,0,1,0,0,3,5,14,12,24,30,27,11,7
+2008,C19–C21,..Pärasool jm. (C19–C21),Seedeelundid (C15–C26),Mehed,141,0,0,0,0,0,0,0,1,0,1,6,12,19,24,36,28,8,6
+2009,C19–C21,..Pärasool jm. (C19–C21),Seedeelundid (C15–C26),Mehed,163,0,0,0,0,0,0,2,2,2,4,11,13,22,23,38,18,17,11
+2000,C19–C21,..Pärasool jm. (C19–C21),Seedeelundid (C15–C26),Naised,146,0,0,0,0,0,0,0,3,7,3,5,9,19,18,21,34,11,16
+2001,C19–C21,..Pärasool jm. (C19–C21),Seedeelundid (C15–C26),Naised,134,0,0,0,0,0,0,0,1,0,3,12,6,18,20,32,19,11,12
+2002,C19–C21,..Pärasool jm. (C19–C21),Seedeelundid (C15–C26),Naised,135,0,0,0,0,0,0,0,0,3,5,7,6,14,20,36,21,11,12
+2003,C19–C21,..Pärasool jm. (C19–C21),Seedeelundid (C15–C26),Naised,148,0,0,0,0,0,1,0,1,1,1,6,5,14,17,28,39,22,13
+2004,C19–C21,..Pärasool jm. (C19–C21),Seedeelundid (C15–C26),Naised,154,0,0,0,0,0,0,0,1,3,7,5,18,16,25,27,26,18,8
+2005,C19–C21,..Pärasool jm. (C19–C21),Seedeelundid (C15–C26),Naised,153,0,0,0,0,0,1,0,4,4,4,12,6,13,25,16,39,20,9
+2006,C19–C21,..Pärasool jm. (C19–C21),Seedeelundid (C15–C26),Naised,152,0,0,0,0,0,0,1,2,1,3,6,18,21,21,20,23,21,15
+2007,C19–C21,..Pärasool jm. (C19–C21),Seedeelundid (C15–C26),Naised,147,0,0,0,0,0,0,0,2,0,0,4,9,11,22,28,26,31,14
+2008,C19–C21,..Pärasool jm. (C19–C21),Seedeelundid (C15–C26),Naised,137,0,0,0,0,0,0,0,2,1,6,8,4,9,18,33,31,17,8
+2009,C19–C21,..Pärasool jm. (C19–C21),Seedeelundid (C15–C26),Naised,165,0,0,0,0,0,0,0,1,1,4,7,19,17,15,29,22,27,23
+2000,C22,..Maks jm. (C22),Seedeelundid (C15–C26),Mehed,39,1,0,0,0,0,0,0,0,1,1,1,6,10,7,8,3,1,0
+2001,C22,..Maks jm. (C22),Seedeelundid (C15–C26),Mehed,40,0,0,0,1,0,0,0,1,2,0,3,1,9,5,5,9,2,2
+2002,C22,..Maks jm. (C22),Seedeelundid (C15–C26),Mehed,31,0,0,0,0,0,0,1,1,0,0,3,2,5,5,9,3,0,2
+2003,C22,..Maks jm. (C22),Seedeelundid (C15–C26),Mehed,35,0,0,0,0,0,0,0,0,2,0,3,1,11,9,5,4,0,0
+2004,C22,..Maks jm. (C22),Seedeelundid (C15–C26),Mehed,47,1,0,0,0,0,0,0,0,1,3,2,4,4,8,8,7,5,4
+2005,C22,..Maks jm. (C22),Seedeelundid (C15–C26),Mehed,40,0,0,0,0,0,0,0,1,0,1,2,2,8,7,6,8,4,1
+2006,C22,..Maks jm. (C22),Seedeelundid (C15–C26),Mehed,42,0,0,0,0,0,0,0,0,3,0,3,2,5,8,8,9,3,1
+2007,C22,..Maks jm. (C22),Seedeelundid (C15–C26),Mehed,45,0,0,0,0,0,0,1,0,0,0,3,4,6,13,7,5,5,1
+2008,C22,..Maks jm. (C22),Seedeelundid (C15–C26),Mehed,50,0,0,0,0,0,0,0,2,0,2,4,8,6,7,9,4,7,1
+2009,C22,..Maks jm. (C22),Seedeelundid (C15–C26),Mehed,63,0,0,0,0,0,1,0,0,3,2,6,7,8,10,10,8,6,2
+2000,C22,..Maks jm. (C22),Seedeelundid (C15–C26),Naised,23,0,0,0,0,0,0,0,0,0,0,2,4,3,4,3,2,1,4
+2001,C22,..Maks jm. (C22),Seedeelundid (C15–C26),Naised,31,1,0,0,0,0,1,0,0,0,1,0,2,6,6,5,5,2,2
+2002,C22,..Maks jm. (C22),Seedeelundid (C15–C26),Naised,39,0,2,0,0,0,0,1,0,0,1,0,1,4,5,6,12,4,3
+2003,C22,..Maks jm. (C22),Seedeelundid (C15–C26),Naised,34,1,0,0,0,0,0,0,0,1,1,0,2,3,4,6,9,4,3
+2004,C22,..Maks jm. (C22),Seedeelundid (C15–C26),Naised,26,0,0,0,0,0,0,0,0,1,1,1,0,4,0,3,5,8,3
+2005,C22,..Maks jm. (C22),Seedeelundid (C15–C26),Naised,44,0,0,1,0,0,0,0,1,0,2,0,3,4,7,8,10,5,3
+2006,C22,..Maks jm. (C22),Seedeelundid (C15–C26),Naised,39,0,0,0,0,0,0,1,0,1,1,3,3,7,2,6,6,6,3
+2007,C22,..Maks jm. (C22),Seedeelundid (C15–C26),Naised,31,0,0,0,0,0,0,1,0,0,0,0,3,5,4,3,6,4,5
+2008,C22,..Maks jm. (C22),Seedeelundid (C15–C26),Naised,42,0,0,0,0,0,0,0,1,1,0,3,5,4,1,7,10,8,2
+2009,C22,..Maks jm. (C22),Seedeelundid (C15–C26),Naised,39,0,0,0,0,0,0,0,0,0,1,3,1,5,3,6,6,8,6
+2000,C23–C24,..Sapipõis jm. (C23–C24),Seedeelundid (C15–C26),Mehed,11,0,0,0,0,0,0,0,0,1,0,1,1,1,3,1,1,1,1
+2001,C23–C24,..Sapipõis jm. (C23–C24),Seedeelundid (C15–C26),Mehed,18,0,0,0,0,0,0,0,0,0,2,2,3,1,3,5,1,1,0
+2002,C23–C24,..Sapipõis jm. (C23–C24),Seedeelundid (C15–C26),Mehed,18,0,0,0,0,0,0,1,0,0,0,0,2,2,5,3,3,2,0
+2003,C23–C24,..Sapipõis jm. (C23–C24),Seedeelundid (C15–C26),Mehed,17,0,0,0,0,0,0,0,0,0,1,0,2,1,1,4,4,3,1
+2004,C23–C24,..Sapipõis jm. (C23–C24),Seedeelundid (C15–C26),Mehed,25,0,0,0,0,0,0,0,0,0,0,1,2,7,2,6,6,0,1
+2005,C23–C24,..Sapipõis jm. (C23–C24),Seedeelundid (C15–C26),Mehed,13,0,0,0,0,0,0,0,0,2,1,0,3,0,2,3,0,0,2
+2006,C23–C24,..Sapipõis jm. (C23–C24),Seedeelundid (C15–C26),Mehed,8,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,2,1,0
+2007,C23–C24,..Sapipõis jm. (C23–C24),Seedeelundid (C15–C26),Mehed,20,0,0,0,0,0,0,0,0,0,2,1,1,4,3,4,2,1,2
+2008,C23–C24,..Sapipõis jm. (C23–C24),Seedeelundid (C15–C26),Mehed,13,0,0,0,0,0,0,0,0,0,0,1,2,1,2,0,5,2,0
+2009,C23–C24,..Sapipõis jm. (C23–C24),Seedeelundid (C15–C26),Mehed,18,0,0,0,0,0,0,0,0,0,0,0,2,2,3,2,6,2,1
+2000,C23–C24,..Sapipõis jm. (C23–C24),Seedeelundid (C15–C26),Naised,32,0,0,0,0,0,0,0,0,0,0,0,3,6,6,5,7,2,3
+2001,C23–C24,..Sapipõis jm. (C23–C24),Seedeelundid (C15–C26),Naised,25,0,0,0,0,0,0,0,0,1,0,2,0,0,11,3,2,3,3
+2002,C23–C24,..Sapipõis jm. (C23–C24),Seedeelundid (C15–C26),Naised,34,0,0,0,0,0,0,0,0,0,0,0,3,7,5,4,9,1,5
+2003,C23–C24,..Sapipõis jm. (C23–C24),Seedeelundid (C15–C26),Naised,29,0,0,0,0,0,0,0,0,0,0,0,0,2,9,7,6,4,1
+2004,C23–C24,..Sapipõis jm. (C23–C24),Seedeelundid (C15–C26),Naised,34,0,0,0,0,0,0,0,1,0,1,0,3,4,4,3,7,5,6
+2005,C23–C24,..Sapipõis jm. (C23–C24),Seedeelundid (C15–C26),Naised,26,0,0,0,0,0,0,0,0,0,0,1,2,1,3,4,7,7,1
+2006,C23–C24,..Sapipõis jm. (C23–C24),Seedeelundid (C15–C26),Naised,36,0,0,0,0,0,0,0,0,0,1,0,1,4,6,7,9,6,2
+2007,C23–C24,..Sapipõis jm. (C23–C24),Seedeelundid (C15–C26),Naised,27,0,0,0,0,0,0,0,0,0,0,1,0,1,2,7,2,9,5
+2008,C23–C24,..Sapipõis jm. (C23–C24),Seedeelundid (C15–C26),Naised,30,0,0,0,0,0,0,0,0,0,0,2,0,3,2,8,7,4,4
+2009,C23–C24,..Sapipõis jm. (C23–C24),Seedeelundid (C15–C26),Naised,24,0,0,0,0,0,0,0,0,0,1,1,1,4,1,3,1,6,6
+2000,C25,..Kõhunääre (C25),Seedeelundid (C15–C26),Mehed,97,0,0,0,0,0,0,2,1,3,5,8,8,16,19,20,10,0,5
+2001,C25,..Kõhunääre (C25),Seedeelundid (C15–C26),Mehed,98,0,0,0,0,0,0,1,1,7,8,8,7,17,21,17,6,3,2
+2002,C25,..Kõhunääre (C25),Seedeelundid (C15–C26),Mehed,88,0,0,0,0,0,0,0,1,1,3,9,10,23,19,10,10,2,0
+2003,C25,..Kõhunääre (C25),Seedeelundid (C15–C26),Mehed,114,0,0,0,0,0,0,0,1,1,5,11,14,21,17,21,12,4,7
+2004,C25,..Kõhunääre (C25),Seedeelundid (C15–C26),Mehed,97,0,0,0,0,0,0,1,1,3,3,7,13,12,14,21,10,5,7
+2005,C25,..Kõhunääre (C25),Seedeelundid (C15–C26),Mehed,103,0,0,0,0,0,0,1,2,3,3,11,13,7,24,20,13,6,0
+2006,C25,..Kõhunääre (C25),Seedeelundid (C15–C26),Mehed,139,0,0,0,0,0,0,0,1,4,4,12,18,14,23,23,23,10,7
+2007,C25,..Kõhunääre (C25),Seedeelundid (C15–C26),Mehed,105,0,0,0,0,0,0,1,1,1,4,10,14,16,15,19,12,10,2
+2008,C25,..Kõhunääre (C25),Seedeelundid (C15–C26),Mehed,113,0,0,0,0,0,0,0,2,2,2,9,16,11,14,22,19,8,8
+2009,C25,..Kõhunääre (C25),Seedeelundid (C15–C26),Mehed,110,0,0,0,0,0,0,0,0,1,5,9,11,14,22,22,12,7,7
+2000,C25,..Kõhunääre (C25),Seedeelundid (C15–C26),Naised,98,0,0,0,0,0,0,0,1,1,2,5,8,13,13,19,18,11,7
+2001,C25,..Kõhunääre (C25),Seedeelundid (C15–C26),Naised,97,0,0,0,0,0,0,0,0,1,5,2,7,8,13,21,21,8,11
+2002,C25,..Kõhunääre (C25),Seedeelundid (C15–C26),Naised,92,0,0,0,0,0,0,0,0,0,3,3,3,15,11,12,22,11,12
+2003,C25,..Kõhunääre (C25),Seedeelundid (C15–C26),Naised,93,0,0,0,0,0,0,0,1,1,0,2,5,5,19,19,17,11,13
+2004,C25,..Kõhunääre (C25),Seedeelundid (C15–C26),Naised,109,0,0,0,0,0,0,0,0,1,2,4,8,11,20,13,16,23,11
+2005,C25,..Kõhunääre (C25),Seedeelundid (C15–C26),Naised,73,0,0,0,0,0,0,0,0,1,2,7,5,9,8,10,19,9,3
+2006,C25,..Kõhunääre (C25),Seedeelundid (C15–C26),Naised,124,0,0,0,0,0,0,1,2,0,3,4,8,13,17,14,22,23,17
+2007,C25,..Kõhunääre (C25),Seedeelundid (C15–C26),Naised,118,0,0,0,0,0,0,0,1,0,5,5,4,9,18,21,20,22,13
+2008,C25,..Kõhunääre (C25),Seedeelundid (C15–C26),Naised,152,0,0,0,0,0,0,0,0,1,2,4,8,13,25,24,28,22,25
+2009,C25,..Kõhunääre (C25),Seedeelundid (C15–C26),Naised,133,0,0,0,0,0,0,0,0,1,2,3,15,8,17,23,24,20,20
+2000,C26,..Seedeelundid (muu) (C26),Seedeelundid (C15–C26),Mehed,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0
+2001,C26,..Seedeelundid (muu) (C26),Seedeelundid (C15–C26),Mehed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2002,C26,..Seedeelundid (muu) (C26),Seedeelundid (C15–C26),Mehed,3,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2,0,0
+2003,C26,..Seedeelundid (muu) (C26),Seedeelundid (C15–C26),Mehed,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+2004,C26,..Seedeelundid (muu) (C26),Seedeelundid (C15–C26),Mehed,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0
+2005,C26,..Seedeelundid (muu) (C26),Seedeelundid (C15–C26),Mehed,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+2006,C26,..Seedeelundid (muu) (C26),Seedeelundid (C15–C26),Mehed,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0
+2007,C26,..Seedeelundid (muu) (C26),Seedeelundid (C15–C26),Mehed,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0
+2008,C26,..Seedeelundid (muu) (C26),Seedeelundid (C15–C26),Mehed,2,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+2009,C26,..Seedeelundid (muu) (C26),Seedeelundid (C15–C26),Mehed,4,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,0,0
+2000,C26,..Seedeelundid (muu) (C26),Seedeelundid (C15–C26),Naised,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+2001,C26,..Seedeelundid (muu) (C26),Seedeelundid (C15–C26),Naised,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+2002,C26,..Seedeelundid (muu) (C26),Seedeelundid (C15–C26),Naised,5,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,1,1
+2003,C26,..Seedeelundid (muu) (C26),Seedeelundid (C15–C26),Naised,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+2004,C26,..Seedeelundid (muu) (C26),Seedeelundid (C15–C26),Naised,4,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,0
+2005,C26,..Seedeelundid (muu) (C26),Seedeelundid (C15–C26),Naised,4,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1
+2006,C26,..Seedeelundid (muu) (C26),Seedeelundid (C15–C26),Naised,4,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,0,0
+2007,C26,..Seedeelundid (muu) (C26),Seedeelundid (C15–C26),Naised,4,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,1
+2008,C26,..Seedeelundid (muu) (C26),Seedeelundid (C15–C26),Naised,5,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,2,1,0
+2009,C26,..Seedeelundid (muu) (C26),Seedeelundid (C15–C26),Naised,10,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,2,4,2
+2000,C30–C31,"..Ninaõõs, kõrv, ninakõrvalurked (C30–C31)","Hingamis-, rindkeresisesed elundid (C30–C39)",Mehed,10,0,0,0,0,1,0,0,1,0,1,0,2,1,3,1,0,0,0
+2001,C30–C31,"..Ninaõõs, kõrv, ninakõrvalurked (C30–C31)","Hingamis-, rindkeresisesed elundid (C30–C39)",Mehed,5,0,0,0,0,0,1,0,0,0,1,0,1,1,1,0,0,0,0
+2002,C30–C31,"..Ninaõõs, kõrv, ninakõrvalurked (C30–C31)","Hingamis-, rindkeresisesed elundid (C30–C39)",Mehed,10,0,0,0,0,0,1,0,0,0,0,0,1,5,1,1,1,0,0
+2003,C30–C31,"..Ninaõõs, kõrv, ninakõrvalurked (C30–C31)","Hingamis-, rindkeresisesed elundid (C30–C39)",Mehed,4,0,0,0,0,0,0,0,0,0,0,1,0,1,2,0,0,0,0
+2004,C30–C31,"..Ninaõõs, kõrv, ninakõrvalurked (C30–C31)","Hingamis-, rindkeresisesed elundid (C30–C39)",Mehed,14,0,1,0,0,0,0,0,0,0,1,1,4,3,0,1,3,0,0
+2005,C30–C31,"..Ninaõõs, kõrv, ninakõrvalurked (C30–C31)","Hingamis-, rindkeresisesed elundid (C30–C39)",Mehed,5,0,0,0,0,0,0,0,0,0,0,0,2,1,0,2,0,0,0
+2006,C30–C31,"..Ninaõõs, kõrv, ninakõrvalurked (C30–C31)","Hingamis-, rindkeresisesed elundid (C30–C39)",Mehed,12,0,0,0,0,0,0,0,0,0,2,2,1,4,2,0,1,0,0
+2007,C30–C31,"..Ninaõõs, kõrv, ninakõrvalurked (C30–C31)","Hingamis-, rindkeresisesed elundid (C30–C39)",Mehed,7,0,0,0,0,0,0,0,0,0,3,0,1,0,0,1,1,1,0
+2008,C30–C31,"..Ninaõõs, kõrv, ninakõrvalurked (C30–C31)","Hingamis-, rindkeresisesed elundid (C30–C39)",Mehed,6,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,1,2,0
+2009,C30–C31,"..Ninaõõs, kõrv, ninakõrvalurked (C30–C31)","Hingamis-, rindkeresisesed elundid (C30–C39)",Mehed,9,0,0,0,0,0,0,0,0,0,0,2,0,3,0,2,0,1,1
+2000,C30–C31,"..Ninaõõs, kõrv, ninakõrvalurked (C30–C31)","Hingamis-, rindkeresisesed elundid (C30–C39)",Naised,7,0,0,0,0,0,0,0,0,1,0,1,0,0,3,0,1,0,1
+2001,C30–C31,"..Ninaõõs, kõrv, ninakõrvalurked (C30–C31)","Hingamis-, rindkeresisesed elundid (C30–C39)",Naised,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0
+2002,C30–C31,"..Ninaõõs, kõrv, ninakõrvalurked (C30–C31)","Hingamis-, rindkeresisesed elundid (C30–C39)",Naised,6,0,0,0,0,0,0,0,0,0,1,0,0,0,2,1,1,1,0
+2003,C30–C31,"..Ninaõõs, kõrv, ninakõrvalurked (C30–C31)","Hingamis-, rindkeresisesed elundid (C30–C39)",Naised,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+2004,C30–C31,"..Ninaõõs, kõrv, ninakõrvalurked (C30–C31)","Hingamis-, rindkeresisesed elundid (C30–C39)",Naised,5,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,2,1
+2005,C30–C31,"..Ninaõõs, kõrv, ninakõrvalurked (C30–C31)","Hingamis-, rindkeresisesed elundid (C30–C39)",Naised,4,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,1
+2006,C30–C31,"..Ninaõõs, kõrv, ninakõrvalurked (C30–C31)","Hingamis-, rindkeresisesed elundid (C30–C39)",Naised,3,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0
+2007,C30–C31,"..Ninaõõs, kõrv, ninakõrvalurked (C30–C31)","Hingamis-, rindkeresisesed elundid (C30–C39)",Naised,6,0,0,0,0,0,0,0,0,1,0,0,0,0,3,1,0,1,0
+2008,C30–C31,"..Ninaõõs, kõrv, ninakõrvalurked (C30–C31)","Hingamis-, rindkeresisesed elundid (C30–C39)",Naised,4,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,1
+2009,C30–C31,"..Ninaõõs, kõrv, ninakõrvalurked (C30–C31)","Hingamis-, rindkeresisesed elundid (C30–C39)",Naised,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+2000,C32, ..Kõri (C32),"Hingamis-, rindkeresisesed elundid (C30–C39)",Mehed,72,0,0,0,0,0,0,0,1,3,6,9,14,16,12,8,2,1,0
+2001,C32, ..Kõri (C32),"Hingamis-, rindkeresisesed elundid (C30–C39)",Mehed,60,0,0,0,0,0,0,0,0,1,6,14,7,9,12,3,5,1,2
+2002,C32, ..Kõri (C32),"Hingamis-, rindkeresisesed elundid (C30–C39)",Mehed,75,0,0,0,0,0,0,0,2,4,7,5,11,11,17,13,3,2,0
+2003,C32, ..Kõri (C32),"Hingamis-, rindkeresisesed elundid (C30–C39)",Mehed,47,0,0,0,0,0,0,0,0,1,4,7,8,6,6,9,3,3,0
+2004,C32, ..Kõri (C32),"Hingamis-, rindkeresisesed elundid (C30–C39)",Mehed,69,0,0,0,0,0,0,0,0,3,5,5,13,17,10,6,5,4,1
+2005,C32, ..Kõri (C32),"Hingamis-, rindkeresisesed elundid (C30–C39)",Mehed,60,0,0,0,0,0,0,0,0,3,7,8,6,10,12,7,6,1,0
+2006,C32, ..Kõri (C32),"Hingamis-, rindkeresisesed elundid (C30–C39)",Mehed,66,0,0,0,0,0,0,0,0,0,3,7,12,8,16,8,6,4,2
+2007,C32, ..Kõri (C32),"Hingamis-, rindkeresisesed elundid (C30–C39)",Mehed,65,0,0,0,0,0,1,0,2,1,0,7,17,8,13,14,2,0,0
+2008,C32, ..Kõri (C32),"Hingamis-, rindkeresisesed elundid (C30–C39)",Mehed,67,0,0,0,0,0,0,0,0,1,8,7,13,7,10,5,8,6,2
+2009,C32, ..Kõri (C32),"Hingamis-, rindkeresisesed elundid (C30–C39)",Mehed,68,0,0,0,0,0,0,1,0,1,4,8,11,12,12,8,5,5,1
+2000,C32, ..Kõri (C32),"Hingamis-, rindkeresisesed elundid (C30–C39)",Naised,5,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,1,0,0
+2001,C32, ..Kõri (C32),"Hingamis-, rindkeresisesed elundid (C30–C39)",Naised,6,0,0,0,0,0,0,0,0,0,0,2,1,3,0,0,0,0,0
+2002,C32, ..Kõri (C32),"Hingamis-, rindkeresisesed elundid (C30–C39)",Naised,4,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,1,0,0
+2003,C32, ..Kõri (C32),"Hingamis-, rindkeresisesed elundid (C30–C39)",Naised,10,0,0,0,0,0,0,0,0,0,1,2,1,1,2,1,1,1,0
+2004,C32, ..Kõri (C32),"Hingamis-, rindkeresisesed elundid (C30–C39)",Naised,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0
+2005,C32, ..Kõri (C32),"Hingamis-, rindkeresisesed elundid (C30–C39)",Naised,6,0,0,0,0,0,0,0,0,0,0,0,1,2,0,2,0,1,0
+2006,C32, ..Kõri (C32),"Hingamis-, rindkeresisesed elundid (C30–C39)",Naised,3,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0
+2007,C32, ..Kõri (C32),"Hingamis-, rindkeresisesed elundid (C30–C39)",Naised,6,0,0,0,1,0,0,0,1,0,0,0,1,2,1,0,0,0,0
+2008,C32, ..Kõri (C32),"Hingamis-, rindkeresisesed elundid (C30–C39)",Naised,5,0,0,0,0,0,0,0,0,0,0,2,1,0,0,1,1,0,0
+2009,C32, ..Kõri (C32),"Hingamis-, rindkeresisesed elundid (C30–C39)",Naised,7,0,0,0,0,0,0,0,0,0,0,1,0,2,0,1,0,2,1
+2000,C33–C34,"..Hingetoru, bronh, kops (C33–C34)","Hingamis-, rindkeresisesed elundid (C30–C39)",Mehed,583,0,0,0,0,0,1,0,3,5,16,40,81,100,124,127,64,17,5
+2001,C33–C34,"..Hingetoru, bronh, kops (C33–C34)","Hingamis-, rindkeresisesed elundid (C30–C39)",Mehed,632,0,0,0,0,0,0,0,3,9,31,40,68,97,138,136,76,22,12
+2002,C33–C34,"..Hingetoru, bronh, kops (C33–C34)","Hingamis-, rindkeresisesed elundid (C30–C39)",Mehed,624,0,0,0,0,1,0,0,3,6,22,50,64,115,126,134,69,23,11
+2003,C33–C34,"..Hingetoru, bronh, kops (C33–C34)","Hingamis-, rindkeresisesed elundid (C30–C39)",Mehed,610,0,0,0,0,0,1,3,2,9,19,44,64,96,112,128,90,27,15
+2004,C33–C34,"..Hingetoru, bronh, kops (C33–C34)","Hingamis-, rindkeresisesed elundid (C30–C39)",Mehed,603,0,0,0,0,0,0,2,2,5,13,43,58,100,138,122,84,23,13
+2005,C33–C34,"..Hingetoru, bronh, kops (C33–C34)","Hingamis-, rindkeresisesed elundid (C30–C39)",Mehed,582,0,0,0,0,0,0,1,0,6,20,40,61,74,139,115,81,34,11
+2006,C33–C34,"..Hingetoru, bronh, kops (C33–C34)","Hingamis-, rindkeresisesed elundid (C30–C39)",Mehed,611,0,0,0,0,0,0,0,0,3,14,45,62,83,141,119,82,52,10
+2007,C33–C34,"..Hingetoru, bronh, kops (C33–C34)","Hingamis-, rindkeresisesed elundid (C30–C39)",Mehed,636,0,0,0,0,1,0,0,1,1,18,48,78,82,129,118,98,48,14
+2008,C33–C34,"..Hingetoru, bronh, kops (C33–C34)","Hingamis-, rindkeresisesed elundid (C30–C39)",Mehed,575,0,0,0,1,0,0,0,2,5,10,39,67,87,111,89,100,48,16
+2009,C33–C34,"..Hingetoru, bronh, kops (C33–C34)","Hingamis-, rindkeresisesed elundid (C30–C39)",Mehed,550,0,0,0,0,0,0,1,1,1,14,34,55,82,90,129,93,38,12
+2000,C33–C34,"..Hingetoru, bronh, kops (C33–C34)","Hingamis-, rindkeresisesed elundid (C30–C39)",Naised,165,0,0,0,0,1,0,1,2,2,5,9,18,16,17,37,38,12,7
+2001,C33–C34,"..Hingetoru, bronh, kops (C33–C34)","Hingamis-, rindkeresisesed elundid (C30–C39)",Naised,142,0,0,0,0,0,0,0,1,1,1,11,15,16,15,36,25,14,7
+2002,C33–C34,"..Hingetoru, bronh, kops (C33–C34)","Hingamis-, rindkeresisesed elundid (C30–C39)",Naised,143,0,0,0,0,0,0,0,1,3,8,11,13,12,24,27,21,13,10
+2003,C33–C34,"..Hingetoru, bronh, kops (C33–C34)","Hingamis-, rindkeresisesed elundid (C30–C39)",Naised,146,0,0,0,0,0,0,0,0,3,5,8,13,19,12,25,41,15,5
+2004,C33–C34,"..Hingetoru, bronh, kops (C33–C34)","Hingamis-, rindkeresisesed elundid (C30–C39)",Naised,170,0,0,0,0,0,0,2,3,1,3,10,19,22,25,28,27,24,6
+2005,C33–C34,"..Hingetoru, bronh, kops (C33–C34)","Hingamis-, rindkeresisesed elundid (C30–C39)",Naised,154,0,0,0,0,0,0,0,0,3,6,10,9,22,27,19,32,18,8
+2006,C33–C34,"..Hingetoru, bronh, kops (C33–C34)","Hingamis-, rindkeresisesed elundid (C30–C39)",Naised,175,0,0,0,0,0,0,0,0,3,3,13,20,19,30,27,24,26,10
+2007,C33–C34,"..Hingetoru, bronh, kops (C33–C34)","Hingamis-, rindkeresisesed elundid (C30–C39)",Naised,158,0,0,0,0,1,0,0,1,0,5,11,17,14,23,25,29,24,8
+2008,C33–C34,"..Hingetoru, bronh, kops (C33–C34)","Hingamis-, rindkeresisesed elundid (C30–C39)",Naised,165,0,0,0,0,0,0,0,0,0,6,5,13,28,17,24,40,20,12
+2009,C33–C34,"..Hingetoru, bronh, kops (C33–C34)","Hingamis-, rindkeresisesed elundid (C30–C39)",Naised,140,0,0,0,0,0,0,1,0,3,2,5,12,25,22,24,17,23,6
+2000,C37–C38,"..Tüümus, süda, keskseinand, pleura (C37–C38)","Hingamis-, rindkeresisesed elundid (C30–C39)",Mehed,3,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0
+2001,C37–C38,"..Tüümus, süda, keskseinand, pleura (C37–C38)","Hingamis-, rindkeresisesed elundid (C30–C39)",Mehed,2,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0
+2002,C37–C38,"..Tüümus, süda, keskseinand, pleura (C37–C38)","Hingamis-, rindkeresisesed elundid (C30–C39)",Mehed,4,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,1
+2003,C37–C38,"..Tüümus, süda, keskseinand, pleura (C37–C38)","Hingamis-, rindkeresisesed elundid (C30–C39)",Mehed,3,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0
+2004,C37–C38,"..Tüümus, süda, keskseinand, pleura (C37–C38)","Hingamis-, rindkeresisesed elundid (C30–C39)",Mehed,4,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,2,0,0
+2005,C37–C38,"..Tüümus, süda, keskseinand, pleura (C37–C38)","Hingamis-, rindkeresisesed elundid (C30–C39)",Mehed,7,0,0,0,1,0,0,0,0,1,0,1,2,1,0,1,0,0,0
+2006,C37–C38,"..Tüümus, süda, keskseinand, pleura (C37–C38)","Hingamis-, rindkeresisesed elundid (C30–C39)",Mehed,12,0,0,0,1,0,2,1,0,0,0,1,2,2,0,1,1,1,0
+2007,C37–C38,"..Tüümus, süda, keskseinand, pleura (C37–C38)","Hingamis-, rindkeresisesed elundid (C30–C39)",Mehed,5,0,0,0,0,0,0,0,0,0,0,1,0,1,2,0,0,1,0
+2008,C37–C38,"..Tüümus, süda, keskseinand, pleura (C37–C38)","Hingamis-, rindkeresisesed elundid (C30–C39)",Mehed,4,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,1,0
+2009,C37–C38,"..Tüümus, süda, keskseinand, pleura (C37–C38)","Hingamis-, rindkeresisesed elundid (C30–C39)",Mehed,2,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+2000,C37–C38,"..Tüümus, süda, keskseinand, pleura (C37–C38)","Hingamis-, rindkeresisesed elundid (C30–C39)",Naised,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1
+2001,C37–C38,"..Tüümus, süda, keskseinand, pleura (C37–C38)","Hingamis-, rindkeresisesed elundid (C30–C39)",Naised,3,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0
+2002,C37–C38,"..Tüümus, süda, keskseinand, pleura (C37–C38)","Hingamis-, rindkeresisesed elundid (C30–C39)",Naised,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+2003,C37–C38,"..Tüümus, süda, keskseinand, pleura (C37–C38)","Hingamis-, rindkeresisesed elundid (C30–C39)",Naised,2,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0
+2004,C37–C38,"..Tüümus, süda, keskseinand, pleura (C37–C38)","Hingamis-, rindkeresisesed elundid (C30–C39)",Naised,6,0,0,0,0,0,0,1,2,1,0,0,0,1,0,0,0,0,1
+2005,C37–C38,"..Tüümus, süda, keskseinand, pleura (C37–C38)","Hingamis-, rindkeresisesed elundid (C30–C39)",Naised,4,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,1,0
+2006,C37–C38,"..Tüümus, süda, keskseinand, pleura (C37–C38)","Hingamis-, rindkeresisesed elundid (C30–C39)",Naised,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0
+2007,C37–C38,"..Tüümus, süda, keskseinand, pleura (C37–C38)","Hingamis-, rindkeresisesed elundid (C30–C39)",Naised,2,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+2008,C37–C38,"..Tüümus, süda, keskseinand, pleura (C37–C38)","Hingamis-, rindkeresisesed elundid (C30–C39)",Naised,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009,C37–C38,"..Tüümus, süda, keskseinand, pleura (C37–C38)","Hingamis-, rindkeresisesed elundid (C30–C39)",Naised,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2000,C39,..Hingamiselundid jm. (C39),"Hingamis-, rindkeresisesed elundid (C30–C39)",Mehed,3,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0
+2001,C39,..Hingamiselundid jm. (C39),"Hingamis-, rindkeresisesed elundid (C30–C39)",Mehed,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+2002,C39,..Hingamiselundid jm. (C39),"Hingamis-, rindkeresisesed elundid (C30–C39)",Mehed,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+2003,C39,..Hingamiselundid jm. (C39),"Hingamis-, rindkeresisesed elundid (C30–C39)",Mehed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2004,C39,..Hingamiselundid jm. (C39),"Hingamis-, rindkeresisesed elundid (C30–C39)",Mehed,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+2005,C39,..Hingamiselundid jm. (C39),"Hingamis-, rindkeresisesed elundid (C30–C39)",Mehed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2006,C39,..Hingamiselundid jm. (C39),"Hingamis-, rindkeresisesed elundid (C30–C39)",Mehed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007,C39,..Hingamiselundid jm. (C39),"Hingamis-, rindkeresisesed elundid (C30–C39)",Mehed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2008,C39,..Hingamiselundid jm. (C39),"Hingamis-, rindkeresisesed elundid (C30–C39)",Mehed,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+2009,C39,..Hingamiselundid jm. (C39),"Hingamis-, rindkeresisesed elundid (C30–C39)",Mehed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2000,C39,..Hingamiselundid jm. (C39),"Hingamis-, rindkeresisesed elundid (C30–C39)",Naised,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+2001,C39,..Hingamiselundid jm. (C39),"Hingamis-, rindkeresisesed elundid (C30–C39)",Naised,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2002,C39,..Hingamiselundid jm. (C39),"Hingamis-, rindkeresisesed elundid (C30–C39)",Naised,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+2003,C39,..Hingamiselundid jm. (C39),"Hingamis-, rindkeresisesed elundid (C30–C39)",Naised,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2004,C39,..Hingamiselundid jm. (C39),"Hingamis-, rindkeresisesed elundid (C30–C39)",Naised,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+2005,C39,..Hingamiselundid jm. (C39),"Hingamis-, rindkeresisesed elundid (C30–C39)",Naised,2,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0
+2006,C39,..Hingamiselundid jm. (C39),"Hingamis-, rindkeresisesed elundid (C30–C39)",Naised,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007,C39,..Hingamiselundid jm. (C39),"Hingamis-, rindkeresisesed elundid (C30–C39)",Naised,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2008,C39,..Hingamiselundid jm. (C39),"Hingamis-, rindkeresisesed elundid (C30–C39)",Naised,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009,C39,..Hingamiselundid jm. (C39),"Hingamis-, rindkeresisesed elundid (C30–C39)",Naised,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2000,C40–C41,"Luu, liigeskõhr (C40–C41)","Luu, liigeskõhr (C40–C41)",Mehed,9,0,1,2,1,2,0,0,0,1,0,1,1,0,0,0,0,0,0
+2001,C40–C41,"Luu, liigeskõhr (C40–C41)","Luu, liigeskõhr (C40–C41)",Mehed,8,0,0,0,1,1,2,1,1,0,0,1,0,0,0,1,0,0,0
+2002,C40–C41,"Luu, liigeskõhr (C40–C41)","Luu, liigeskõhr (C40–C41)",Mehed,12,0,0,0,4,1,0,0,0,1,0,1,2,1,2,0,0,0,0
+2003,C40–C41,"Luu, liigeskõhr (C40–C41)","Luu, liigeskõhr (C40–C41)",Mehed,10,0,0,0,1,1,0,0,1,1,0,0,0,1,2,3,0,0,0
+2004,C40–C41,"Luu, liigeskõhr (C40–C41)","Luu, liigeskõhr (C40–C41)",Mehed,12,0,1,1,2,0,1,0,0,1,0,1,2,1,1,1,0,0,0
+2005,C40–C41,"Luu, liigeskõhr (C40–C41)","Luu, liigeskõhr (C40–C41)",Mehed,9,0,0,0,3,0,0,0,0,0,0,1,0,4,0,0,1,0,0
+2006,C40–C41,"Luu, liigeskõhr (C40–C41)","Luu, liigeskõhr (C40–C41)",Mehed,11,0,0,0,0,1,0,0,0,0,0,2,2,0,5,1,0,0,0
+2007,C40–C41,"Luu, liigeskõhr (C40–C41)","Luu, liigeskõhr (C40–C41)",Mehed,5,0,1,0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0
+2008,C40–C41,"Luu, liigeskõhr (C40–C41)","Luu, liigeskõhr (C40–C41)",Mehed,15,0,0,0,1,1,0,0,1,2,0,1,2,1,1,2,1,2,0
+2009,C40–C41,"Luu, liigeskõhr (C40–C41)","Luu, liigeskõhr (C40–C41)",Mehed,2,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+2000,C40–C41,"Luu, liigeskõhr (C40–C41)","Luu, liigeskõhr (C40–C41)",Naised,3,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0
+2001,C40–C41,"Luu, liigeskõhr (C40–C41)","Luu, liigeskõhr (C40–C41)",Naised,9,0,2,1,1,0,1,1,0,0,0,0,0,0,1,0,2,0,0
+2002,C40–C41,"Luu, liigeskõhr (C40–C41)","Luu, liigeskõhr (C40–C41)",Naised,5,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,3,0,0
+2003,C40–C41,"Luu, liigeskõhr (C40–C41)","Luu, liigeskõhr (C40–C41)",Naised,2,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+2004,C40–C41,"Luu, liigeskõhr (C40–C41)","Luu, liigeskõhr (C40–C41)",Naised,3,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0
+2005,C40–C41,"Luu, liigeskõhr (C40–C41)","Luu, liigeskõhr (C40–C41)",Naised,5,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,0,1,0
+2006,C40–C41,"Luu, liigeskõhr (C40–C41)","Luu, liigeskõhr (C40–C41)",Naised,5,0,0,0,1,1,0,0,1,0,0,0,0,1,0,1,0,0,0
+2007,C40–C41,"Luu, liigeskõhr (C40–C41)","Luu, liigeskõhr (C40–C41)",Naised,7,0,0,0,1,2,0,0,0,0,0,0,0,1,0,0,1,1,1
+2008,C40–C41,"Luu, liigeskõhr (C40–C41)","Luu, liigeskõhr (C40–C41)",Naised,10,0,0,2,0,1,0,0,0,0,0,2,0,0,1,2,1,0,1
+2009,C40–C41,"Luu, liigeskõhr (C40–C41)","Luu, liigeskõhr (C40–C41)",Naised,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+2000,C43,Nahk (melanoom) (C43),Nahk (melanoom) (C43),Mehed,38,0,0,0,0,1,0,3,1,6,1,4,0,7,3,5,3,3,1
+2001,C43,Nahk (melanoom) (C43),Nahk (melanoom) (C43),Mehed,43,0,0,0,1,0,3,1,2,4,4,2,5,5,4,6,2,1,3
+2002,C43,Nahk (melanoom) (C43),Nahk (melanoom) (C43),Mehed,45,0,0,0,0,0,0,2,2,1,3,5,10,6,7,4,1,2,2
+2003,C43,Nahk (melanoom) (C43),Nahk (melanoom) (C43),Mehed,48,0,0,0,0,0,0,0,2,4,4,6,5,2,7,9,8,0,1
+2004,C43,Nahk (melanoom) (C43),Nahk (melanoom) (C43),Mehed,45,0,0,0,1,0,0,2,4,2,0,6,3,8,7,2,4,3,3
+2005,C43,Nahk (melanoom) (C43),Nahk (melanoom) (C43),Mehed,43,0,0,0,0,0,3,1,0,3,3,1,3,3,8,9,5,2,2
+2006,C43,Nahk (melanoom) (C43),Nahk (melanoom) (C43),Mehed,70,0,0,0,0,1,0,3,5,3,2,6,12,8,8,8,10,2,2
+2007,C43,Nahk (melanoom) (C43),Nahk (melanoom) (C43),Mehed,44,0,0,0,0,0,0,2,2,4,2,5,5,3,7,8,1,3,2
+2008,C43,Nahk (melanoom) (C43),Nahk (melanoom) (C43),Mehed,66,0,0,0,0,0,0,1,2,2,4,6,13,7,7,7,8,7,2
+2009,C43,Nahk (melanoom) (C43),Nahk (melanoom) (C43),Mehed,79,0,0,0,0,1,3,5,4,2,3,7,7,3,10,15,13,6,0
+2000,C43,Nahk (melanoom) (C43),Nahk (melanoom) (C43),Naised,80,0,0,1,2,2,2,3,7,4,5,3,5,11,7,9,8,3,8
+2001,C43,Nahk (melanoom) (C43),Nahk (melanoom) (C43),Naised,86,0,0,0,1,2,3,3,1,5,3,6,12,9,14,10,10,3,4
+2002,C43,Nahk (melanoom) (C43),Nahk (melanoom) (C43),Naised,76,0,0,1,1,0,2,4,2,6,6,6,3,7,11,8,12,4,3
+2003,C43,Nahk (melanoom) (C43),Nahk (melanoom) (C43),Naised,71,0,0,0,1,3,1,1,1,5,5,5,1,7,8,17,8,2,6
+2004,C43,Nahk (melanoom) (C43),Nahk (melanoom) (C43),Naised,102,0,0,0,0,0,3,4,5,7,4,8,8,9,11,12,14,11,6
+2005,C43,Nahk (melanoom) (C43),Nahk (melanoom) (C43),Naised,87,0,0,1,0,2,1,7,5,6,5,4,11,7,7,10,13,8,0
+2006,C43,Nahk (melanoom) (C43),Nahk (melanoom) (C43),Naised,104,0,0,0,0,2,0,3,6,10,7,14,7,9,11,11,10,12,2
+2007,C43,Nahk (melanoom) (C43),Nahk (melanoom) (C43),Naised,106,0,0,0,0,3,3,4,6,7,7,8,9,8,20,13,8,7,3
+2008,C43,Nahk (melanoom) (C43),Nahk (melanoom) (C43),Naised,97,0,0,0,0,1,2,3,3,4,6,6,11,14,11,11,15,4,6
+2009,C43,Nahk (melanoom) (C43),Nahk (melanoom) (C43),Naised,121,0,0,0,0,4,7,3,5,6,8,17,7,12,17,17,13,4,1
+2000,C44,Nahk (muu) (C44),Nahk (muu) (C44),Mehed,277,0,0,0,0,0,1,1,7,3,9,20,29,36,48,45,41,20,17
+2001,C44,Nahk (muu) (C44),Nahk (muu) (C44),Mehed,296,0,0,0,0,0,1,4,6,6,8,22,20,52,46,55,42,24,10
+2002,C44,Nahk (muu) (C44),Nahk (muu) (C44),Mehed,269,0,0,0,0,1,2,1,1,7,11,19,25,31,33,51,40,30,17
+2003,C44,Nahk (muu) (C44),Nahk (muu) (C44),Mehed,240,0,0,0,0,0,1,2,4,3,8,13,13,23,42,59,43,19,10
+2004,C44,Nahk (muu) (C44),Nahk (muu) (C44),Mehed,289,0,0,0,0,0,4,1,4,4,9,15,25,42,52,53,34,32,14
+2005,C44,Nahk (muu) (C44),Nahk (muu) (C44),Mehed,287,0,0,0,2,0,1,1,2,3,10,15,28,28,42,55,62,24,14
+2006,C44,Nahk (muu) (C44),Nahk (muu) (C44),Mehed,340,0,0,0,0,0,2,1,2,8,7,10,31,31,65,63,63,32,25
+2007,C44,Nahk (muu) (C44),Nahk (muu) (C44),Mehed,337,0,0,1,0,0,1,3,4,9,11,21,29,27,44,60,63,46,18
+2008,C44,Nahk (muu) (C44),Nahk (muu) (C44),Mehed,293,0,0,1,0,0,1,3,3,11,14,14,21,17,55,48,52,39,14
+2009,C44,Nahk (muu) (C44),Nahk (muu) (C44),Mehed,322,0,0,0,0,0,2,0,1,6,9,17,25,27,48,73,64,31,19
+2000,C44,Nahk (muu) (C44),Nahk (muu) (C44),Naised,393,0,0,0,0,0,2,3,10,6,11,25,24,49,55,70,69,30,39
+2001,C44,Nahk (muu) (C44),Nahk (muu) (C44),Naised,489,0,0,0,0,1,2,4,3,7,20,26,34,62,73,96,77,47,37
+2002,C44,Nahk (muu) (C44),Nahk (muu) (C44),Naised,429,0,0,0,0,0,0,1,8,11,9,27,41,52,72,63,79,37,29
+2003,C44,Nahk (muu) (C44),Nahk (muu) (C44),Naised,461,0,0,1,0,1,0,1,3,9,18,19,34,44,58,82,94,62,35
+2004,C44,Nahk (muu) (C44),Nahk (muu) (C44),Naised,487,0,0,0,1,0,2,6,8,16,12,17,33,43,72,90,91,51,45
+2005,C44,Nahk (muu) (C44),Nahk (muu) (C44),Naised,494,0,0,0,0,0,3,4,7,5,20,23,35,54,59,88,71,82,43
+2006,C44,Nahk (muu) (C44),Nahk (muu) (C44),Naised,465,0,0,0,0,0,0,6,6,9,16,25,33,35,63,77,94,66,35
+2007,C44,Nahk (muu) (C44),Nahk (muu) (C44),Naised,567,0,0,0,0,1,4,5,6,13,15,29,39,47,81,72,124,84,47
+2008,C44,Nahk (muu) (C44),Nahk (muu) (C44),Naised,526,0,0,0,0,0,1,4,11,12,23,19,43,38,75,93,83,72,52
+2009,C44,Nahk (muu) (C44),Nahk (muu) (C44),Naised,571,0,0,0,0,0,1,5,5,18,16,29,37,50,74,103,103,81,49
+2000,C45–C49,Mesoteelkude ja pehmed koed (C45–C49),Mesoteelkude ja pehmed koed (C45–C49),Mehed,24,1,0,0,1,0,1,1,2,0,3,1,3,2,1,5,0,0,3
+2001,C45–C49,Mesoteelkude ja pehmed koed (C45–C49),Mesoteelkude ja pehmed koed (C45–C49),Mehed,29,2,0,0,0,0,4,1,1,0,0,6,0,5,1,6,2,1,0
+2002,C45–C49,Mesoteelkude ja pehmed koed (C45–C49),Mesoteelkude ja pehmed koed (C45–C49),Mehed,18,0,0,0,0,2,1,1,1,3,0,2,1,1,2,2,2,0,0
+2003,C45–C49,Mesoteelkude ja pehmed koed (C45–C49),Mesoteelkude ja pehmed koed (C45–C49),Mehed,18,0,1,0,0,0,0,0,0,1,1,2,0,2,2,4,1,3,1
+2004,C45–C49,Mesoteelkude ja pehmed koed (C45–C49),Mesoteelkude ja pehmed koed (C45–C49),Mehed,17,0,0,0,0,0,1,0,0,0,1,1,3,2,3,3,2,1,0
+2005,C45–C49,Mesoteelkude ja pehmed koed (C45–C49),Mesoteelkude ja pehmed koed (C45–C49),Mehed,19,1,1,0,0,1,0,0,0,0,1,0,2,2,2,4,3,0,2
+2006,C45–C49,Mesoteelkude ja pehmed koed (C45–C49),Mesoteelkude ja pehmed koed (C45–C49),Mehed,28,0,0,1,0,1,0,0,0,2,1,3,3,2,7,5,0,0,3
+2007,C45–C49,Mesoteelkude ja pehmed koed (C45–C49),Mesoteelkude ja pehmed koed (C45–C49),Mehed,29,1,0,0,1,0,0,0,3,2,1,1,2,3,4,3,3,2,3
+2008,C45–C49,Mesoteelkude ja pehmed koed (C45–C49),Mesoteelkude ja pehmed koed (C45–C49),Mehed,19,0,0,0,0,1,0,1,1,1,2,2,0,3,2,2,4,0,0
+2009,C45–C49,Mesoteelkude ja pehmed koed (C45–C49),Mesoteelkude ja pehmed koed (C45–C49),Mehed,18,0,0,0,0,1,1,1,1,0,0,0,3,1,1,2,3,1,3
+2000,C45–C49,Mesoteelkude ja pehmed koed (C45–C49),Mesoteelkude ja pehmed koed (C45–C49),Naised,33,2,0,1,3,0,0,0,0,1,1,2,3,4,2,5,4,2,3
+2001,C45–C49,Mesoteelkude ja pehmed koed (C45–C49),Mesoteelkude ja pehmed koed (C45–C49),Naised,25,2,0,1,1,0,0,0,2,0,2,0,1,1,6,3,3,3,0
+2002,C45–C49,Mesoteelkude ja pehmed koed (C45–C49),Mesoteelkude ja pehmed koed (C45–C49),Naised,23,0,0,0,1,0,0,0,1,0,2,4,2,4,1,3,3,1,1
+2003,C45–C49,Mesoteelkude ja pehmed koed (C45–C49),Mesoteelkude ja pehmed koed (C45–C49),Naised,37,3,0,0,0,0,0,2,2,1,1,3,5,2,4,8,3,2,1
+2004,C45–C49,Mesoteelkude ja pehmed koed (C45–C49),Mesoteelkude ja pehmed koed (C45–C49),Naised,24,1,0,0,0,1,0,0,0,0,1,0,4,1,3,4,5,2,2
+2005,C45–C49,Mesoteelkude ja pehmed koed (C45–C49),Mesoteelkude ja pehmed koed (C45–C49),Naised,41,1,1,0,0,0,1,2,4,0,0,5,3,4,4,8,2,4,2
+2006,C45–C49,Mesoteelkude ja pehmed koed (C45–C49),Mesoteelkude ja pehmed koed (C45–C49),Naised,30,1,0,0,0,0,2,1,0,1,7,2,0,3,5,2,3,2,1
+2007,C45–C49,Mesoteelkude ja pehmed koed (C45–C49),Mesoteelkude ja pehmed koed (C45–C49),Naised,24,0,0,0,0,0,0,1,1,0,1,1,2,4,5,4,3,1,1
+2008,C45–C49,Mesoteelkude ja pehmed koed (C45–C49),Mesoteelkude ja pehmed koed (C45–C49),Naised,24,0,0,0,0,0,2,1,0,1,2,0,2,3,2,3,6,2,0
+2009,C45–C49,Mesoteelkude ja pehmed koed (C45–C49),Mesoteelkude ja pehmed koed (C45–C49),Naised,24,0,0,0,0,0,0,2,1,1,2,2,4,2,2,4,1,1,2
+2000,C50,Rind (C50),Rind (C50),Mehed,7,0,0,0,0,0,0,0,0,0,0,1,2,0,1,0,1,1,1
+2001,C50,Rind (C50),Rind (C50),Mehed,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0
+2002,C50,Rind (C50),Rind (C50),Mehed,4,0,0,0,0,0,0,0,0,0,2,0,0,0,0,1,0,1,0
+2003,C50,Rind (C50),Rind (C50),Mehed,2,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0
+2004,C50,Rind (C50),Rind (C50),Mehed,3,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0
+2005,C50,Rind (C50),Rind (C50),Mehed,2,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0
+2006,C50,Rind (C50),Rind (C50),Mehed,5,0,0,0,0,0,0,0,0,0,1,0,0,1,1,1,1,0,0
+2007,C50,Rind (C50),Rind (C50),Mehed,6,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,1,0,1
+2008,C50,Rind (C50),Rind (C50),Mehed,5,0,0,0,0,0,0,0,0,0,1,1,0,1,1,1,0,0,0
+2009,C50,Rind (C50),Rind (C50),Mehed,4,0,0,0,0,0,0,0,0,1,0,0,0,1,0,2,0,0,0
+2000,C50,Rind (C50),Rind (C50),Naised,539,0,0,0,0,0,1,8,15,42,47,66,63,72,61,84,44,23,13
+2001,C50,Rind (C50),Rind (C50),Naised,588,0,0,0,0,0,0,8,20,42,55,84,63,85,74,64,46,25,22
+2002,C50,Rind (C50),Rind (C50),Naised,609,0,0,0,0,0,1,3,15,41,81,70,67,79,69,85,58,19,21
+2003,C50,Rind (C50),Rind (C50),Naised,618,0,0,0,0,0,1,6,15,36,60,75,85,77,81,60,66,30,26
+2004,C50,Rind (C50),Rind (C50),Naised,628,0,0,0,0,1,4,4,15,37,58,89,102,74,81,57,48,37,21
+2005,C50,Rind (C50),Rind (C50),Naised,576,0,0,0,0,1,4,5,13,36,66,72,72,41,80,73,50,42,21
+2006,C50,Rind (C50),Rind (C50),Naised,609,0,0,0,0,0,2,3,21,26,65,74,87,60,83,61,71,35,21
+2007,C50,Rind (C50),Rind (C50),Naised,680,0,0,0,0,0,2,6,24,35,61,98,71,76,71,88,70,47,31
+2008,C50,Rind (C50),Rind (C50),Naised,638,0,0,0,0,0,1,6,17,34,50,73,89,84,77,75,70,36,26
+2009,C50,Rind (C50),Rind (C50),Naised,609,0,0,0,0,0,2,4,9,27,63,72,79,62,75,70,78,47,21
+2000,C51–C58,"..Häbe, tupp (C51–C52)",Naissuguelundid (C51–C58),Mehed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2001,C51–C58,"..Häbe, tupp (C51–C52)",Naissuguelundid (C51–C58),Mehed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2002,C51–C58,"..Häbe, tupp (C51–C52)",Naissuguelundid (C51–C58),Mehed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2003,C51–C58,"..Häbe, tupp (C51–C52)",Naissuguelundid (C51–C58),Mehed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2004,C51–C58,"..Häbe, tupp (C51–C52)",Naissuguelundid (C51–C58),Mehed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2005,C51–C58,"..Häbe, tupp (C51–C52)",Naissuguelundid (C51–C58),Mehed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2006,C51–C58,"..Häbe, tupp (C51–C52)",Naissuguelundid (C51–C58),Mehed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007,C51–C58,"..Häbe, tupp (C51–C52)",Naissuguelundid (C51–C58),Mehed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2008,C51–C58,"..Häbe, tupp (C51–C52)",Naissuguelundid (C51–C58),Mehed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009,C51–C58,"..Häbe, tupp (C51–C52)",Naissuguelundid (C51–C58),Mehed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2000,C51–C58,"..Häbe, tupp (C51–C52)",Naissuguelundid (C51–C58),Naised,41,0,0,0,0,0,0,0,0,0,0,4,6,6,4,6,6,3,6
+2001,C51–C58,"..Häbe, tupp (C51–C52)",Naissuguelundid (C51–C58),Naised,55,0,0,0,0,0,0,0,0,2,2,3,5,2,8,12,9,5,7
+2002,C51–C58,"..Häbe, tupp (C51–C52)",Naissuguelundid (C51–C58),Naised,35,0,0,0,0,0,0,0,0,1,0,2,0,4,4,5,8,3,8
+2003,C51–C58,"..Häbe, tupp (C51–C52)",Naissuguelundid (C51–C58),Naised,30,0,0,0,0,0,0,0,0,0,0,1,1,0,2,9,8,4,5
+2004,C51–C58,"..Häbe, tupp (C51–C52)",Naissuguelundid (C51–C58),Naised,36,0,0,0,1,0,0,0,1,0,1,3,1,2,6,3,8,6,4
+2005,C51–C58,"..Häbe, tupp (C51–C52)",Naissuguelundid (C51–C58),Naised,34,0,0,0,0,0,0,0,0,2,0,0,1,5,2,7,11,4,2
+2006,C51–C58,"..Häbe, tupp (C51–C52)",Naissuguelundid (C51–C58),Naised,34,0,0,0,0,0,0,0,0,0,2,2,2,2,7,5,8,2,4
+2007,C51–C58,"..Häbe, tupp (C51–C52)",Naissuguelundid (C51–C58),Naised,31,0,0,0,0,0,0,0,0,0,0,1,1,2,3,6,6,9,3
+2008,C51–C58,"..Häbe, tupp (C51–C52)",Naissuguelundid (C51–C58),Naised,26,0,0,0,0,0,0,0,0,0,3,1,1,4,1,5,7,2,2
+2009,C51–C58,"..Häbe, tupp (C51–C52)",Naissuguelundid (C51–C58),Naised,23,0,0,0,0,0,0,1,0,0,0,2,0,1,2,6,4,4,3
+2000,C53,..Emakakael (C53),Naissuguelundid (C51–C58),Mehed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2001,C53,..Emakakael (C53),Naissuguelundid (C51–C58),Mehed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2002,C53,..Emakakael (C53),Naissuguelundid (C51–C58),Mehed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2003,C53,..Emakakael (C53),Naissuguelundid (C51–C58),Mehed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2004,C53,..Emakakael (C53),Naissuguelundid (C51–C58),Mehed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2005,C53,..Emakakael (C53),Naissuguelundid (C51–C58),Mehed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2006,C53,..Emakakael (C53),Naissuguelundid (C51–C58),Mehed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007,C53,..Emakakael (C53),Naissuguelundid (C51–C58),Mehed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2008,C53,..Emakakael (C53),Naissuguelundid (C51–C58),Mehed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009,C53,..Emakakael (C53),Naissuguelundid (C51–C58),Mehed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2000,C53,..Emakakael (C53),Naissuguelundid (C51–C58),Naised,163,0,0,0,0,3,3,8,14,10,24,20,21,15,17,11,7,3,7
+2001,C53,..Emakakael (C53),Naissuguelundid (C51–C58),Naised,154,0,0,0,0,0,6,7,10,21,21,15,15,14,13,18,7,4,3
+2002,C53,..Emakakael (C53),Naissuguelundid (C51–C58),Naised,156,0,0,0,0,1,7,6,15,21,18,13,18,13,14,14,14,2,0
+2003,C53,..Emakakael (C53),Naissuguelundid (C51–C58),Naised,147,0,0,0,0,2,3,13,8,20,22,14,11,19,12,9,11,1,2
+2004,C53,..Emakakael (C53),Naissuguelundid (C51–C58),Naised,184,0,0,0,0,1,3,14,13,24,31,18,13,9,27,11,13,4,3
+2005,C53,..Emakakael (C53),Naissuguelundid (C51–C58),Naised,161,0,0,0,0,2,3,10,14,16,30,23,16,13,8,8,10,4,4
+2006,C53,..Emakakael (C53),Naissuguelundid (C51–C58),Naised,164,0,0,0,0,0,4,8,16,24,22,15,19,12,14,11,8,9,2
+2007,C53,..Emakakael (C53),Naissuguelundid (C51–C58),Naised,191,0,0,0,0,0,5,6,19,24,30,23,15,17,14,9,14,10,5
+2008,C53,..Emakakael (C53),Naissuguelundid (C51–C58),Naised,195,0,0,0,0,1,5,9,15,15,29,26,27,12,19,9,13,9,6
+2009,C53,..Emakakael (C53),Naissuguelundid (C51–C58),Naised,190,0,0,0,0,1,6,9,15,28,33,22,21,13,16,6,9,6,5
+2000,C54,..Emakakeha (C54),Naissuguelundid (C51–C58),Mehed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2001,C54,..Emakakeha (C54),Naissuguelundid (C51–C58),Mehed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2002,C54,..Emakakeha (C54),Naissuguelundid (C51–C58),Mehed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2003,C54,..Emakakeha (C54),Naissuguelundid (C51–C58),Mehed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2004,C54,..Emakakeha (C54),Naissuguelundid (C51–C58),Mehed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2005,C54,..Emakakeha (C54),Naissuguelundid (C51–C58),Mehed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2006,C54,..Emakakeha (C54),Naissuguelundid (C51–C58),Mehed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007,C54,..Emakakeha (C54),Naissuguelundid (C51–C58),Mehed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2008,C54,..Emakakeha (C54),Naissuguelundid (C51–C58),Mehed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009,C54,..Emakakeha (C54),Naissuguelundid (C51–C58),Mehed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2000,C54,..Emakakeha (C54),Naissuguelundid (C51–C58),Naised,184,0,0,0,0,0,0,1,3,6,5,20,28,36,29,24,15,6,11
+2001,C54,..Emakakeha (C54),Naissuguelundid (C51–C58),Naised,204,0,0,0,0,0,0,0,1,6,8,30,23,38,36,29,18,9,6
+2002,C54,..Emakakeha (C54),Naissuguelundid (C51–C58),Naised,191,0,0,0,0,0,1,0,5,3,12,31,19,26,25,33,19,13,4
+2003,C54,..Emakakeha (C54),Naissuguelundid (C51–C58),Naised,191,0,0,0,0,0,1,1,3,5,9,23,24,33,31,19,26,16,0
+2004,C54,..Emakakeha (C54),Naissuguelundid (C51–C58),Naised,189,0,0,0,0,0,0,1,2,6,8,21,29,30,25,29,24,10,4
+2005,C54,..Emakakeha (C54),Naissuguelundid (C51–C58),Naised,188,0,0,0,0,0,0,0,2,4,10,18,21,32,33,30,21,14,3
+2006,C54,..Emakakeha (C54),Naissuguelundid (C51–C58),Naised,204,0,0,0,0,0,0,2,2,8,12,23,26,24,19,37,31,13,7
+2007,C54,..Emakakeha (C54),Naissuguelundid (C51–C58),Naised,202,0,0,0,0,0,0,0,3,3,12,17,25,21,42,33,18,19,9
+2008,C54,..Emakakeha (C54),Naissuguelundid (C51–C58),Naised,206,0,0,0,0,0,0,0,2,4,12,24,29,30,29,32,20,18,6
+2009,C54,..Emakakeha (C54),Naissuguelundid (C51–C58),Naised,182,0,0,0,0,0,0,0,3,6,10,19,23,23,25,37,15,15,6
+2000,C55,..Emakas (osa täpsustamata) (C55),Naissuguelundid (C51–C58),Mehed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2001,C55,..Emakas (osa täpsustamata) (C55),Naissuguelundid (C51–C58),Mehed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2002,C55,..Emakas (osa täpsustamata) (C55),Naissuguelundid (C51–C58),Mehed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2003,C55,..Emakas (osa täpsustamata) (C55),Naissuguelundid (C51–C58),Mehed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2004,C55,..Emakas (osa täpsustamata) (C55),Naissuguelundid (C51–C58),Mehed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2005,C55,..Emakas (osa täpsustamata) (C55),Naissuguelundid (C51–C58),Mehed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2006,C55,..Emakas (osa täpsustamata) (C55),Naissuguelundid (C51–C58),Mehed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007,C55,..Emakas (osa täpsustamata) (C55),Naissuguelundid (C51–C58),Mehed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2008,C55,..Emakas (osa täpsustamata) (C55),Naissuguelundid (C51–C58),Mehed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009,C55,..Emakas (osa täpsustamata) (C55),Naissuguelundid (C51–C58),Mehed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2000,C55,..Emakas (osa täpsustamata) (C55),Naissuguelundid (C51–C58),Naised,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+2001,C55,..Emakas (osa täpsustamata) (C55),Naissuguelundid (C51–C58),Naised,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+2002,C55,..Emakas (osa täpsustamata) (C55),Naissuguelundid (C51–C58),Naised,3,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,1
+2003,C55,..Emakas (osa täpsustamata) (C55),Naissuguelundid (C51–C58),Naised,2,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0
+2004,C55,..Emakas (osa täpsustamata) (C55),Naissuguelundid (C51–C58),Naised,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,2
+2005,C55,..Emakas (osa täpsustamata) (C55),Naissuguelundid (C51–C58),Naised,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+2006,C55,..Emakas (osa täpsustamata) (C55),Naissuguelundid (C51–C58),Naised,6,0,0,0,0,0,0,0,0,1,0,0,0,2,0,2,1,0,0
+2007,C55,..Emakas (osa täpsustamata) (C55),Naissuguelundid (C51–C58),Naised,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0
+2008,C55,..Emakas (osa täpsustamata) (C55),Naissuguelundid (C51–C58),Naised,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,0
+2009,C55,..Emakas (osa täpsustamata) (C55),Naissuguelundid (C51–C58),Naised,3,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1
+2000,C56,..Munasari (C56),Naissuguelundid (C51–C58),Mehed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2001,C56,..Munasari (C56),Naissuguelundid (C51–C58),Mehed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2002,C56,..Munasari (C56),Naissuguelundid (C51–C58),Mehed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2003,C56,..Munasari (C56),Naissuguelundid (C51–C58),Mehed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2004,C56,..Munasari (C56),Naissuguelundid (C51–C58),Mehed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2005,C56,..Munasari (C56),Naissuguelundid (C51–C58),Mehed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2006,C56,..Munasari (C56),Naissuguelundid (C51–C58),Mehed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007,C56,..Munasari (C56),Naissuguelundid (C51–C58),Mehed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2008,C56,..Munasari (C56),Naissuguelundid (C51–C58),Mehed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009,C56,..Munasari (C56),Naissuguelundid (C51–C58),Mehed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2000,C56,..Munasari (C56),Naissuguelundid (C51–C58),Naised,140,1,0,0,0,0,3,0,5,7,9,12,18,23,19,12,12,11,8
+2001,C56,..Munasari (C56),Naissuguelundid (C51–C58),Naised,170,0,0,1,1,1,1,0,3,5,16,12,12,27,29,26,18,10,8
+2002,C56,..Munasari (C56),Naissuguelundid (C51–C58),Naised,141,0,0,2,0,0,1,1,1,5,12,16,9,24,18,21,19,6,6
+2003,C56,..Munasari (C56),Naissuguelundid (C51–C58),Naised,170,0,1,0,0,1,3,0,1,6,20,14,16,19,29,30,12,11,7
+2004,C56,..Munasari (C56),Naissuguelundid (C51–C58),Naised,138,0,0,0,1,1,1,3,2,5,10,18,15,11,23,19,17,8,4
+2005,C56,..Munasari (C56),Naissuguelundid (C51–C58),Naised,162,0,0,0,2,1,2,0,9,9,13,13,15,11,24,24,22,12,5
+2006,C56,..Munasari (C56),Naissuguelundid (C51–C58),Naised,185,0,0,1,0,0,1,2,4,10,20,12,19,30,15,24,30,12,5
+2007,C56,..Munasari (C56),Naissuguelundid (C51–C58),Naised,149,0,0,0,0,3,1,0,2,4,8,13,15,17,15,23,22,17,9
+2008,C56,..Munasari (C56),Naissuguelundid (C51–C58),Naised,165,0,0,0,1,1,1,2,6,7,10,13,17,20,15,22,25,19,6
+2009,C56,..Munasari (C56),Naissuguelundid (C51–C58),Naised,145,0,0,0,0,0,0,0,6,6,11,11,7,19,15,23,23,15,9
+2000,C57,..Naissuguelundid (muu) (C57),Naissuguelundid (C51–C58),Mehed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2001,C57,..Naissuguelundid (muu) (C57),Naissuguelundid (C51–C58),Mehed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2002,C57,..Naissuguelundid (muu) (C57),Naissuguelundid (C51–C58),Mehed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2003,C57,..Naissuguelundid (muu) (C57),Naissuguelundid (C51–C58),Mehed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2004,C57,..Naissuguelundid (muu) (C57),Naissuguelundid (C51–C58),Mehed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2005,C57,..Naissuguelundid (muu) (C57),Naissuguelundid (C51–C58),Mehed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2006,C57,..Naissuguelundid (muu) (C57),Naissuguelundid (C51–C58),Mehed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007,C57,..Naissuguelundid (muu) (C57),Naissuguelundid (C51–C58),Mehed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2008,C57,..Naissuguelundid (muu) (C57),Naissuguelundid (C51–C58),Mehed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009,C57,..Naissuguelundid (muu) (C57),Naissuguelundid (C51–C58),Mehed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2000,C57,..Naissuguelundid (muu) (C57),Naissuguelundid (C51–C58),Naised,10,0,0,0,0,0,0,0,0,0,1,0,1,4,1,1,0,1,1
+2001,C57,..Naissuguelundid (muu) (C57),Naissuguelundid (C51–C58),Naised,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,1
+2002,C57,..Naissuguelundid (muu) (C57),Naissuguelundid (C51–C58),Naised,8,0,0,0,0,0,0,0,0,0,0,3,2,1,0,1,0,1,0
+2003,C57,..Naissuguelundid (muu) (C57),Naissuguelundid (C51–C58),Naised,4,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,1,0
+2004,C57,..Naissuguelundid (muu) (C57),Naissuguelundid (C51–C58),Naised,8,0,0,0,0,0,0,0,0,0,1,0,1,3,0,0,0,0,3
+2005,C57,..Naissuguelundid (muu) (C57),Naissuguelundid (C51–C58),Naised,10,0,0,0,0,1,0,0,0,1,1,1,1,0,0,2,1,1,1
+2006,C57,..Naissuguelundid (muu) (C57),Naissuguelundid (C51–C58),Naised,15,0,0,0,0,0,0,0,0,1,2,1,5,2,0,2,1,0,1
+2007,C57,..Naissuguelundid (muu) (C57),Naissuguelundid (C51–C58),Naised,11,0,0,0,0,0,0,0,2,0,1,1,2,0,0,0,1,3,1
+2008,C57,..Naissuguelundid (muu) (C57),Naissuguelundid (C51–C58),Naised,9,0,0,0,0,0,0,0,0,0,1,0,1,3,0,1,2,0,1
+2009,C57,..Naissuguelundid (muu) (C57),Naissuguelundid (C51–C58),Naised,10,0,0,0,0,0,0,0,0,0,0,2,1,0,1,2,1,2,1
+2000,C58,..Platsenta (C58),Naissuguelundid (C51–C58),Mehed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2001,C58,..Platsenta (C58),Naissuguelundid (C51–C58),Mehed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2002,C58,..Platsenta (C58),Naissuguelundid (C51–C58),Mehed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2003,C58,..Platsenta (C58),Naissuguelundid (C51–C58),Mehed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2004,C58,..Platsenta (C58),Naissuguelundid (C51–C58),Mehed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2005,C58,..Platsenta (C58),Naissuguelundid (C51–C58),Mehed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2006,C58,..Platsenta (C58),Naissuguelundid (C51–C58),Mehed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007,C58,..Platsenta (C58),Naissuguelundid (C51–C58),Mehed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2008,C58,..Platsenta (C58),Naissuguelundid (C51–C58),Mehed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009,C58,..Platsenta (C58),Naissuguelundid (C51–C58),Mehed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2000,C58,..Platsenta (C58),Naissuguelundid (C51–C58),Naised,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+2001,C58,..Platsenta (C58),Naissuguelundid (C51–C58),Naised,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2002,C58,..Platsenta (C58),Naissuguelundid (C51–C58),Naised,2,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+2003,C58,..Platsenta (C58),Naissuguelundid (C51–C58),Naised,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+2004,C58,..Platsenta (C58),Naissuguelundid (C51–C58),Naised,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2005,C58,..Platsenta (C58),Naissuguelundid (C51–C58),Naised,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+2006,C58,..Platsenta (C58),Naissuguelundid (C51–C58),Naised,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+2007,C58,..Platsenta (C58),Naissuguelundid (C51–C58),Naised,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2008,C58,..Platsenta (C58),Naissuguelundid (C51–C58),Naised,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009,C58,..Platsenta (C58),Naissuguelundid (C51–C58),Naised,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2000,C60,..Suguti (C60),Meessuguelundid (C60–C63),Mehed,10,0,0,0,0,0,0,0,0,1,1,0,2,1,2,0,1,1,1
+2001,C60,..Suguti (C60),Meessuguelundid (C60–C63),Mehed,7,0,0,0,0,0,0,0,1,1,0,1,1,2,1,0,0,0,0
+2002,C60,..Suguti (C60),Meessuguelundid (C60–C63),Mehed,5,0,0,0,0,0,0,0,0,0,0,2,2,0,1,0,0,0,0
+2003,C60,..Suguti (C60),Meessuguelundid (C60–C63),Mehed,6,0,0,0,0,0,0,0,0,0,1,0,1,0,1,2,1,0,0
+2004,C60,..Suguti (C60),Meessuguelundid (C60–C63),Mehed,9,0,0,0,0,0,0,0,0,2,0,1,1,1,2,0,2,0,0
+2005,C60,..Suguti (C60),Meessuguelundid (C60–C63),Mehed,10,0,0,0,0,0,0,1,0,0,0,3,1,1,2,0,0,1,1
+2006,C60,..Suguti (C60),Meessuguelundid (C60–C63),Mehed,13,0,0,0,0,0,0,0,0,0,0,1,1,3,3,1,3,1,0
+2007,C60,..Suguti (C60),Meessuguelundid (C60–C63),Mehed,6,0,0,0,0,0,0,0,1,0,1,0,0,1,0,2,0,0,1
+2008,C60,..Suguti (C60),Meessuguelundid (C60–C63),Mehed,5,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,2,0,0
+2009,C60,..Suguti (C60),Meessuguelundid (C60–C63),Mehed,9,0,0,0,0,0,0,0,0,0,2,0,1,2,0,1,1,1,1
+2000,C60,..Suguti (C60),Meessuguelundid (C60–C63),Naised,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2001,C60,..Suguti (C60),Meessuguelundid (C60–C63),Naised,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2002,C60,..Suguti (C60),Meessuguelundid (C60–C63),Naised,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2003,C60,..Suguti (C60),Meessuguelundid (C60–C63),Naised,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2004,C60,..Suguti (C60),Meessuguelundid (C60–C63),Naised,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2005,C60,..Suguti (C60),Meessuguelundid (C60–C63),Naised,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2006,C60,..Suguti (C60),Meessuguelundid (C60–C63),Naised,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007,C60,..Suguti (C60),Meessuguelundid (C60–C63),Naised,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2008,C60,..Suguti (C60),Meessuguelundid (C60–C63),Naised,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009,C60,..Suguti (C60),Meessuguelundid (C60–C63),Naised,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2000,C61,..Eesnääre (C61),Meessuguelundid (C60–C63),Mehed,374,0,0,0,0,0,0,0,0,1,0,9,21,45,78,108,54,32,26
+2001,C61,..Eesnääre (C61),Meessuguelundid (C60–C63),Mehed,435,0,0,0,0,0,0,0,0,0,4,11,22,61,77,117,88,39,16
+2002,C61,..Eesnääre (C61),Meessuguelundid (C60–C63),Mehed,456,0,0,0,0,0,0,0,0,0,2,11,27,56,81,126,81,48,24
+2003,C61,..Eesnääre (C61),Meessuguelundid (C60–C63),Mehed,559,0,0,0,0,0,0,0,0,0,2,22,21,63,118,153,99,54,27
+2004,C61,..Eesnääre (C61),Meessuguelundid (C60–C63),Mehed,705,0,0,0,0,0,0,0,0,2,2,12,40,103,146,177,122,67,34
+2005,C61,..Eesnääre (C61),Meessuguelundid (C60–C63),Mehed,624,0,0,0,0,0,0,0,0,1,11,9,50,76,113,142,135,66,21
+2006,C61,..Eesnääre (C61),Meessuguelundid (C60–C63),Mehed,862,0,0,0,0,0,0,0,0,1,9,25,54,106,188,218,158,69,34
+2007,C61,..Eesnääre (C61),Meessuguelundid (C60–C63),Mehed,880,0,0,0,0,0,0,0,0,1,9,20,73,126,212,170,177,65,27
+2008,C61,..Eesnääre (C61),Meessuguelundid (C60–C63),Mehed,891,0,0,0,0,0,0,0,0,2,11,25,68,120,190,210,131,91,43
+2009,C61,..Eesnääre (C61),Meessuguelundid (C60–C63),Mehed,925,0,0,0,0,0,0,0,1,0,11,31,73,137,234,170,150,84,34
+2000,C61,..Eesnääre (C61),Meessuguelundid (C60–C63),Naised,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2001,C61,..Eesnääre (C61),Meessuguelundid (C60–C63),Naised,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2002,C61,..Eesnääre (C61),Meessuguelundid (C60–C63),Naised,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2003,C61,..Eesnääre (C61),Meessuguelundid (C60–C63),Naised,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2004,C61,..Eesnääre (C61),Meessuguelundid (C60–C63),Naised,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2005,C61,..Eesnääre (C61),Meessuguelundid (C60–C63),Naised,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2006,C61,..Eesnääre (C61),Meessuguelundid (C60–C63),Naised,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007,C61,..Eesnääre (C61),Meessuguelundid (C60–C63),Naised,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2008,C61,..Eesnääre (C61),Meessuguelundid (C60–C63),Naised,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009,C61,..Eesnääre (C61),Meessuguelundid (C60–C63),Naised,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2000,C62,..Munand (C62),Meessuguelundid (C60–C63),Mehed,12,1,0,0,0,1,4,3,1,2,0,0,0,0,0,0,0,0,0
+2001,C62,..Munand (C62),Meessuguelundid (C60–C63),Mehed,20,0,0,0,2,3,5,5,2,2,0,0,0,0,0,1,0,0,0
+2002,C62,..Munand (C62),Meessuguelundid (C60–C63),Mehed,20,0,0,0,1,2,8,3,1,2,2,1,0,0,0,0,0,0,0
+2003,C62,..Munand (C62),Meessuguelundid (C60–C63),Mehed,18,0,0,0,2,2,4,2,3,1,1,1,0,0,1,0,1,0,0
+2004,C62,..Munand (C62),Meessuguelundid (C60–C63),Mehed,23,0,0,0,1,3,8,5,1,2,1,1,0,0,0,0,1,0,0
+2005,C62,..Munand (C62),Meessuguelundid (C60–C63),Mehed,11,0,0,0,0,0,2,1,1,2,1,2,1,0,0,0,1,0,0
+2006,C62,..Munand (C62),Meessuguelundid (C60–C63),Mehed,24,0,0,0,0,3,3,4,3,4,4,1,0,1,0,0,0,0,1
+2007,C62,..Munand (C62),Meessuguelundid (C60–C63),Mehed,24,1,0,1,1,2,2,6,6,2,0,2,0,1,0,0,0,0,0
+2008,C62,..Munand (C62),Meessuguelundid (C60–C63),Mehed,20,0,0,0,2,1,6,2,4,2,0,0,1,0,0,1,0,0,1
+2009,C62,..Munand (C62),Meessuguelundid (C60–C63),Mehed,25,0,0,0,0,2,5,8,1,1,5,0,0,1,1,0,1,0,0
+2000,C62,..Munand (C62),Meessuguelundid (C60–C63),Naised,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2001,C62,..Munand (C62),Meessuguelundid (C60–C63),Naised,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2002,C62,..Munand (C62),Meessuguelundid (C60–C63),Naised,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2003,C62,..Munand (C62),Meessuguelundid (C60–C63),Naised,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2004,C62,..Munand (C62),Meessuguelundid (C60–C63),Naised,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2005,C62,..Munand (C62),Meessuguelundid (C60–C63),Naised,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2006,C62,..Munand (C62),Meessuguelundid (C60–C63),Naised,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007,C62,..Munand (C62),Meessuguelundid (C60–C63),Naised,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2008,C62,..Munand (C62),Meessuguelundid (C60–C63),Naised,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009,C62,..Munand (C62),Meessuguelundid (C60–C63),Naised,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2000,C63,..Meessuguelundid (muu) (C63),Meessuguelundid (C60–C63),Mehed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2001,C63,..Meessuguelundid (muu) (C63),Meessuguelundid (C60–C63),Mehed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2002,C63,..Meessuguelundid (muu) (C63),Meessuguelundid (C60–C63),Mehed,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2003,C63,..Meessuguelundid (muu) (C63),Meessuguelundid (C60–C63),Mehed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2004,C63,..Meessuguelundid (muu) (C63),Meessuguelundid (C60–C63),Mehed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2005,C63,..Meessuguelundid (muu) (C63),Meessuguelundid (C60–C63),Mehed,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+2006,C63,..Meessuguelundid (muu) (C63),Meessuguelundid (C60–C63),Mehed,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+2007,C63,..Meessuguelundid (muu) (C63),Meessuguelundid (C60–C63),Mehed,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+2008,C63,..Meessuguelundid (muu) (C63),Meessuguelundid (C60–C63),Mehed,3,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0
+2009,C63,..Meessuguelundid (muu) (C63),Meessuguelundid (C60–C63),Mehed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2000,C63,..Meessuguelundid (muu) (C63),Meessuguelundid (C60–C63),Naised,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2001,C63,..Meessuguelundid (muu) (C63),Meessuguelundid (C60–C63),Naised,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2002,C63,..Meessuguelundid (muu) (C63),Meessuguelundid (C60–C63),Naised,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2003,C63,..Meessuguelundid (muu) (C63),Meessuguelundid (C60–C63),Naised,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2004,C63,..Meessuguelundid (muu) (C63),Meessuguelundid (C60–C63),Naised,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2005,C63,..Meessuguelundid (muu) (C63),Meessuguelundid (C60–C63),Naised,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2006,C63,..Meessuguelundid (muu) (C63),Meessuguelundid (C60–C63),Naised,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007,C63,..Meessuguelundid (muu) (C63),Meessuguelundid (C60–C63),Naised,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2008,C63,..Meessuguelundid (muu) (C63),Meessuguelundid (C60–C63),Naised,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009,C63,..Meessuguelundid (muu) (C63),Meessuguelundid (C60–C63),Naised,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2000,C64–C65,"..Neer, neeruvaagen (C64–C65)",Kuseelundid (C64–C68),Mehed,150,0,0,0,0,0,1,0,5,9,12,13,22,22,25,25,9,3,4
+2001,C64–C65,"..Neer, neeruvaagen (C64–C65)",Kuseelundid (C64–C68),Mehed,134,2,1,0,0,0,1,1,1,1,13,14,16,20,28,24,8,4,0
+2002,C64–C65,"..Neer, neeruvaagen (C64–C65)",Kuseelundid (C64–C68),Mehed,136,1,0,0,0,0,0,0,1,4,10,23,12,21,28,19,10,5,2
+2003,C64–C65,"..Neer, neeruvaagen (C64–C65)",Kuseelundid (C64–C68),Mehed,141,1,0,0,0,0,0,0,2,3,8,11,27,28,21,21,13,1,5
+2004,C64–C65,"..Neer, neeruvaagen (C64–C65)",Kuseelundid (C64–C68),Mehed,160,0,0,0,0,0,1,1,2,4,11,9,18,23,21,30,21,11,8
+2005,C64–C65,"..Neer, neeruvaagen (C64–C65)",Kuseelundid (C64–C68),Mehed,174,0,0,0,0,0,0,0,1,4,10,17,20,24,35,28,22,7,6
+2006,C64–C65,"..Neer, neeruvaagen (C64–C65)",Kuseelundid (C64–C68),Mehed,157,1,0,0,0,0,0,1,2,5,5,24,20,17,29,22,20,8,3
+2007,C64–C65,"..Neer, neeruvaagen (C64–C65)",Kuseelundid (C64–C68),Mehed,178,0,0,0,0,0,2,2,5,5,12,11,26,25,25,24,27,13,1
+2008,C64–C65,"..Neer, neeruvaagen (C64–C65)",Kuseelundid (C64–C68),Mehed,160,0,1,0,0,0,0,0,3,2,6,14,16,32,20,37,21,4,4
+2009,C64–C65,"..Neer, neeruvaagen (C64–C65)",Kuseelundid (C64–C68),Mehed,167,0,0,0,0,0,0,0,1,5,10,9,27,25,30,28,21,7,4
+2000,C64–C65,"..Neer, neeruvaagen (C64–C65)",Kuseelundid (C64–C68),Naised,101,1,0,0,0,0,0,0,0,0,3,9,17,11,14,21,17,4,4
+2001,C64–C65,"..Neer, neeruvaagen (C64–C65)",Kuseelundid (C64–C68),Naised,97,0,0,0,0,0,0,1,1,1,5,6,8,16,16,15,19,4,5
+2002,C64–C65,"..Neer, neeruvaagen (C64–C65)",Kuseelundid (C64–C68),Naised,94,0,0,0,0,0,0,1,1,2,3,7,8,15,13,19,14,8,3
+2003,C64–C65,"..Neer, neeruvaagen (C64–C65)",Kuseelundid (C64–C68),Naised,104,0,0,0,0,2,0,1,1,2,2,6,11,10,14,24,16,9,6
+2004,C64–C65,"..Neer, neeruvaagen (C64–C65)",Kuseelundid (C64–C68),Naised,117,2,0,1,1,1,0,0,1,0,2,12,11,17,17,16,21,10,5
+2005,C64–C65,"..Neer, neeruvaagen (C64–C65)",Kuseelundid (C64–C68),Naised,102,1,0,0,0,0,0,0,0,4,2,8,4,12,19,17,23,11,1
+2006,C64–C65,"..Neer, neeruvaagen (C64–C65)",Kuseelundid (C64–C68),Naised,110,0,0,0,0,0,0,0,0,1,3,9,10,14,23,11,22,11,6
+2007,C64–C65,"..Neer, neeruvaagen (C64–C65)",Kuseelundid (C64–C68),Naised,123,0,0,0,0,0,0,0,4,3,1,8,6,18,26,24,15,11,7
+2008,C64–C65,"..Neer, neeruvaagen (C64–C65)",Kuseelundid (C64–C68),Naised,142,1,0,0,0,0,0,0,1,2,6,14,13,9,27,28,21,14,6
+2009,C64–C65,"..Neer, neeruvaagen (C64–C65)",Kuseelundid (C64–C68),Naised,118,0,0,0,1,0,0,0,2,0,2,10,12,10,16,24,20,14,7
+2000,C66,..Kusejuha (C66),Kuseelundid (C64–C68),Mehed,3,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0
+2001,C66,..Kusejuha (C66),Kuseelundid (C64–C68),Mehed,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0
+2002,C66,..Kusejuha (C66),Kuseelundid (C64–C68),Mehed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2003,C66,..Kusejuha (C66),Kuseelundid (C64–C68),Mehed,4,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0
+2004,C66,..Kusejuha (C66),Kuseelundid (C64–C68),Mehed,4,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,1,0,0
+2005,C66,..Kusejuha (C66),Kuseelundid (C64–C68),Mehed,3,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+2006,C66,..Kusejuha (C66),Kuseelundid (C64–C68),Mehed,3,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0
+2007,C66,..Kusejuha (C66),Kuseelundid (C64–C68),Mehed,4,0,0,0,0,0,0,0,0,0,0,1,0,1,2,0,0,0,0
+2008,C66,..Kusejuha (C66),Kuseelundid (C64–C68),Mehed,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,1,1
+2009,C66,..Kusejuha (C66),Kuseelundid (C64–C68),Mehed,3,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0
+2000,C66,..Kusejuha (C66),Kuseelundid (C64–C68),Naised,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0
+2001,C66,..Kusejuha (C66),Kuseelundid (C64–C68),Naised,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+2002,C66,..Kusejuha (C66),Kuseelundid (C64–C68),Naised,3,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1
+2003,C66,..Kusejuha (C66),Kuseelundid (C64–C68),Naised,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2004,C66,..Kusejuha (C66),Kuseelundid (C64–C68),Naised,6,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,3,1,0
+2005,C66,..Kusejuha (C66),Kuseelundid (C64–C68),Naised,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2006,C66,..Kusejuha (C66),Kuseelundid (C64–C68),Naised,2,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0
+2007,C66,..Kusejuha (C66),Kuseelundid (C64–C68),Naised,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+2008,C66,..Kusejuha (C66),Kuseelundid (C64–C68),Naised,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0
+2009,C66,..Kusejuha (C66),Kuseelundid (C64–C68),Naised,6,0,0,0,0,0,0,0,0,0,0,0,1,0,1,2,0,0,2
+2000,C67,..Kusepõis (C67),Kuseelundid (C64–C68),Mehed,150,0,0,0,0,0,1,0,1,4,2,3,15,20,33,31,22,10,8
+2001,C67,..Kusepõis (C67),Kuseelundid (C64–C68),Mehed,139,0,0,0,0,0,0,1,1,3,4,2,11,17,26,34,19,11,10
+2002,C67,..Kusepõis (C67),Kuseelundid (C64–C68),Mehed,167,0,0,0,0,0,1,0,4,3,5,8,10,14,24,44,21,21,12
+2003,C67,..Kusepõis (C67),Kuseelundid (C64–C68),Mehed,160,0,0,0,0,0,0,0,0,1,1,10,12,27,27,37,34,4,7
+2004,C67,..Kusepõis (C67),Kuseelundid (C64–C68),Mehed,165,0,0,0,1,0,0,0,1,2,3,9,12,24,28,31,29,20,5
+2005,C67,..Kusepõis (C67),Kuseelundid (C64–C68),Mehed,157,0,0,0,0,0,0,0,0,0,0,9,10,21,24,35,34,14,10
+2006,C67,..Kusepõis (C67),Kuseelundid (C64–C68),Mehed,160,0,0,0,0,0,1,0,2,0,3,9,15,23,28,30,23,14,12
+2007,C67,..Kusepõis (C67),Kuseelundid (C64–C68),Mehed,151,0,0,0,0,0,0,1,1,1,5,9,12,16,31,23,31,15,6
+2008,C67,..Kusepõis (C67),Kuseelundid (C64–C68),Mehed,166,0,0,0,0,0,0,0,0,4,2,6,21,18,29,39,22,21,4
+2009,C67,..Kusepõis (C67),Kuseelundid (C64–C68),Mehed,151,0,0,0,0,0,0,1,1,5,4,4,16,17,23,13,38,21,8
+2000,C67,..Kusepõis (C67),Kuseelundid (C64–C68),Naised,57,0,0,0,0,0,0,0,0,2,0,1,4,3,7,15,10,6,9
+2001,C67,..Kusepõis (C67),Kuseelundid (C64–C68),Naised,55,0,0,0,0,0,0,0,0,1,1,0,2,7,5,12,11,8,8
+2002,C67,..Kusepõis (C67),Kuseelundid (C64–C68),Naised,51,0,0,0,0,0,0,0,0,1,0,0,1,4,7,12,12,4,10
+2003,C67,..Kusepõis (C67),Kuseelundid (C64–C68),Naised,54,0,0,0,0,0,1,0,0,0,0,2,5,5,7,7,12,9,6
+2004,C67,..Kusepõis (C67),Kuseelundid (C64–C68),Naised,64,0,0,0,0,0,1,1,1,0,1,3,2,4,5,9,12,15,10
+2005,C67,..Kusepõis (C67),Kuseelundid (C64–C68),Naised,44,0,0,0,0,0,0,0,0,0,1,4,2,3,7,6,9,9,3
+2006,C67,..Kusepõis (C67),Kuseelundid (C64–C68),Naised,63,0,0,0,0,0,0,1,0,0,1,2,4,5,11,9,9,9,12
+2007,C67,..Kusepõis (C67),Kuseelundid (C64–C68),Naised,59,0,0,0,0,0,0,0,0,1,1,1,3,3,9,10,7,9,15
+2008,C67,..Kusepõis (C67),Kuseelundid (C64–C68),Naised,57,0,0,0,0,0,0,0,1,0,1,1,5,5,14,10,9,5,6
+2009,C67,..Kusepõis (C67),Kuseelundid (C64–C68),Naised,60,0,0,0,0,0,0,0,0,1,1,3,4,5,7,10,14,8,7
+2000,C68,..Kuseelundid (muu) (C68),Kuseelundid (C64–C68),Mehed,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0
+2001,C68,..Kuseelundid (muu) (C68),Kuseelundid (C64–C68),Mehed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2002,C68,..Kuseelundid (muu) (C68),Kuseelundid (C64–C68),Mehed,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+2003,C68,..Kuseelundid (muu) (C68),Kuseelundid (C64–C68),Mehed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2004,C68,..Kuseelundid (muu) (C68),Kuseelundid (C64–C68),Mehed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2005,C68,..Kuseelundid (muu) (C68),Kuseelundid (C64–C68),Mehed,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+2006,C68,..Kuseelundid (muu) (C68),Kuseelundid (C64–C68),Mehed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007,C68,..Kuseelundid (muu) (C68),Kuseelundid (C64–C68),Mehed,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+2008,C68,..Kuseelundid (muu) (C68),Kuseelundid (C64–C68),Mehed,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1
+2009,C68,..Kuseelundid (muu) (C68),Kuseelundid (C64–C68),Mehed,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0
+2000,C68,..Kuseelundid (muu) (C68),Kuseelundid (C64–C68),Naised,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2001,C68,..Kuseelundid (muu) (C68),Kuseelundid (C64–C68),Naised,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+2002,C68,..Kuseelundid (muu) (C68),Kuseelundid (C64–C68),Naised,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+2003,C68,..Kuseelundid (muu) (C68),Kuseelundid (C64–C68),Naised,2,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0
+2004,C68,..Kuseelundid (muu) (C68),Kuseelundid (C64–C68),Naised,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2005,C68,..Kuseelundid (muu) (C68),Kuseelundid (C64–C68),Naised,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+2006,C68,..Kuseelundid (muu) (C68),Kuseelundid (C64–C68),Naised,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+2007,C68,..Kuseelundid (muu) (C68),Kuseelundid (C64–C68),Naised,3,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0
+2008,C68,..Kuseelundid (muu) (C68),Kuseelundid (C64–C68),Naised,2,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+2009,C68,..Kuseelundid (muu) (C68),Kuseelundid (C64–C68),Naised,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0
+2000,C69,Silm (C69),Silm (C69),Mehed,9,0,0,0,0,0,0,0,0,0,0,0,1,4,1,2,0,1,0
+2001,C69,Silm (C69),Silm (C69),Mehed,8,0,0,1,0,0,0,0,0,0,1,0,1,1,1,1,2,0,0
+2002,C69,Silm (C69),Silm (C69),Mehed,10,0,0,0,0,0,0,1,0,1,0,0,1,2,0,2,1,2,0
+2003,C69,Silm (C69),Silm (C69),Mehed,7,0,1,0,0,0,0,1,0,0,0,1,1,1,0,1,0,1,0
+2004,C69,Silm (C69),Silm (C69),Mehed,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+2005,C69,Silm (C69),Silm (C69),Mehed,4,0,0,0,0,0,0,0,0,1,0,0,1,1,0,1,0,0,0
+2006,C69,Silm (C69),Silm (C69),Mehed,5,1,0,0,0,0,0,0,1,0,0,0,1,0,0,1,0,1,0
+2007,C69,Silm (C69),Silm (C69),Mehed,2,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0
+2008,C69,Silm (C69),Silm (C69),Mehed,6,0,0,0,0,0,0,1,0,0,0,1,0,0,4,0,0,0,0
+2009,C69,Silm (C69),Silm (C69),Mehed,5,0,0,0,0,0,0,0,0,0,0,1,0,1,1,2,0,0,0
+2000,C69,Silm (C69),Silm (C69),Naised,6,0,0,0,0,0,1,0,0,0,1,1,0,1,0,2,0,0,0
+2001,C69,Silm (C69),Silm (C69),Naised,8,1,0,0,0,0,0,0,0,0,1,1,0,1,2,1,1,0,0
+2002,C69,Silm (C69),Silm (C69),Naised,6,1,0,0,0,0,0,0,0,0,0,1,1,0,1,0,1,0,1
+2003,C69,Silm (C69),Silm (C69),Naised,5,0,0,0,0,0,0,0,0,0,1,0,0,0,2,1,0,0,1
+2004,C69,Silm (C69),Silm (C69),Naised,8,0,0,0,0,0,0,0,0,2,1,0,0,1,0,1,2,1,0
+2005,C69,Silm (C69),Silm (C69),Naised,6,1,0,0,0,0,0,0,0,1,0,1,0,1,1,1,0,0,0
+2006,C69,Silm (C69),Silm (C69),Naised,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+2007,C69,Silm (C69),Silm (C69),Naised,3,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0
+2008,C69,Silm (C69),Silm (C69),Naised,6,0,0,0,0,0,0,0,0,1,0,0,1,0,0,2,0,1,1
+2009,C69,Silm (C69),Silm (C69),Naised,6,1,0,0,0,0,0,0,0,0,0,0,2,0,0,2,0,1,0
+2000,C70,..Ajukelmed (C70),Peaaju ja kesknärvisüsteem (C70–C72),Mehed,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+2001,C70,..Ajukelmed (C70),Peaaju ja kesknärvisüsteem (C70–C72),Mehed,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+2002,C70,..Ajukelmed (C70),Peaaju ja kesknärvisüsteem (C70–C72),Mehed,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+2003,C70,..Ajukelmed (C70),Peaaju ja kesknärvisüsteem (C70–C72),Mehed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2004,C70,..Ajukelmed (C70),Peaaju ja kesknärvisüsteem (C70–C72),Mehed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2005,C70,..Ajukelmed (C70),Peaaju ja kesknärvisüsteem (C70–C72),Mehed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2006,C70,..Ajukelmed (C70),Peaaju ja kesknärvisüsteem (C70–C72),Mehed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007,C70,..Ajukelmed (C70),Peaaju ja kesknärvisüsteem (C70–C72),Mehed,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+2008,C70,..Ajukelmed (C70),Peaaju ja kesknärvisüsteem (C70–C72),Mehed,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+2009,C70,..Ajukelmed (C70),Peaaju ja kesknärvisüsteem (C70–C72),Mehed,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+2000,C70,..Ajukelmed (C70),Peaaju ja kesknärvisüsteem (C70–C72),Naised,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+2001,C70,..Ajukelmed (C70),Peaaju ja kesknärvisüsteem (C70–C72),Naised,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+2002,C70,..Ajukelmed (C70),Peaaju ja kesknärvisüsteem (C70–C72),Naised,3,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0
+2003,C70,..Ajukelmed (C70),Peaaju ja kesknärvisüsteem (C70–C72),Naised,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2004,C70,..Ajukelmed (C70),Peaaju ja kesknärvisüsteem (C70–C72),Naised,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+2005,C70,..Ajukelmed (C70),Peaaju ja kesknärvisüsteem (C70–C72),Naised,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2006,C70,..Ajukelmed (C70),Peaaju ja kesknärvisüsteem (C70–C72),Naised,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+2007,C70,..Ajukelmed (C70),Peaaju ja kesknärvisüsteem (C70–C72),Naised,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+2008,C70,..Ajukelmed (C70),Peaaju ja kesknärvisüsteem (C70–C72),Naised,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+2009,C70,..Ajukelmed (C70),Peaaju ja kesknärvisüsteem (C70–C72),Naised,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2000,C71,..Peaaju (C71),Peaaju ja kesknärvisüsteem (C70–C72),Mehed,34,0,2,0,0,1,1,0,2,5,2,6,4,5,4,2,0,0,0
+2001,C71,..Peaaju (C71),Peaaju ja kesknärvisüsteem (C70–C72),Mehed,48,1,1,2,2,1,3,3,1,2,5,7,2,5,9,2,2,0,0
+2002,C71,..Peaaju (C71),Peaaju ja kesknärvisüsteem (C70–C72),Mehed,44,2,0,3,1,2,0,1,2,2,4,2,3,5,4,7,1,4,1
+2003,C71,..Peaaju (C71),Peaaju ja kesknärvisüsteem (C70–C72),Mehed,48,1,1,0,4,2,2,2,2,5,4,3,5,4,6,3,4,0,0
+2004,C71,..Peaaju (C71),Peaaju ja kesknärvisüsteem (C70–C72),Mehed,44,1,0,1,1,0,2,2,1,0,3,7,6,6,6,5,2,1,0
+2005,C71,..Peaaju (C71),Peaaju ja kesknärvisüsteem (C70–C72),Mehed,29,0,1,0,1,0,0,0,2,2,3,4,5,2,3,3,2,0,1
+2006,C71,..Peaaju (C71),Peaaju ja kesknärvisüsteem (C70–C72),Mehed,53,4,0,1,1,0,2,3,2,7,0,5,5,6,9,6,2,0,0
+2007,C71,..Peaaju (C71),Peaaju ja kesknärvisüsteem (C70–C72),Mehed,57,0,1,1,1,1,3,3,4,0,4,6,6,7,5,9,3,3,0
+2008,C71,..Peaaju (C71),Peaaju ja kesknärvisüsteem (C70–C72),Mehed,47,2,1,0,1,1,0,0,3,4,5,3,7,2,7,5,4,1,1
+2009,C71,..Peaaju (C71),Peaaju ja kesknärvisüsteem (C70–C72),Mehed,34,0,0,1,0,0,0,1,1,1,2,4,4,4,3,8,4,0,1
+2000,C71,..Peaaju (C71),Peaaju ja kesknärvisüsteem (C70–C72),Naised,37,1,0,2,0,2,1,1,2,2,1,2,8,6,4,3,1,1,0
+2001,C71,..Peaaju (C71),Peaaju ja kesknärvisüsteem (C70–C72),Naised,45,0,1,1,0,1,1,1,3,1,4,9,4,3,7,4,4,1,0
+2002,C71,..Peaaju (C71),Peaaju ja kesknärvisüsteem (C70–C72),Naised,33,0,0,0,1,0,1,0,0,2,1,2,5,8,5,4,2,2,0
+2003,C71,..Peaaju (C71),Peaaju ja kesknärvisüsteem (C70–C72),Naised,39,2,1,0,1,4,0,2,1,2,3,2,3,3,8,4,0,2,1
+2004,C71,..Peaaju (C71),Peaaju ja kesknärvisüsteem (C70–C72),Naised,35,0,0,1,1,1,0,0,2,1,0,2,5,7,4,5,1,5,0
+2005,C71,..Peaaju (C71),Peaaju ja kesknärvisüsteem (C70–C72),Naised,43,2,0,2,1,1,0,0,0,1,8,2,3,5,5,4,6,2,1
+2006,C71,..Peaaju (C71),Peaaju ja kesknärvisüsteem (C70–C72),Naised,52,2,0,0,0,3,2,0,0,3,6,3,5,8,2,11,5,1,1
+2007,C71,..Peaaju (C71),Peaaju ja kesknärvisüsteem (C70–C72),Naised,41,0,1,0,1,1,0,1,1,2,2,3,7,6,2,6,5,2,1
+2008,C71,..Peaaju (C71),Peaaju ja kesknärvisüsteem (C70–C72),Naised,57,1,1,1,2,1,3,0,1,0,3,1,2,2,10,9,14,3,3
+2009,C71,..Peaaju (C71),Peaaju ja kesknärvisüsteem (C70–C72),Naised,45,1,0,0,0,0,1,1,3,1,6,3,5,5,5,4,3,6,1
+2000,C72,..Kesknärvisüsteem (muu) (C72),Peaaju ja kesknärvisüsteem (C70–C72),Mehed,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+2001,C72,..Kesknärvisüsteem (muu) (C72),Peaaju ja kesknärvisüsteem (C70–C72),Mehed,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+2002,C72,..Kesknärvisüsteem (muu) (C72),Peaaju ja kesknärvisüsteem (C70–C72),Mehed,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+2003,C72,..Kesknärvisüsteem (muu) (C72),Peaaju ja kesknärvisüsteem (C70–C72),Mehed,2,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0
+2004,C72,..Kesknärvisüsteem (muu) (C72),Peaaju ja kesknärvisüsteem (C70–C72),Mehed,3,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0
+2005,C72,..Kesknärvisüsteem (muu) (C72),Peaaju ja kesknärvisüsteem (C70–C72),Mehed,2,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0
+2006,C72,..Kesknärvisüsteem (muu) (C72),Peaaju ja kesknärvisüsteem (C70–C72),Mehed,3,1,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+2007,C72,..Kesknärvisüsteem (muu) (C72),Peaaju ja kesknärvisüsteem (C70–C72),Mehed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2008,C72,..Kesknärvisüsteem (muu) (C72),Peaaju ja kesknärvisüsteem (C70–C72),Mehed,2,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0
+2009,C72,..Kesknärvisüsteem (muu) (C72),Peaaju ja kesknärvisüsteem (C70–C72),Mehed,2,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0
+2000,C72,..Kesknärvisüsteem (muu) (C72),Peaaju ja kesknärvisüsteem (C70–C72),Naised,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+2001,C72,..Kesknärvisüsteem (muu) (C72),Peaaju ja kesknärvisüsteem (C70–C72),Naised,4,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,1,0,0
+2002,C72,..Kesknärvisüsteem (muu) (C72),Peaaju ja kesknärvisüsteem (C70–C72),Naised,3,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0
+2003,C72,..Kesknärvisüsteem (muu) (C72),Peaaju ja kesknärvisüsteem (C70–C72),Naised,2,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0
+2004,C72,..Kesknärvisüsteem (muu) (C72),Peaaju ja kesknärvisüsteem (C70–C72),Naised,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+2005,C72,..Kesknärvisüsteem (muu) (C72),Peaaju ja kesknärvisüsteem (C70–C72),Naised,4,0,0,0,0,0,0,2,0,0,0,1,0,0,1,0,0,0,0
+2006,C72,..Kesknärvisüsteem (muu) (C72),Peaaju ja kesknärvisüsteem (C70–C72),Naised,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0
+2007,C72,..Kesknärvisüsteem (muu) (C72),Peaaju ja kesknärvisüsteem (C70–C72),Naised,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2008,C72,..Kesknärvisüsteem (muu) (C72),Peaaju ja kesknärvisüsteem (C70–C72),Naised,3,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0
+2009,C72,..Kesknärvisüsteem (muu) (C72),Peaaju ja kesknärvisüsteem (C70–C72),Naised,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0
+2000,C73,Kilpnääre (C73),Kilpnääre (C73),Mehed,10,0,0,0,0,0,1,0,1,0,0,2,0,2,3,0,1,0,0
+2001,C73,Kilpnääre (C73),Kilpnääre (C73),Mehed,6,0,0,0,0,0,0,0,1,0,0,1,0,1,0,2,0,0,1
+2002,C73,Kilpnääre (C73),Kilpnääre (C73),Mehed,13,0,0,0,0,0,0,0,1,3,0,0,2,2,3,2,0,0,0
+2003,C73,Kilpnääre (C73),Kilpnääre (C73),Mehed,7,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,3,2,0
+2004,C73,Kilpnääre (C73),Kilpnääre (C73),Mehed,14,0,0,0,0,0,0,0,0,0,2,2,1,2,3,3,1,0,0
+2005,C73,Kilpnääre (C73),Kilpnääre (C73),Mehed,14,0,0,0,0,0,0,0,0,2,0,0,3,1,2,0,3,3,0
+2006,C73,Kilpnääre (C73),Kilpnääre (C73),Mehed,18,0,0,1,0,2,0,1,1,1,1,2,2,2,3,0,1,1,0
+2007,C73,Kilpnääre (C73),Kilpnääre (C73),Mehed,14,0,0,1,1,0,0,1,0,1,1,1,2,1,2,2,1,0,0
+2008,C73,Kilpnääre (C73),Kilpnääre (C73),Mehed,20,0,0,0,0,0,1,0,0,1,1,4,5,1,3,3,1,0,0
+2009,C73,Kilpnääre (C73),Kilpnääre (C73),Mehed,25,0,1,0,2,0,1,2,1,1,1,2,4,0,7,1,2,0,0
+2000,C73,Kilpnääre (C73),Kilpnääre (C73),Naised,63,0,0,0,2,0,3,3,3,2,6,6,8,10,7,5,5,1,2
+2001,C73,Kilpnääre (C73),Kilpnääre (C73),Naised,55,0,0,1,0,1,3,0,3,6,7,3,8,4,10,4,3,1,1
+2002,C73,Kilpnääre (C73),Kilpnääre (C73),Naised,47,0,0,1,0,1,1,2,0,1,3,7,4,6,10,2,7,1,1
+2003,C73,Kilpnääre (C73),Kilpnääre (C73),Naised,71,0,0,0,0,1,2,1,3,6,7,13,2,9,8,7,4,4,4
+2004,C73,Kilpnääre (C73),Kilpnääre (C73),Naised,62,0,0,1,1,2,3,1,2,8,5,4,5,6,7,5,6,5,1
+2005,C73,Kilpnääre (C73),Kilpnääre (C73),Naised,54,0,0,0,0,0,2,2,3,1,6,6,5,3,9,7,4,5,1
+2006,C73,Kilpnääre (C73),Kilpnääre (C73),Naised,59,0,0,0,0,1,1,1,3,6,6,10,1,6,5,7,4,7,1
+2007,C73,Kilpnääre (C73),Kilpnääre (C73),Naised,75,0,0,0,0,4,2,3,4,5,7,11,8,2,12,6,6,4,1
+2008,C73,Kilpnääre (C73),Kilpnääre (C73),Naised,71,0,0,0,0,0,3,1,0,1,7,14,13,5,11,3,6,4,3
+2009,C73,Kilpnääre (C73),Kilpnääre (C73),Naised,55,0,0,0,0,2,3,2,2,4,7,4,4,6,5,8,3,3,2
+2000,C74–C75,Sisesekretsiooninäärmed (muu) (C74–C75),Sisesekretsiooninäärmed (muu) (C74–C75),Mehed,3,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0
+2001,C74–C75,Sisesekretsiooninäärmed (muu) (C74–C75),Sisesekretsiooninäärmed (muu) (C74–C75),Mehed,5,0,0,1,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0
+2002,C74–C75,Sisesekretsiooninäärmed (muu) (C74–C75),Sisesekretsiooninäärmed (muu) (C74–C75),Mehed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2003,C74–C75,Sisesekretsiooninäärmed (muu) (C74–C75),Sisesekretsiooninäärmed (muu) (C74–C75),Mehed,8,0,0,0,0,0,0,0,0,0,0,0,1,0,5,0,2,0,0
+2004,C74–C75,Sisesekretsiooninäärmed (muu) (C74–C75),Sisesekretsiooninäärmed (muu) (C74–C75),Mehed,3,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0
+2005,C74–C75,Sisesekretsiooninäärmed (muu) (C74–C75),Sisesekretsiooninäärmed (muu) (C74–C75),Mehed,7,0,0,0,0,0,1,1,0,0,1,0,1,1,0,1,1,0,0
+2006,C74–C75,Sisesekretsiooninäärmed (muu) (C74–C75),Sisesekretsiooninäärmed (muu) (C74–C75),Mehed,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0
+2007,C74–C75,Sisesekretsiooninäärmed (muu) (C74–C75),Sisesekretsiooninäärmed (muu) (C74–C75),Mehed,3,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0
+2008,C74–C75,Sisesekretsiooninäärmed (muu) (C74–C75),Sisesekretsiooninäärmed (muu) (C74–C75),Mehed,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+2009,C74–C75,Sisesekretsiooninäärmed (muu) (C74–C75),Sisesekretsiooninäärmed (muu) (C74–C75),Mehed,5,2,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0
+2000,C74–C75,Sisesekretsiooninäärmed (muu) (C74–C75),Sisesekretsiooninäärmed (muu) (C74–C75),Naised,6,0,0,0,0,0,0,1,0,0,0,0,1,0,2,1,1,0,0
+2001,C74–C75,Sisesekretsiooninäärmed (muu) (C74–C75),Sisesekretsiooninäärmed (muu) (C74–C75),Naised,3,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0
+2002,C74–C75,Sisesekretsiooninäärmed (muu) (C74–C75),Sisesekretsiooninäärmed (muu) (C74–C75),Naised,3,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+2003,C74–C75,Sisesekretsiooninäärmed (muu) (C74–C75),Sisesekretsiooninäärmed (muu) (C74–C75),Naised,4,0,0,0,0,0,1,1,0,1,0,0,0,1,0,0,0,0,0
+2004,C74–C75,Sisesekretsiooninäärmed (muu) (C74–C75),Sisesekretsiooninäärmed (muu) (C74–C75),Naised,5,0,0,0,0,0,2,0,0,0,1,0,0,0,1,0,1,0,0
+2005,C74–C75,Sisesekretsiooninäärmed (muu) (C74–C75),Sisesekretsiooninäärmed (muu) (C74–C75),Naised,4,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2,0,1
+2006,C74–C75,Sisesekretsiooninäärmed (muu) (C74–C75),Sisesekretsiooninäärmed (muu) (C74–C75),Naised,7,0,0,0,0,0,0,0,0,0,1,0,0,1,2,0,2,1,0
+2007,C74–C75,Sisesekretsiooninäärmed (muu) (C74–C75),Sisesekretsiooninäärmed (muu) (C74–C75),Naised,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0
+2008,C74–C75,Sisesekretsiooninäärmed (muu) (C74–C75),Sisesekretsiooninäärmed (muu) (C74–C75),Naised,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+2009,C74–C75,Sisesekretsiooninäärmed (muu) (C74–C75),Sisesekretsiooninäärmed (muu) (C74–C75),Naised,5,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,2,0
+2000,C76–C80,Paige teadmata või täpsustamata (C76–C80),Paige teadmata või täpsustamata (C76–C80),Mehed,61,0,0,0,0,1,0,1,1,2,3,4,9,7,7,12,8,2,4
+2001,C76–C80,Paige teadmata või täpsustamata (C76–C80),Paige teadmata või täpsustamata (C76–C80),Mehed,77,0,0,0,0,0,0,0,1,1,6,6,5,15,12,12,10,6,3
+2002,C76–C80,Paige teadmata või täpsustamata (C76–C80),Paige teadmata või täpsustamata (C76–C80),Mehed,69,0,0,0,1,0,0,0,0,2,3,4,6,15,19,7,6,4,2
+2003,C76–C80,Paige teadmata või täpsustamata (C76–C80),Paige teadmata või täpsustamata (C76–C80),Mehed,75,0,0,0,0,0,0,0,0,3,1,8,4,15,13,12,10,9,0
+2004,C76–C80,Paige teadmata või täpsustamata (C76–C80),Paige teadmata või täpsustamata (C76–C80),Mehed,81,0,0,0,0,0,0,0,1,1,1,6,7,12,20,18,11,3,1
+2005,C76–C80,Paige teadmata või täpsustamata (C76–C80),Paige teadmata või täpsustamata (C76–C80),Mehed,91,0,0,0,1,0,0,1,0,0,3,7,15,13,19,14,13,3,2
+2006,C76–C80,Paige teadmata või täpsustamata (C76–C80),Paige teadmata või täpsustamata (C76–C80),Mehed,87,0,0,0,0,0,1,1,1,0,3,8,11,17,11,20,6,6,2
+2007,C76–C80,Paige teadmata või täpsustamata (C76–C80),Paige teadmata või täpsustamata (C76–C80),Mehed,82,0,0,0,0,1,0,0,1,1,5,4,8,10,13,17,10,7,5
+2008,C76–C80,Paige teadmata või täpsustamata (C76–C80),Paige teadmata või täpsustamata (C76–C80),Mehed,68,0,0,0,0,0,2,1,0,0,3,8,11,6,11,14,5,6,1
+2009,C76–C80,Paige teadmata või täpsustamata (C76–C80),Paige teadmata või täpsustamata (C76–C80),Mehed,66,0,0,0,0,0,1,1,1,2,1,3,3,8,11,9,9,11,6
+2000,C76–C80,Paige teadmata või täpsustamata (C76–C80),Paige teadmata või täpsustamata (C76–C80),Naised,71,0,0,0,0,0,0,0,0,0,3,5,8,7,11,11,10,7,9
+2001,C76–C80,Paige teadmata või täpsustamata (C76–C80),Paige teadmata või täpsustamata (C76–C80),Naised,68,0,0,0,0,0,0,0,0,0,1,4,3,8,8,14,11,11,8
+2002,C76–C80,Paige teadmata või täpsustamata (C76–C80),Paige teadmata või täpsustamata (C76–C80),Naised,47,0,0,0,0,0,0,0,0,3,0,2,4,5,5,12,6,7,3
+2003,C76–C80,Paige teadmata või täpsustamata (C76–C80),Paige teadmata või täpsustamata (C76–C80),Naised,79,1,0,0,0,0,0,0,0,1,6,5,0,12,4,18,14,13,5
+2004,C76–C80,Paige teadmata või täpsustamata (C76–C80),Paige teadmata või täpsustamata (C76–C80),Naised,59,0,0,0,0,0,0,0,0,1,3,3,0,5,7,9,14,10,7
+2005,C76–C80,Paige teadmata või täpsustamata (C76–C80),Paige teadmata või täpsustamata (C76–C80),Naised,73,0,0,0,0,0,0,0,0,0,5,6,6,4,7,9,13,11,12
+2006,C76–C80,Paige teadmata või täpsustamata (C76–C80),Paige teadmata või täpsustamata (C76–C80),Naised,76,0,0,0,0,0,0,1,0,1,0,2,3,11,9,13,14,12,10
+2007,C76–C80,Paige teadmata või täpsustamata (C76–C80),Paige teadmata või täpsustamata (C76–C80),Naised,56,0,0,0,0,0,0,0,0,1,4,1,5,4,2,8,15,5,11
+2008,C76–C80,Paige teadmata või täpsustamata (C76–C80),Paige teadmata või täpsustamata (C76–C80),Naised,70,0,0,0,0,0,0,0,0,0,0,2,3,5,3,11,20,14,12
+2009,C76–C80,Paige teadmata või täpsustamata (C76–C80),Paige teadmata või täpsustamata (C76–C80),Naised,67,0,0,0,0,0,0,0,0,0,2,2,5,3,9,10,10,16,10
+2000,C81,Hodgkini tõbi (C81),Hodgkini tõbi (C81),Mehed,15,0,0,1,2,4,1,0,2,0,0,1,2,2,0,0,0,0,0
+2001,C81,Hodgkini tõbi (C81),Hodgkini tõbi (C81),Mehed,14,0,0,0,6,2,2,2,0,0,1,0,0,0,0,1,0,0,0
+2002,C81,Hodgkini tõbi (C81),Hodgkini tõbi (C81),Mehed,10,0,0,0,3,3,0,1,1,0,0,0,1,0,1,0,0,0,0
+2003,C81,Hodgkini tõbi (C81),Hodgkini tõbi (C81),Mehed,18,0,0,0,2,0,3,5,2,4,0,0,0,0,2,0,0,0,0
+2004,C81,Hodgkini tõbi (C81),Hodgkini tõbi (C81),Mehed,21,1,0,1,3,4,2,1,2,1,0,3,2,1,0,0,0,0,0
+2005,C81,Hodgkini tõbi (C81),Hodgkini tõbi (C81),Mehed,11,0,1,0,1,3,0,2,0,2,1,0,1,0,0,0,0,0,0
+2006,C81,Hodgkini tõbi (C81),Hodgkini tõbi (C81),Mehed,17,0,0,1,4,0,2,2,2,3,0,0,1,0,0,1,0,1,0
+2007,C81,Hodgkini tõbi (C81),Hodgkini tõbi (C81),Mehed,21,0,0,0,2,4,2,4,2,0,2,0,0,0,2,1,2,0,0
+2008,C81,Hodgkini tõbi (C81),Hodgkini tõbi (C81),Mehed,10,0,0,0,1,1,2,1,2,1,0,0,1,0,1,0,0,0,0
+2009,C81,Hodgkini tõbi (C81),Hodgkini tõbi (C81),Mehed,18,0,0,0,0,4,4,4,3,1,1,1,0,0,0,0,0,0,0
+2000,C81,Hodgkini tõbi (C81),Hodgkini tõbi (C81),Naised,18,0,0,0,2,3,2,2,0,1,0,0,0,2,2,2,0,2,0
+2001,C81,Hodgkini tõbi (C81),Hodgkini tõbi (C81),Naised,22,0,0,0,1,7,5,2,0,1,0,2,0,1,1,1,0,0,1
+2002,C81,Hodgkini tõbi (C81),Hodgkini tõbi (C81),Naised,19,0,0,0,4,2,3,3,2,0,2,0,0,1,1,1,0,0,0
+2003,C81,Hodgkini tõbi (C81),Hodgkini tõbi (C81),Naised,17,0,0,0,1,4,2,2,3,1,0,1,1,0,1,1,0,0,0
+2004,C81,Hodgkini tõbi (C81),Hodgkini tõbi (C81),Naised,11,0,0,0,2,2,1,1,0,1,0,1,0,0,1,2,0,0,0
+2005,C81,Hodgkini tõbi (C81),Hodgkini tõbi (C81),Naised,19,0,0,1,1,2,2,2,1,2,0,0,3,1,2,0,0,2,0
+2006,C81,Hodgkini tõbi (C81),Hodgkini tõbi (C81),Naised,17,0,0,0,3,5,4,2,0,0,0,0,0,0,1,1,0,0,1
+2007,C81,Hodgkini tõbi (C81),Hodgkini tõbi (C81),Naised,14,0,0,0,2,0,2,3,1,1,0,0,2,0,0,1,1,1,0
+2008,C81,Hodgkini tõbi (C81),Hodgkini tõbi (C81),Naised,17,0,0,1,1,3,4,1,1,1,2,0,0,1,0,0,0,2,0
+2009,C81,Hodgkini tõbi (C81),Hodgkini tõbi (C81),Naised,18,0,0,0,1,3,4,0,1,1,1,0,1,2,0,1,2,0,1
+2000,C82–C85/96,Mitte-Hodgkini lümfoom (C82–C85/96),Mitte-Hodgkini lümfoom (C82–C85/96),Mehed,65,2,0,2,0,0,1,1,1,4,4,4,9,12,6,11,5,1,2
+2001,C82–C85/96,Mitte-Hodgkini lümfoom (C82–C85/96),Mitte-Hodgkini lümfoom (C82–C85/96),Mehed,66,1,0,2,1,1,0,0,1,0,5,1,4,11,14,11,8,4,2
+2002,C82–C85/96,Mitte-Hodgkini lümfoom (C82–C85/96),Mitte-Hodgkini lümfoom (C82–C85/96),Mehed,60,0,0,0,0,1,1,0,1,3,2,4,6,7,12,11,8,2,2
+2003,C82–C85/96,Mitte-Hodgkini lümfoom (C82–C85/96),Mitte-Hodgkini lümfoom (C82–C85/96),Mehed,63,1,0,0,1,3,0,0,2,7,4,4,5,3,4,14,9,6,0
+2004,C82–C85/96,Mitte-Hodgkini lümfoom (C82–C85/96),Mitte-Hodgkini lümfoom (C82–C85/96),Mehed,76,0,1,0,1,1,3,2,2,3,0,5,5,11,14,14,5,7,2
+2005,C82–C85/96,Mitte-Hodgkini lümfoom (C82–C85/96),Mitte-Hodgkini lümfoom (C82–C85/96),Mehed,67,0,0,0,1,2,2,2,1,3,5,5,10,7,7,13,4,3,2
+2006,C82–C85/96,Mitte-Hodgkini lümfoom (C82–C85/96),Mitte-Hodgkini lümfoom (C82–C85/96),Mehed,60,0,1,0,0,2,2,1,0,1,2,7,11,4,7,5,12,3,2
+2007,C82–C85/96,Mitte-Hodgkini lümfoom (C82–C85/96),Mitte-Hodgkini lümfoom (C82–C85/96),Mehed,64,0,0,0,1,2,1,2,3,2,7,1,4,5,10,7,10,7,2
+2008,C82–C85/96,Mitte-Hodgkini lümfoom (C82–C85/96),Mitte-Hodgkini lümfoom (C82–C85/96),Mehed,78,0,0,0,0,1,3,1,3,4,3,2,4,11,10,13,10,12,1
+2009,C82–C85/96,Mitte-Hodgkini lümfoom (C82–C85/96),Mitte-Hodgkini lümfoom (C82–C85/96),Mehed,68,0,0,1,0,2,2,0,1,5,2,7,3,5,3,13,14,9,1
+2000,C82–C85/96,Mitte-Hodgkini lümfoom (C82–C85/96),Mitte-Hodgkini lümfoom (C82–C85/96),Naised,68,0,1,1,0,0,2,2,0,4,4,3,5,10,10,7,12,5,2
+2001,C82–C85/96,Mitte-Hodgkini lümfoom (C82–C85/96),Mitte-Hodgkini lümfoom (C82–C85/96),Naised,74,0,1,0,1,0,1,2,3,3,5,4,2,2,12,10,13,10,5
+2002,C82–C85/96,Mitte-Hodgkini lümfoom (C82–C85/96),Mitte-Hodgkini lümfoom (C82–C85/96),Naised,60,0,0,0,0,0,1,1,2,1,3,3,5,12,4,12,8,4,4
+2003,C82–C85/96,Mitte-Hodgkini lümfoom (C82–C85/96),Mitte-Hodgkini lümfoom (C82–C85/96),Naised,72,0,0,1,0,1,1,1,0,3,1,5,4,5,14,12,14,9,1
+2004,C82–C85/96,Mitte-Hodgkini lümfoom (C82–C85/96),Mitte-Hodgkini lümfoom (C82–C85/96),Naised,74,0,1,0,0,2,0,0,0,1,2,5,5,4,11,15,15,10,3
+2005,C82–C85/96,Mitte-Hodgkini lümfoom (C82–C85/96),Mitte-Hodgkini lümfoom (C82–C85/96),Naised,63,0,0,0,1,1,0,1,0,1,4,3,4,0,11,10,13,10,4
+2006,C82–C85/96,Mitte-Hodgkini lümfoom (C82–C85/96),Mitte-Hodgkini lümfoom (C82–C85/96),Naised,53,0,0,0,1,2,0,2,3,0,0,5,4,4,10,5,5,6,6
+2007,C82–C85/96,Mitte-Hodgkini lümfoom (C82–C85/96),Mitte-Hodgkini lümfoom (C82–C85/96),Naised,76,0,0,0,2,2,0,2,0,0,1,3,5,5,17,12,15,9,3
+2008,C82–C85/96,Mitte-Hodgkini lümfoom (C82–C85/96),Mitte-Hodgkini lümfoom (C82–C85/96),Naised,79,0,0,0,1,0,0,0,2,4,4,6,6,9,6,10,16,7,8
+2009,C82–C85/96,Mitte-Hodgkini lümfoom (C82–C85/96),Mitte-Hodgkini lümfoom (C82–C85/96),Naised,72,0,1,0,0,0,1,0,0,1,2,5,4,8,8,17,12,8,5
+2000,C88,Immunoproliferatiivhaigused (C88),Immunoproliferatiivhaigused (C88),Mehed,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0
+2001,C88,Immunoproliferatiivhaigused (C88),Immunoproliferatiivhaigused (C88),Mehed,3,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1
+2002,C88,Immunoproliferatiivhaigused (C88),Immunoproliferatiivhaigused (C88),Mehed,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+2003,C88,Immunoproliferatiivhaigused (C88),Immunoproliferatiivhaigused (C88),Mehed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2004,C88,Immunoproliferatiivhaigused (C88),Immunoproliferatiivhaigused (C88),Mehed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2005,C88,Immunoproliferatiivhaigused (C88),Immunoproliferatiivhaigused (C88),Mehed,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+2006,C88,Immunoproliferatiivhaigused (C88),Immunoproliferatiivhaigused (C88),Mehed,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0
+2007,C88,Immunoproliferatiivhaigused (C88),Immunoproliferatiivhaigused (C88),Mehed,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+2008,C88,Immunoproliferatiivhaigused (C88),Immunoproliferatiivhaigused (C88),Mehed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009,C88,Immunoproliferatiivhaigused (C88),Immunoproliferatiivhaigused (C88),Mehed,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+2000,C88,Immunoproliferatiivhaigused (C88),Immunoproliferatiivhaigused (C88),Naised,3,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0
+2001,C88,Immunoproliferatiivhaigused (C88),Immunoproliferatiivhaigused (C88),Naised,4,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0,0
+2002,C88,Immunoproliferatiivhaigused (C88),Immunoproliferatiivhaigused (C88),Naised,3,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0
+2003,C88,Immunoproliferatiivhaigused (C88),Immunoproliferatiivhaigused (C88),Naised,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0
+2004,C88,Immunoproliferatiivhaigused (C88),Immunoproliferatiivhaigused (C88),Naised,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2005,C88,Immunoproliferatiivhaigused (C88),Immunoproliferatiivhaigused (C88),Naised,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2006,C88,Immunoproliferatiivhaigused (C88),Immunoproliferatiivhaigused (C88),Naised,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007,C88,Immunoproliferatiivhaigused (C88),Immunoproliferatiivhaigused (C88),Naised,3,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0
+2008,C88,Immunoproliferatiivhaigused (C88),Immunoproliferatiivhaigused (C88),Naised,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009,C88,Immunoproliferatiivhaigused (C88),Immunoproliferatiivhaigused (C88),Naised,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2000,C90,Hulgimüeloom (C90),Hulgimüeloom (C90),Mehed,17,0,0,0,0,0,0,0,0,1,1,0,4,6,2,1,2,0,0
+2001,C90,Hulgimüeloom (C90),Hulgimüeloom (C90),Mehed,19,0,0,0,0,0,0,0,0,1,1,1,1,0,4,7,2,1,1
+2002,C90,Hulgimüeloom (C90),Hulgimüeloom (C90),Mehed,25,0,0,0,0,0,0,0,0,0,0,3,3,7,4,6,2,0,0
+2003,C90,Hulgimüeloom (C90),Hulgimüeloom (C90),Mehed,25,0,0,0,0,0,0,0,1,0,3,2,4,4,4,3,2,2,0
+2004,C90,Hulgimüeloom (C90),Hulgimüeloom (C90),Mehed,25,0,0,0,0,0,0,0,0,2,1,2,3,2,3,9,3,0,0
+2005,C90,Hulgimüeloom (C90),Hulgimüeloom (C90),Mehed,39,0,0,0,0,0,0,0,0,1,2,1,7,6,4,6,6,4,2
+2006,C90,Hulgimüeloom (C90),Hulgimüeloom (C90),Mehed,25,0,0,0,0,0,0,1,0,0,3,1,3,2,4,5,2,4,0
+2007,C90,Hulgimüeloom (C90),Hulgimüeloom (C90),Mehed,26,0,0,0,0,0,0,0,0,0,4,5,2,2,3,3,4,3,0
+2008,C90,Hulgimüeloom (C90),Hulgimüeloom (C90),Mehed,24,0,0,0,0,0,0,0,2,0,0,2,4,2,4,1,7,1,1
+2009,C90,Hulgimüeloom (C90),Hulgimüeloom (C90),Mehed,25,0,0,0,0,0,0,0,0,0,1,1,1,4,0,7,6,5,0
+2000,C90,Hulgimüeloom (C90),Hulgimüeloom (C90),Naised,32,0,0,0,0,0,0,0,0,2,0,1,2,6,4,8,6,3,0
+2001,C90,Hulgimüeloom (C90),Hulgimüeloom (C90),Naised,30,0,0,0,0,0,0,0,0,0,1,1,5,2,11,3,6,0,1
+2002,C90,Hulgimüeloom (C90),Hulgimüeloom (C90),Naised,29,0,0,0,0,0,0,0,1,0,3,2,2,2,3,8,3,4,1
+2003,C90,Hulgimüeloom (C90),Hulgimüeloom (C90),Naised,38,0,0,0,0,0,0,0,0,0,2,6,3,6,4,7,5,3,2
+2004,C90,Hulgimüeloom (C90),Hulgimüeloom (C90),Naised,23,0,0,0,0,0,0,0,0,0,0,0,3,2,5,4,7,2,0
+2005,C90,Hulgimüeloom (C90),Hulgimüeloom (C90),Naised,34,0,0,0,0,1,0,0,0,0,1,2,4,3,5,4,11,1,2
+2006,C90,Hulgimüeloom (C90),Hulgimüeloom (C90),Naised,31,0,0,0,0,0,0,0,0,1,2,1,4,5,3,4,8,2,1
+2007,C90,Hulgimüeloom (C90),Hulgimüeloom (C90),Naised,33,0,0,0,0,0,0,0,1,2,1,0,3,3,8,3,8,3,1
+2008,C90,Hulgimüeloom (C90),Hulgimüeloom (C90),Naised,35,0,0,0,0,0,0,0,0,0,1,1,3,3,8,6,8,4,1
+2009,C90,Hulgimüeloom (C90),Hulgimüeloom (C90),Naised,42,0,0,0,0,0,0,0,0,1,2,3,2,9,7,3,9,5,1
+2000,C91–C95,Leukeemia (C91–C95),Leukeemia (C91–C95),Mehed,67,0,2,1,0,0,2,1,3,1,6,5,2,9,9,9,9,4,4
+2001,C91–C95,Leukeemia (C91–C95),Leukeemia (C91–C95),Mehed,65,1,0,1,2,1,0,1,2,1,4,8,5,9,9,12,7,0,2
+2002,C91–C95,Leukeemia (C91–C95),Leukeemia (C91–C95),Mehed,92,3,3,2,3,1,0,0,2,3,2,3,3,12,19,11,17,6,2
+2003,C91–C95,Leukeemia (C91–C95),Leukeemia (C91–C95),Mehed,115,2,0,3,2,0,0,1,2,4,3,8,10,14,22,20,14,8,2
+2004,C91–C95,Leukeemia (C91–C95),Leukeemia (C91–C95),Mehed,87,3,1,2,0,3,2,2,2,2,6,8,2,7,10,16,10,9,2
+2005,C91–C95,Leukeemia (C91–C95),Leukeemia (C91–C95),Mehed,82,2,0,1,0,0,0,1,0,3,2,6,6,4,14,16,16,5,6
+2006,C91–C95,Leukeemia (C91–C95),Leukeemia (C91–C95),Mehed,71,0,0,0,2,2,0,1,0,3,2,4,6,8,11,10,14,5,3
+2007,C91–C95,Leukeemia (C91–C95),Leukeemia (C91–C95),Mehed,106,0,0,1,0,0,0,0,0,5,2,6,13,5,19,15,23,11,6
+2008,C91–C95,Leukeemia (C91–C95),Leukeemia (C91–C95),Mehed,86,3,0,2,2,2,0,1,2,2,1,6,7,10,18,13,8,5,4
+2009,C91–C95,Leukeemia (C91–C95),Leukeemia (C91–C95),Mehed,85,1,1,0,2,1,2,0,2,1,6,6,10,12,9,10,12,7,3
+2000,C91–C95,Leukeemia (C91–C95),Leukeemia (C91–C95),Naised,84,2,0,3,0,0,1,0,2,0,1,10,5,5,11,23,7,7,7
+2001,C91–C95,Leukeemia (C91–C95),Leukeemia (C91–C95),Naised,84,1,1,1,1,1,2,0,1,4,3,5,3,5,10,14,20,7,5
+2002,C91–C95,Leukeemia (C91–C95),Leukeemia (C91–C95),Naised,71,0,1,3,1,1,0,0,0,1,4,3,1,9,12,17,6,8,4
+2003,C91–C95,Leukeemia (C91–C95),Leukeemia (C91–C95),Naised,79,1,2,1,0,0,1,2,1,2,2,2,4,8,13,12,15,5,8
+2004,C91–C95,Leukeemia (C91–C95),Leukeemia (C91–C95),Naised,95,2,0,1,3,1,0,1,0,2,1,4,9,8,16,10,22,8,7
+2005,C91–C95,Leukeemia (C91–C95),Leukeemia (C91–C95),Naised,93,2,1,2,0,2,0,0,1,1,4,2,4,8,16,12,18,11,9
+2006,C91–C95,Leukeemia (C91–C95),Leukeemia (C91–C95),Naised,101,3,0,0,4,1,1,2,0,3,2,6,5,5,12,12,26,13,6
+2007,C91–C95,Leukeemia (C91–C95),Leukeemia (C91–C95),Naised,97,1,0,0,1,1,0,3,1,1,4,5,5,3,17,10,20,16,9
+2008,C91–C95,Leukeemia (C91–C95),Leukeemia (C91–C95),Naised,72,2,0,1,1,1,0,1,1,0,2,6,6,7,8,15,2,11,8
+2009,C91–C95,Leukeemia (C91–C95),Leukeemia (C91–C95),Naised,79,0,2,1,0,0,0,1,3,1,2,4,6,6,8,16,11,14,4
+2000,C91.0,..Äge lümfoidleukeemia (C91.0),Lümfoidleukeemia (C91),Mehed,4,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+2001,C91.0,..Äge lümfoidleukeemia (C91.0),Lümfoidleukeemia (C91),Mehed,4,0,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+2002,C91.0,..Äge lümfoidleukeemia (C91.0),Lümfoidleukeemia (C91),Mehed,10,2,1,1,2,1,0,0,0,1,1,0,0,1,0,0,0,0,0
+2003,C91.0,..Äge lümfoidleukeemia (C91.0),Lümfoidleukeemia (C91),Mehed,10,2,0,3,1,0,0,0,0,0,1,1,0,0,1,0,1,0,0
+2004,C91.0,..Äge lümfoidleukeemia (C91.0),Lümfoidleukeemia (C91),Mehed,7,3,1,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0
+2005,C91.0,..Äge lümfoidleukeemia (C91.0),Lümfoidleukeemia (C91),Mehed,4,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+2006,C91.0,..Äge lümfoidleukeemia (C91.0),Lümfoidleukeemia (C91),Mehed,3,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0
+2007,C91.0,..Äge lümfoidleukeemia (C91.0),Lümfoidleukeemia (C91),Mehed,3,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0
+2008,C91.0,..Äge lümfoidleukeemia (C91.0),Lümfoidleukeemia (C91),Mehed,8,1,0,2,1,1,0,1,0,1,0,0,0,1,0,0,0,0,0
+2009,C91.0,..Äge lümfoidleukeemia (C91.0),Lümfoidleukeemia (C91),Mehed,9,1,1,0,0,1,1,0,1,0,0,0,2,0,1,1,0,0,0
+2000,C91.0,..Äge lümfoidleukeemia (C91.0),Lümfoidleukeemia (C91),Naised,7,2,0,2,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0
+2001,C91.0,..Äge lümfoidleukeemia (C91.0),Lümfoidleukeemia (C91),Naised,7,1,1,0,1,0,0,0,0,0,0,1,0,0,1,0,2,0,0
+2002,C91.0,..Äge lümfoidleukeemia (C91.0),Lümfoidleukeemia (C91),Naised,4,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+2003,C91.0,..Äge lümfoidleukeemia (C91.0),Lümfoidleukeemia (C91),Naised,10,1,2,1,0,0,0,1,1,0,0,0,0,2,0,2,0,0,0
+2004,C91.0,..Äge lümfoidleukeemia (C91.0),Lümfoidleukeemia (C91),Naised,6,1,0,1,2,0,0,0,0,0,0,0,2,0,0,0,0,0,0
+2005,C91.0,..Äge lümfoidleukeemia (C91.0),Lümfoidleukeemia (C91),Naised,3,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2006,C91.0,..Äge lümfoidleukeemia (C91.0),Lümfoidleukeemia (C91),Naised,5,2,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007,C91.0,..Äge lümfoidleukeemia (C91.0),Lümfoidleukeemia (C91),Naised,4,1,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0
+2008,C91.0,..Äge lümfoidleukeemia (C91.0),Lümfoidleukeemia (C91),Naised,5,2,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+2009,C91.0,..Äge lümfoidleukeemia (C91.0),Lümfoidleukeemia (C91),Naised,7,0,1,0,0,0,0,1,1,0,0,1,0,1,1,0,1,0,0
+2000,C91.1,..Krooniline lümfoidleukeemia (C91.1),Lümfoidleukeemia (C91),Mehed,26,0,0,0,0,0,0,0,0,0,3,3,2,2,6,4,4,2,0
+2001,C91.1,..Krooniline lümfoidleukeemia (C91.1),Lümfoidleukeemia (C91),Mehed,29,0,0,0,0,0,0,0,0,0,1,4,3,7,5,7,1,0,1
+2002,C91.1,..Krooniline lümfoidleukeemia (C91.1),Lümfoidleukeemia (C91),Mehed,31,0,0,0,0,0,0,0,0,0,0,2,2,6,8,5,6,0,2
+2003,C91.1,..Krooniline lümfoidleukeemia (C91.1),Lümfoidleukeemia (C91),Mehed,49,0,0,0,0,0,0,0,0,1,1,3,5,9,13,9,6,1,1
+2004,C91.1,..Krooniline lümfoidleukeemia (C91.1),Lümfoidleukeemia (C91),Mehed,45,0,0,0,0,0,0,0,1,1,3,5,1,4,8,8,7,6,1
+2005,C91.1,..Krooniline lümfoidleukeemia (C91.1),Lümfoidleukeemia (C91),Mehed,40,0,0,0,0,0,0,0,0,0,2,2,2,2,8,10,7,3,4
+2006,C91.1,..Krooniline lümfoidleukeemia (C91.1),Lümfoidleukeemia (C91),Mehed,34,0,0,0,0,0,0,0,0,2,0,2,5,4,6,6,7,2,0
+2007,C91.1,..Krooniline lümfoidleukeemia (C91.1),Lümfoidleukeemia (C91),Mehed,41,0,0,0,0,0,0,0,0,3,0,1,7,2,9,6,6,3,4
+2008,C91.1,..Krooniline lümfoidleukeemia (C91.1),Lümfoidleukeemia (C91),Mehed,41,0,0,0,0,0,0,0,0,0,1,4,3,8,11,6,4,1,3
+2009,C91.1,..Krooniline lümfoidleukeemia (C91.1),Lümfoidleukeemia (C91),Mehed,38,0,0,0,0,0,0,0,0,1,1,3,5,7,6,5,8,2,0
+2000,C91.1,..Krooniline lümfoidleukeemia (C91.1),Lümfoidleukeemia (C91),Naised,37,0,0,0,0,0,0,0,0,0,1,5,3,2,6,8,5,2,5
+2001,C91.1,..Krooniline lümfoidleukeemia (C91.1),Lümfoidleukeemia (C91),Naised,36,0,0,0,0,0,0,0,0,0,2,1,2,4,6,8,6,5,2
+2002,C91.1,..Krooniline lümfoidleukeemia (C91.1),Lümfoidleukeemia (C91),Naised,30,0,0,0,0,0,0,0,0,0,2,1,1,5,6,6,2,4,3
+2003,C91.1,..Krooniline lümfoidleukeemia (C91.1),Lümfoidleukeemia (C91),Naised,33,0,0,0,0,0,0,0,0,0,0,0,1,3,9,7,6,3,4
+2004,C91.1,..Krooniline lümfoidleukeemia (C91.1),Lümfoidleukeemia (C91),Naised,46,0,0,0,0,0,0,0,0,1,0,2,4,4,13,4,11,3,4
+2005,C91.1,..Krooniline lümfoidleukeemia (C91.1),Lümfoidleukeemia (C91),Naised,39,0,0,0,0,0,0,0,1,0,2,1,1,5,5,5,9,4,6
+2006,C91.1,..Krooniline lümfoidleukeemia (C91.1),Lümfoidleukeemia (C91),Naised,41,0,0,0,0,0,0,0,0,0,2,2,1,1,5,6,12,10,2
+2007,C91.1,..Krooniline lümfoidleukeemia (C91.1),Lümfoidleukeemia (C91),Naised,42,0,0,0,0,0,0,0,0,0,0,3,2,1,9,6,8,9,4
+2008,C91.1,..Krooniline lümfoidleukeemia (C91.1),Lümfoidleukeemia (C91),Naised,36,0,0,0,0,0,0,0,0,0,1,4,2,5,5,8,0,7,4
+2009,C91.1,..Krooniline lümfoidleukeemia (C91.1),Lümfoidleukeemia (C91),Naised,37,0,0,0,0,0,0,0,0,1,0,0,1,4,5,9,8,7,2
+2000,C91.2–C91.9,..Lümfoidleukeemia (muu) (C91.2–C91.9),Lümfoidleukeemia (C91),Mehed,4,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,1
+2001,C91.2–C91.9,..Lümfoidleukeemia (muu) (C91.2–C91.9),Lümfoidleukeemia (C91),Mehed,4,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,1,0,0
+2002,C91.2–C91.9,..Lümfoidleukeemia (muu) (C91.2–C91.9),Lümfoidleukeemia (C91),Mehed,5,0,0,0,0,0,0,0,0,0,0,0,0,2,1,1,1,0,0
+2003,C91.2–C91.9,..Lümfoidleukeemia (muu) (C91.2–C91.9),Lümfoidleukeemia (C91),Mehed,7,0,0,0,0,0,0,0,1,0,0,0,0,0,1,2,1,2,0
+2004,C91.2–C91.9,..Lümfoidleukeemia (muu) (C91.2–C91.9),Lümfoidleukeemia (C91),Mehed,3,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,1,0
+2005,C91.2–C91.9,..Lümfoidleukeemia (muu) (C91.2–C91.9),Lümfoidleukeemia (C91),Mehed,3,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0
+2006,C91.2–C91.9,..Lümfoidleukeemia (muu) (C91.2–C91.9),Lümfoidleukeemia (C91),Mehed,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0
+2007,C91.2–C91.9,..Lümfoidleukeemia (muu) (C91.2–C91.9),Lümfoidleukeemia (C91),Mehed,9,0,0,0,0,0,0,0,0,1,0,1,2,0,2,1,1,1,0
+2008,C91.2–C91.9,..Lümfoidleukeemia (muu) (C91.2–C91.9),Lümfoidleukeemia (C91),Mehed,3,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0
+2009,C91.2–C91.9,..Lümfoidleukeemia (muu) (C91.2–C91.9),Lümfoidleukeemia (C91),Mehed,2,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0
+2000,C91.2–C91.9,..Lümfoidleukeemia (muu) (C91.2–C91.9),Lümfoidleukeemia (C91),Naised,7,0,0,0,0,0,0,0,1,0,0,0,0,0,0,3,0,1,2
+2001,C91.2–C91.9,..Lümfoidleukeemia (muu) (C91.2–C91.9),Lümfoidleukeemia (C91),Naised,2,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+2002,C91.2–C91.9,..Lümfoidleukeemia (muu) (C91.2–C91.9),Lümfoidleukeemia (C91),Naised,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2003,C91.2–C91.9,..Lümfoidleukeemia (muu) (C91.2–C91.9),Lümfoidleukeemia (C91),Naised,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+2004,C91.2–C91.9,..Lümfoidleukeemia (muu) (C91.2–C91.9),Lümfoidleukeemia (C91),Naised,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0
+2005,C91.2–C91.9,..Lümfoidleukeemia (muu) (C91.2–C91.9),Lümfoidleukeemia (C91),Naised,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2006,C91.2–C91.9,..Lümfoidleukeemia (muu) (C91.2–C91.9),Lümfoidleukeemia (C91),Naised,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0
+2007,C91.2–C91.9,..Lümfoidleukeemia (muu) (C91.2–C91.9),Lümfoidleukeemia (C91),Naised,2,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0
+2008,C91.2–C91.9,..Lümfoidleukeemia (muu) (C91.2–C91.9),Lümfoidleukeemia (C91),Naised,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1
+2009,C91.2–C91.9,..Lümfoidleukeemia (muu) (C91.2–C91.9),Lümfoidleukeemia (C91),Naised,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1
+2000,C92,Müeloidleukeemia (C92),Müeloidleukeemia (C92),Mehed,31,0,0,0,0,0,2,1,3,1,2,2,0,6,3,4,4,0,3
+2001,C92,Müeloidleukeemia (C92),Müeloidleukeemia (C92),Mehed,26,0,0,0,0,1,0,1,0,1,2,4,2,1,4,4,5,0,1
+2002,C92,Müeloidleukeemia (C92),Müeloidleukeemia (C92),Mehed,43,1,2,1,1,0,0,0,2,2,1,1,1,3,9,5,9,5,0
+2003,C92,Müeloidleukeemia (C92),Müeloidleukeemia (C92),Mehed,48,0,0,0,1,0,0,1,1,3,1,4,4,5,7,9,6,5,1
+2004,C92,Müeloidleukeemia (C92),Müeloidleukeemia (C92),Mehed,27,0,0,2,0,1,2,0,1,0,1,3,1,2,2,7,3,2,0
+2005,C92,Müeloidleukeemia (C92),Müeloidleukeemia (C92),Mehed,26,1,0,0,0,0,0,1,0,0,0,3,3,1,4,5,4,2,2
+2006,C92,Müeloidleukeemia (C92),Müeloidleukeemia (C92),Mehed,29,0,0,0,1,2,0,1,0,1,1,2,1,4,3,2,6,3,2
+2007,C92,Müeloidleukeemia (C92),Müeloidleukeemia (C92),Mehed,50,0,0,0,0,0,0,0,0,1,2,4,4,3,7,7,15,6,1
+2008,C92,Müeloidleukeemia (C92),Müeloidleukeemia (C92),Mehed,31,1,0,0,1,1,0,0,2,1,0,2,3,1,6,7,3,3,0
+2009,C92,Müeloidleukeemia (C92),Müeloidleukeemia (C92),Mehed,34,0,0,0,2,0,1,0,1,0,4,2,3,4,2,3,4,5,3
+2000,C92,Müeloidleukeemia (C92),Müeloidleukeemia (C92),Naised,28,0,0,1,0,0,0,0,0,0,0,4,2,3,5,9,2,2,0
+2001,C92,Müeloidleukeemia (C92),Müeloidleukeemia (C92),Naised,37,0,0,1,0,1,1,0,1,3,1,2,1,1,3,6,11,2,3
+2002,C92,Müeloidleukeemia (C92),Müeloidleukeemia (C92),Naised,34,0,0,2,1,1,0,0,0,0,2,1,0,3,6,10,4,3,1
+2003,C92,Müeloidleukeemia (C92),Müeloidleukeemia (C92),Naised,31,0,0,0,0,0,1,1,0,2,2,1,3,3,3,3,7,2,3
+2004,C92,Müeloidleukeemia (C92),Müeloidleukeemia (C92),Naised,36,0,0,0,1,1,0,1,0,1,0,2,3,4,2,6,8,4,3
+2005,C92,Müeloidleukeemia (C92),Müeloidleukeemia (C92),Naised,49,1,0,1,0,2,0,0,0,1,2,1,3,3,10,7,9,6,3
+2006,C92,Müeloidleukeemia (C92),Müeloidleukeemia (C92),Naised,45,1,0,0,1,1,1,2,0,2,0,3,2,4,5,5,13,2,3
+2007,C92,Müeloidleukeemia (C92),Müeloidleukeemia (C92),Naised,45,0,0,0,1,0,0,2,1,1,4,2,2,1,6,3,12,6,4
+2008,C92,Müeloidleukeemia (C92),Müeloidleukeemia (C92),Naised,25,0,0,0,1,0,0,1,1,0,1,2,3,2,2,5,1,4,2
+2009,C92,Müeloidleukeemia (C92),Müeloidleukeemia (C92),Naised,30,0,1,1,0,0,0,0,1,0,2,3,4,1,2,6,1,7,1
+2000,C92.0,..Äge müeloidleukeemia (C92.0),Müeloidleukeemia (C92),Mehed,17,0,0,0,0,0,1,1,2,0,1,1,0,1,2,1,4,0,3
+2001,C92.0,..Äge müeloidleukeemia (C92.0),Müeloidleukeemia (C92),Mehed,15,0,0,0,0,0,0,1,0,0,1,2,1,0,4,2,3,0,1
+2002,C92.0,..Äge müeloidleukeemia (C92.0),Müeloidleukeemia (C92),Mehed,17,0,0,1,1,0,0,0,1,0,1,0,0,2,4,2,3,2,0
+2003,C92.0,..Äge müeloidleukeemia (C92.0),Müeloidleukeemia (C92),Mehed,23,0,0,0,0,0,0,1,0,2,0,3,3,2,5,3,1,3,0
+2004,C92.0,..Äge müeloidleukeemia (C92.0),Müeloidleukeemia (C92),Mehed,19,0,0,2,0,0,1,0,1,0,1,2,1,1,2,5,2,1,0
+2005,C92.0,..Äge müeloidleukeemia (C92.0),Müeloidleukeemia (C92),Mehed,16,1,0,0,0,0,0,0,0,0,0,3,1,1,2,3,3,2,0
+2006,C92.0,..Äge müeloidleukeemia (C92.0),Müeloidleukeemia (C92),Mehed,17,0,0,0,1,2,0,1,0,1,1,1,0,2,2,1,4,0,1
+2007,C92.0,..Äge müeloidleukeemia (C92.0),Müeloidleukeemia (C92),Mehed,27,0,0,0,0,0,0,0,0,0,0,3,3,2,1,7,8,2,1
+2008,C92.0,..Äge müeloidleukeemia (C92.0),Müeloidleukeemia (C92),Mehed,14,1,0,0,0,1,0,0,0,0,0,1,1,0,3,4,2,1,0
+2009,C92.0,..Äge müeloidleukeemia (C92.0),Müeloidleukeemia (C92),Mehed,23,0,0,0,1,0,1,0,0,0,1,2,2,3,2,2,3,3,3
+2000,C92.0,..Äge müeloidleukeemia (C92.0),Müeloidleukeemia (C92),Naised,17,0,0,1,0,0,0,0,0,0,0,3,1,1,3,7,0,1,0
+2001,C92.0,..Äge müeloidleukeemia (C92.0),Müeloidleukeemia (C92),Naised,20,0,0,0,0,0,1,0,0,1,1,0,1,1,1,4,6,2,2
+2002,C92.0,..Äge müeloidleukeemia (C92.0),Müeloidleukeemia (C92),Naised,23,0,0,2,1,0,0,0,0,0,1,1,0,2,5,6,3,2,0
+2003,C92.0,..Äge müeloidleukeemia (C92.0),Müeloidleukeemia (C92),Naised,17,0,0,0,0,0,1,0,0,1,1,1,1,1,1,2,5,1,2
+2004,C92.0,..Äge müeloidleukeemia (C92.0),Müeloidleukeemia (C92),Naised,18,0,0,0,1,0,0,1,0,1,0,1,2,2,0,5,2,1,2
+2005,C92.0,..Äge müeloidleukeemia (C92.0),Müeloidleukeemia (C92),Naised,28,1,0,1,0,0,0,0,0,1,1,1,2,1,5,4,4,4,3
+2006,C92.0,..Äge müeloidleukeemia (C92.0),Müeloidleukeemia (C92),Naised,31,1,0,0,1,0,1,0,0,2,0,1,2,4,1,4,11,2,1
+2007,C92.0,..Äge müeloidleukeemia (C92.0),Müeloidleukeemia (C92),Naised,31,0,0,0,1,0,0,2,0,1,2,1,1,1,5,2,7,5,3
+2008,C92.0,..Äge müeloidleukeemia (C92.0),Müeloidleukeemia (C92),Naised,16,0,0,0,1,0,0,0,0,0,0,0,3,0,2,5,1,3,1
+2009,C92.0,..Äge müeloidleukeemia (C92.0),Müeloidleukeemia (C92),Naised,15,0,1,0,0,0,0,0,1,0,0,1,2,0,2,3,1,4,0
+2000,C92.1,..Krooniline müeloidleukeemia (C92.1),Müeloidleukeemia (C92),Mehed,12,0,0,0,0,0,1,0,1,0,1,1,0,4,1,3,0,0,0
+2001,C92.1,..Krooniline müeloidleukeemia (C92.1),Müeloidleukeemia (C92),Mehed,7,0,0,0,0,0,0,0,0,1,1,1,1,1,0,1,1,0,0
+2002,C92.1,..Krooniline müeloidleukeemia (C92.1),Müeloidleukeemia (C92),Mehed,18,1,1,0,0,0,0,0,1,2,0,0,0,1,4,1,6,1,0
+2003,C92.1,..Krooniline müeloidleukeemia (C92.1),Müeloidleukeemia (C92),Mehed,17,0,0,0,0,0,0,0,1,1,1,1,1,3,2,2,3,1,1
+2004,C92.1,..Krooniline müeloidleukeemia (C92.1),Müeloidleukeemia (C92),Mehed,5,0,0,0,0,0,1,0,0,0,0,1,0,1,0,1,1,0,0
+2005,C92.1,..Krooniline müeloidleukeemia (C92.1),Müeloidleukeemia (C92),Mehed,6,0,0,0,0,0,0,1,0,0,0,0,1,0,2,1,0,0,1
+2006,C92.1,..Krooniline müeloidleukeemia (C92.1),Müeloidleukeemia (C92),Mehed,10,0,0,0,0,0,0,0,0,0,0,1,1,2,1,1,1,3,0
+2007,C92.1,..Krooniline müeloidleukeemia (C92.1),Müeloidleukeemia (C92),Mehed,13,0,0,0,0,0,0,0,0,0,2,0,0,0,4,0,6,1,0
+2008,C92.1,..Krooniline müeloidleukeemia (C92.1),Müeloidleukeemia (C92),Mehed,14,0,0,0,0,0,0,0,2,1,0,0,2,1,3,2,1,2,0
+2009,C92.1,..Krooniline müeloidleukeemia (C92.1),Müeloidleukeemia (C92),Mehed,8,0,0,0,1,0,0,0,1,0,2,0,1,1,0,0,0,2,0
+2000,C92.1,..Krooniline müeloidleukeemia (C92.1),Müeloidleukeemia (C92),Naised,9,0,0,0,0,0,0,0,0,0,0,1,1,2,1,1,2,1,0
+2001,C92.1,..Krooniline müeloidleukeemia (C92.1),Müeloidleukeemia (C92),Naised,9,0,0,0,0,0,0,0,0,2,0,1,0,0,1,1,4,0,0
+2002,C92.1,..Krooniline müeloidleukeemia (C92.1),Müeloidleukeemia (C92),Naised,7,0,0,0,0,0,0,0,0,0,1,0,0,1,0,2,1,1,1
+2003,C92.1,..Krooniline müeloidleukeemia (C92.1),Müeloidleukeemia (C92),Naised,10,0,0,0,0,0,0,1,0,1,1,0,1,1,1,1,2,1,0
+2004,C92.1,..Krooniline müeloidleukeemia (C92.1),Müeloidleukeemia (C92),Naised,13,0,0,0,0,0,0,0,0,0,0,0,1,1,2,1,5,3,0
+2005,C92.1,..Krooniline müeloidleukeemia (C92.1),Müeloidleukeemia (C92),Naised,14,0,0,0,0,1,0,0,0,0,1,0,1,1,4,2,2,2,0
+2006,C92.1,..Krooniline müeloidleukeemia (C92.1),Müeloidleukeemia (C92),Naised,7,0,0,0,0,0,0,2,0,0,0,1,0,0,3,0,0,0,1
+2007,C92.1,..Krooniline müeloidleukeemia (C92.1),Müeloidleukeemia (C92),Naised,8,0,0,0,0,0,0,0,1,0,0,1,1,0,1,0,4,0,0
+2008,C92.1,..Krooniline müeloidleukeemia (C92.1),Müeloidleukeemia (C92),Naised,6,0,0,0,0,0,0,1,1,0,1,1,0,1,0,0,0,0,1
+2009,C92.1,..Krooniline müeloidleukeemia (C92.1),Müeloidleukeemia (C92),Naised,10,0,0,0,0,0,0,0,0,0,2,1,1,1,0,2,0,2,1
+2000,C92.2–C92.9,..Müeloidleukeemia (muu) (C92.2–C92.9),Müeloidleukeemia (C92),Mehed,2,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+2001,C92.2–C92.9,..Müeloidleukeemia (muu) (C92.2–C92.9),Müeloidleukeemia (C92),Mehed,4,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1,1,0,0
+2002,C92.2–C92.9,..Müeloidleukeemia (muu) (C92.2–C92.9),Müeloidleukeemia (C92),Mehed,8,0,1,0,0,0,0,0,0,0,0,1,1,0,1,2,0,2,0
+2003,C92.2–C92.9,..Müeloidleukeemia (muu) (C92.2–C92.9),Müeloidleukeemia (C92),Mehed,8,0,0,0,1,0,0,0,0,0,0,0,0,0,0,4,2,1,0
+2004,C92.2–C92.9,..Müeloidleukeemia (muu) (C92.2–C92.9),Müeloidleukeemia (C92),Mehed,3,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0
+2005,C92.2–C92.9,..Müeloidleukeemia (muu) (C92.2–C92.9),Müeloidleukeemia (C92),Mehed,4,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,1
+2006,C92.2–C92.9,..Müeloidleukeemia (muu) (C92.2–C92.9),Müeloidleukeemia (C92),Mehed,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+2007,C92.2–C92.9,..Müeloidleukeemia (muu) (C92.2–C92.9),Müeloidleukeemia (C92),Mehed,10,0,0,0,0,0,0,0,0,1,0,1,1,1,2,0,1,3,0
+2008,C92.2–C92.9,..Müeloidleukeemia (muu) (C92.2–C92.9),Müeloidleukeemia (C92),Mehed,3,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0
+2009,C92.2–C92.9,..Müeloidleukeemia (muu) (C92.2–C92.9),Müeloidleukeemia (C92),Mehed,3,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0
+2000,C92.2–C92.9,..Müeloidleukeemia (muu) (C92.2–C92.9),Müeloidleukeemia (C92),Naised,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0
+2001,C92.2–C92.9,..Müeloidleukeemia (muu) (C92.2–C92.9),Müeloidleukeemia (C92),Naised,8,0,0,1,0,1,0,0,1,0,0,1,0,0,1,1,1,0,1
+2002,C92.2–C92.9,..Müeloidleukeemia (muu) (C92.2–C92.9),Müeloidleukeemia (C92),Naised,4,0,0,0,0,1,0,0,0,0,0,0,0,0,1,2,0,0,0
+2003,C92.2–C92.9,..Müeloidleukeemia (muu) (C92.2–C92.9),Müeloidleukeemia (C92),Naised,4,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,1
+2004,C92.2–C92.9,..Müeloidleukeemia (muu) (C92.2–C92.9),Müeloidleukeemia (C92),Naised,5,0,0,0,0,1,0,0,0,0,0,1,0,1,0,0,1,0,1
+2005,C92.2–C92.9,..Müeloidleukeemia (muu) (C92.2–C92.9),Müeloidleukeemia (C92),Naised,7,0,0,0,0,1,0,0,0,0,0,0,0,1,1,1,3,0,0
+2006,C92.2–C92.9,..Müeloidleukeemia (muu) (C92.2–C92.9),Müeloidleukeemia (C92),Naised,7,0,0,0,0,1,0,0,0,0,0,1,0,0,1,1,2,0,1
+2007,C92.2–C92.9,..Müeloidleukeemia (muu) (C92.2–C92.9),Müeloidleukeemia (C92),Naised,6,0,0,0,0,0,0,0,0,0,2,0,0,0,0,1,1,1,1
+2008,C92.2–C92.9,..Müeloidleukeemia (muu) (C92.2–C92.9),Müeloidleukeemia (C92),Naised,3,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0
+2009,C92.2–C92.9,..Müeloidleukeemia (muu) (C92.2–C92.9),Müeloidleukeemia (C92),Naised,5,0,0,1,0,0,0,0,0,0,0,1,1,0,0,1,0,1,0
+2000,C93–C95,Leukeemia (muu) (C93–C95),Leukeemia (muu) (C93–C95),Mehed,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0
+2001,C93–C95,Leukeemia (muu) (C93–C95),Leukeemia (muu) (C93–C95),Mehed,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+2002,C93–C95,Leukeemia (muu) (C93–C95),Leukeemia (muu) (C93–C95),Mehed,3,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0
+2003,C93–C95,Leukeemia (muu) (C93–C95),Leukeemia (muu) (C93–C95),Mehed,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+2004,C93–C95,Leukeemia (muu) (C93–C95),Leukeemia (muu) (C93–C95),Mehed,5,0,0,0,0,1,0,1,0,0,0,0,0,1,0,1,0,0,1
+2005,C93–C95,Leukeemia (muu) (C93–C95),Leukeemia (muu) (C93–C95),Mehed,9,0,0,0,0,0,0,0,0,1,0,1,0,1,2,1,3,0,0
+2006,C93–C95,Leukeemia (muu) (C93–C95),Leukeemia (muu) (C93–C95),Mehed,3,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1
+2007,C93–C95,Leukeemia (muu) (C93–C95),Leukeemia (muu) (C93–C95),Mehed,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1
+2008,C93–C95,Leukeemia (muu) (C93–C95),Leukeemia (muu) (C93–C95),Mehed,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+2009,C93–C95,Leukeemia (muu) (C93–C95),Leukeemia (muu) (C93–C95),Mehed,2,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+2000,C93–C95,Leukeemia (muu) (C93–C95),Leukeemia (muu) (C93–C95),Naised,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,2,0
+2001,C93–C95,Leukeemia (muu) (C93–C95),Leukeemia (muu) (C93–C95),Naised,2,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0
+2002,C93–C95,Leukeemia (muu) (C93–C95),Leukeemia (muu) (C93–C95),Naised,3,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0
+2003,C93–C95,Leukeemia (muu) (C93–C95),Leukeemia (muu) (C93–C95),Naised,4,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2,0,1
+2004,C93–C95,Leukeemia (muu) (C93–C95),Leukeemia (muu) (C93–C95),Naised,5,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,0,0
+2005,C93–C95,Leukeemia (muu) (C93–C95),Leukeemia (muu) (C93–C95),Naised,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0
+2006,C93–C95,Leukeemia (muu) (C93–C95),Leukeemia (muu) (C93–C95),Naised,8,0,0,0,0,0,0,0,0,1,0,1,2,0,2,0,1,0,1
+2007,C93–C95,Leukeemia (muu) (C93–C95),Leukeemia (muu) (C93–C95),Naised,4,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,1
+2008,C93–C95,Leukeemia (muu) (C93–C95),Leukeemia (muu) (C93–C95),Naised,3,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1
+2009,C93–C95,Leukeemia (muu) (C93–C95),Leukeemia (muu) (C93–C95),Naised,3,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0
