@@ -9,3 +9,6 @@ ggplot2
 reshape
 dplyr
 ggthemes
+slidifyLibraries
+plyr
+reshape2
