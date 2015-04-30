@@ -718,6 +718,138 @@ LOH-il on erinevaid mehhanisme:
 
 **LOH-e ühendavaks teguriks on nendega kaasnev oluliselt kõrgem risk neoplastiliseks transformatsiooniks**.
 
+---
+
+## NF1 on dominantselt päranduv geneetiline haigus
+
+- NF1, esmaskirjeldus Fredrich von Recklinghauseni poolt 1882, on perekondlik **vähisündroom** esinemissagedusega 1 inimesel 3500.
+- Kuna **NF1 patsientidel esinevad pärilikud deletsioonid ja teised *loss-of-function* mutatsioonid**, siis klassifitseerub NF1 tuumorsupressorgeeniks. 
+- Pooltel NF1 patsientidest on perekondlik haigus ja pooled on pärinud *de novo* mutatsiooni. 
+- Seega on NF1 lookus inimese genoomis mutatsiooniline *hotspot*-i. 
+- Kooskõlas klassikalise tuumorsupressorgeeni stsenaariumiga, on NF1 patsientidel jälgitav metsik-tüüpi alleeli kadumine LOH-i või *second-hit* somaatilise mutatsiooni teel.
+
+---
+
+## *'Cafe-au-lait'* laigud
+
+![cafe](http://nfcenter.wustl.edu/wp-content/uploads/2010/09/0821172c2a45.jpg)
+
+<footer class="source">Pilt:http://nfcenter.wustl.edu/</footer>
+
+---
+## NF1 vastutab neurofibromatoos I tekke eest
+
+- NF1 patsientidel on eelsoodumus erinevate vähivormide tekkele, peamiselt perifeerses- ja kesknärvisüsteemis.
+- Patsientidel esineb ka kognitiivseid defekte ja teisi vähiga mitte seotud sümptomeid, mis puudutavad sagedasti neuraalharjast pärit kudesid väljaspool PNS-i.
+- Iseloomulik kliiniline tunnus on perifeerse närvi vähk **neurofibroom**.
+- 5-10% NF1 patsientidel areneb välja **invasiivne pleksiformne neurofibroom (MPNST)**.
+- Lisaks on NF1 patsientidel kõrgenenud risk saada astrotsütoome, feokromotsütoome (*pheochromocytoma*) ja müeloid leukeemiaid.
+
+---
+## NF1 on RasGAP
+
+![nf1](http://ars.els-cdn.com/content/image/1-s2.0-S0092867401002458-gr1.jpg)
+
+---&twocol
+## Normaalne perifeerne närv ja neurofibroomi areng
+
+***=left
+
+![](http://ars.els-cdn.com/content/image/1-s2.0-S0092867401002458-gr3.jpg)
+
+***=right
+
+- Perifeerne närv koosneb neuronitest, Schwanni rakkudest, perineuraalrakkudest, fibroblastidest ja sisaldab ka nuumrakke.
+- **Neurofibroomides on kõiki närvi rakutüüpe rohkem**. Lisaks on Schwanni rakud dissotseerunud neuronitest ja perineurium on lagunenud.
+- Neurofibroomi areng saab alguse teiseset mutatsioonist või LOH-ist Schwanni rakkudes. Schwanni rakkude transformeerumine põhjustab muutused ka teistes rakutüüpides, tingituna siis sõltvusest Schwanni rakkudest või haplopuudulikkusest.
+
+---
+## APC, perekondlik *adenomatous polyposis coli*
+
+- Perekondlikku/pärilikku *adenomatous polyposis coli* (FAP) vormi iseloomustab rohke polüüpide teke sooles.
+- APC geen on muteerunud umbes 60% sporaadilistes kartsinoomides ja adenoomides.
+- APC on multidomäänne valk mis seostub mitmete teiste valkudega, nagu β-kateniin, aksiin (*axin*), mikrotuubulid ja tsütoskeleti regulaatoreid EB1 (*end binding 1*) ja IQGAP1,  Asef1 (Rac GEF).
+- Enamus (~60%) APC vähimutatsioone asuvad geenis piirkonnas mida nimetatakse '*mutation cluster region (MCR)*' ning põhjustavad valgus C-terminaalse deletsiooni.
+- C-terminaalse deletsiooni tagajärjel kaotab APC võime siduda β-kateniini ja MT.
+- β-kateniini või mikrotuubulite sidumine on essentsiaalne tuumorsupressor aktiivsuse seisukohalt.
+- Selle APC funktsiooni kadumine põhjustab β-kateniini akumuleerumise tuumas, kus ta toimib TF-ina kompleksis koos TCF (*T-cell factor*) ja LEF (*lymphoid enhancer factor*) transkriptsioonifaktoritega.
+
+---
+# APC funktsioone
+
+Rakuline protsess | wild-type APC toime |	APC geeni deleteerumise või valgu trunkeerumise toime	| APC domäänid	| APC funktsioonid	| Seostuvad valgud	
+-------------------|--------------------------|-----------------------------------------|--------|---------------|-------------------
+kanooniline Wnt signaalirada, transkriptsioon |	inhibitsioon |	aktivatsioon (kadu) |	Armadillo kordused; 15- või 20-aa kordused | stimuleerib β-kateniini fosforüleerimise ja degradatsiooni	| β-katenin, GSK3β, aksiin
+adhesioon  | stimuleerib |	nõrgendab (kadu)	| Armadillo kordused; 15- või 20-aa kordused |	β-kateniini rakuline jaotumine plasmamembraani, tuuma ja tsütoplasma vahel |	β-kateniin
+migratsioon |  stimuleerib |	tugevam stimulatsioon (trunkeeritud) | Armadillo kordused |	Asef1 ja Asef2 aktivatsioon $\rightarrow$ Cdc42 aktivatsioon	| Asef1 ja Asef2
+kromosoomide lahknemine | korrektne lahknemine	| segregatsioonidefektid (kadu)	| aluseline domään |	kinetohoori funktsiooni regulatsioon	| mikrotorukesed
+
+<footer class="source">Tabel:doi: 10.1242/jcs.03485</footer>
+
+--- &twocol
+## APC domäänide funktsioonid ja soolevähi deletsioonid
+
+***=right
+
+![apc](http://jcs.biologists.org/content/120/19/3327/F1.medium.gif)
+
+***=left
+
+- Kanoonilise Wnt signaaliraja liigne aktivatsioon mängib põhilist rolli APC mutatsioonide poolt põhustatud soolevähi tekkes. 
+- Lisaks on APC-l ouline roll rakkude migratsioonis, adhesioonis ja mitoosis.
+
+---&twocol
+***=left
+
+<img src="http://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Beta-catenin-ARM-domain-interactions.png/330px-Beta-catenin-ARM-domain-interactions.png" alt="Beta-catenin" style="width: 300px;"/>
+<footer class="source">Pilt:en.wikipedia.org/wiki/Beta-catenin</footer>
+
+***=right
+
+<img src="http://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Beta-catenin-destruction-complex.png/495px-Beta-catenin-destruction-complex.png" alt="Beta-catenin" style="width: 300px;"/>
+
+
+---
+## von Hippel-Lindau tuumorsupressorgeen ja neeruvähk
+
+- von Hippel-Lindau tuumorsupressorgeen (VHL), kromosoomis 3p25, on muteerunud või vaigistatud >50% sporaadilistes selgerakulistes neeruvähkides (*clear cell renal cell carcinomas, CCRCC*).
+- Pärilikud VHL mutatsioonid põhjustavad sündroomi mida iseloomustab kõrgenenud risk saada veresoonevähk (hemangioblastoom) või *RCC*.
+- VHL inaktivatsioon põhjustab premaliigsete neerutsüstide tekke. Tsüstide arenemise kartsinoomideks põhustab ilmselt lisamutatsioonide akumuleerumine. 
+- VHL geenilt kodeeritav valk **pVHL** on funktsioonilt E3 ubiquitiin ligaasi substraati ära tundev subühik, 
+- pVHL saadab piisava hapniku olemasolul keskkonnas (normoksia) proteasoomsele lagundamisele HIF transkriptsioonifaktori (*hypoxia-inducible factor*).
+
+---&twocol
+## pVHL määrab HIF valgu lagundamise 
+
+***=left
+
+- pVHL osaleb stabiilses ubikvitiin ligaasi kompleksis koos valkudega elongin B, elongin C, Cul2, and Rbx1.
+- pVHL märklaudadeks on HIF-$\alpha$ perekonna valgud HIF-1$\alpha$, HIF-2$\alpha$ ja HIF-3$\alpha$.
+- HIF-$\alpha$ valgud on muidu väga ebastabiilsed, välja arvatud madala hapniku tingimustes. 
+- Normaalse hapniku tingimustes HIF valgud hüdroksüleeritakse konserveerunud proliinijääkidel. Seda reaktsiooni viivad läbi prolüül hüdroksülaasid (EGLN perek. valgud).
+- Proliin-hüdroksüleeritud HIF seostub pVHL-ile ja ubikvitineeritakse.
+
+***=right
+
+![hif](http://openi.nlm.nih.gov/imgs/512/151/2360036/2360036_6603547f1.png)
+
+<footer class="source">Pilt:openi.nlm.nih.gov</footer>
+
+---&twocol
+## HIF on transkriptsioonifaktor
+
+***=left
+
+<img src="http://www.chem.ox.ac.uk/oc/cjschofield/images/new-2.png" alt="hif" style="width: 460px;"/>
+
+***=right
+
+- Rakkudes kus puudub funktsionaalne pVHL, või madala hapniku tingimustes, toimub HIF akumuleerumine 
+- HIF käivitub terve rea hüpoksia adaptatsiooniga seotud geenide transkriptsiooni.
+- HIF märklaudgeenid on seotud glükoosi metabolismi ja transpordiga (Glut1, glükolüütilised ensüümid), rakuvälise pH regulatsiooniga (*carbonic anhydrase IX*), angiogeneesiga (VEGF), erütropoeesiga (EPO) ja mitogeenid (TGF-$\alpha$, PDGF-B).
+- Katseliselt on näidatud, et HIF-2$\alpha$ alla regulatsioon on vajalik ja piisav, et pVHL supresseeriks neeruvähki.
+
+<footer class="source">Pilt:openi.nlm.nih.gov</footer>
 
 ---
 ## Tumorigenees
