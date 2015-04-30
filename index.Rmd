@@ -364,8 +364,255 @@ Katsusaburō Yamagiwa
 
 <q>Füüsilise või keemilise katserogeeni poolt transformeerunud rakud kannavad muteerunud geene - *onkogeene* - , mis rikuvad normaalse kasvukontrolli.</q>
 
----
+---.segue .dark .nobackground
+## Onkogeenid
 
+--- &twocol
+## Tuumor-/onkoviiruste avastamine
+
+*** =left
+- 1908 aastal näitasid Taani teadlased Vilhelm Ellerman (1871-1924) ja Oluf Bang (1881-1937) et **lindude leukeemia** (*avian viral leukemia*) kandub viraalsel teel üle.
+
+- 1909-11 aastatel katsetas Francis Peyton Rous (1879-1970) talle uurimiseks toodud **kana sarkoomiga** ja leidis samuti, et seda tuumorit on võimalik kanadel üle kanda vähi rakkudest sõltumatult.
+
+*** =right
+![avl](http://www.nature.com/nrc/journal/v10/n12/images/nrc2961-f1.jpg)
+
+---- bg:lavender
+## Onkoviirus on integreerinud oma genoomi rakulise onkogeeni
+
+![src](http://www.nature.com/nrc/journal/v12/n9/images/nrc3320-f1.jpg)
+
+----
+## Inimese kasvajatest leitud retroviraalsed onkogeenid, näited
+
+Viirus | Liik | Onkogeen | Onkovalk | Inimese kasvaja
+-------|------|----------|----------|----------------------------
+Rousi sarkoom | kana | src | mitte-retseptor TK | käärsoole vähk
+Abelsoni leukeemia | hiir | abl | mitte-retseptor TK | CML
+Lindude erütroblastoos | hiir | erbB | retseptor TK | mao-, kopsu- ja rinnavähk
+McDonough' kassi sarkoom | kass | fms | retseptor TK | AML
+Hardy-Zuckerman kassi viirus | kass | kit | retseptor TK | GI strooma vähk
+Hiire sarkoom 3611 | hiir | raf | Ser/Thr kinaas | kusepõie kartsinoom
+*Simian sarcoma* | ahv | sis | kasvufaktor (PDGF) | erinevad vähid
+Harvey' sarkoom | hiir/rott | H-ras | väike G-valk | kusepõie kartsinoom
+Kirsten'i sarkoom | hiir/rott | K-ras | väike G-valk | erinevad vähid
+Lindude erütroblastoos E26 | kana | ets | transkriptsioonifaktor | leukeemia
+Lindude müelotsütoom | kana | myc | transkriptsioonifaktor | erinevad vähid
+Retikuloendotelioos | kalkun | rel | transkriptsioonifaktor | lümfoom
+
+--- 
+## Inimese kasvaja-viirused
+
+Viirus | Genoom | Kasvaja | Esmakirjeldus 
+-------|--------|---------|---------------
+Epstein-Barr viirus (EBV; *human herpesvirus 4*) | dsDNA herpesviirus | Burkitt'i lümfoom | 1964 
+B-hepatiidi viirus (HBV) | ss/dsDNA hepadenoviirus | maksa kartsinoomid | 1965
+inimese T-lümfotroopne viirus I (HTLV-I) | pluss-ahelaline ssRNA retroviirus | T-rakuline leukeemia | 1980
+inimese papilloomiviirused (HPV) 16 ja -18 | dsDNA papilloomiviirus | emakakaela (*cervical*) vähk, peenisekasvajad, anogenitaal- ja  pea-kaela kasvajad | 1983-84
+C-hepatiidi viirus (HCV) | pluss-ahelaline ssRNA flaviviirus | maksa kartsinoomid ja lümfoomid | 1989
+Kaposi sarkoomi herpesviirus (KSHV; ; *human herpesvirus 8*) | dsDNA herpesviirus | Kaposi sarkoom, kehaõõne-lümfoom | 1994
+Merkeli rakkude polüoomiviirus | dsDNA polüoomiviirus | Merkeli rakkude kartsinoom | 2008
+
+---
+## Kasvajates reeglina viiruspartikleid ei leita
+
+- Inimese tuumoritest ei ole leitud lihtsaid retroviiruseid!
+- Tuumorites on kirjeldatud klassikalisi viroloogi töövahendeid mikroskoopi ja viiruskultuuri kasutades EBV ja T-lümfotroopne viirus I, HTLV-I.
+- B hepatiidi seos maksakartsinoomiga tehti kindlaks 22707 Taiwani meest hõlmavas populatsiooniuuringus.
+- HPV-16/18, C hepatiidi, Kaposi sarkoomi ja Merkeli rakkude polüoomiviirus identifitseeriti kasvajates molekulaarbioloogia meetodeid kasutades.
+
+---
+## MYC 
+
+- Üks esimesi onkogeene mis avastati peale src-i, lindude müelotsütoomi viirus  MC29-st
+- Heterodimeerne transkriptsioonifaktor, peab dimeriseeruma teise bHLH TF-ga: 
+      - ainult MYC:MAX heterodimeer seob DNA-le ja aktiveerib transkriptsiooni
+- MAX seob MYC-perekonna valke: MYC, MYCN, MYCL
+- MYC TF seostub *E-box* järjestusele *CACGTG*
+- MYC vähid: Burkitti lümfoom, neuroblastoom
+- Onkogeenseteks mutatsioonideks on transkriptsiooni üles-regulatsioon ja amplifikatsioon
+
+--- &twocol
+## N-MYC amplifikatsioon pärilikes neuroblastoomides
+
+***=left
+
+Kahte tüüpi amplifikatsioone
+
+- HSR, homogeenselt värvuvad piirkonnad
+- DM, *double minutes*: kromosoomi välised partiklid
+- amplifikatsioonid on bimodaalsed 10-30 koopiat ja 100-150 koopiat
+- lisaks neuroblastoomidele ka teistes neuroektodermaal kasvajates, astrotsütoomid, glioomid, ka väikse-rakulises kopsukasvajas.
+
+***=right
+
+# HSR ja *double minutes* (nooled)
+
+<img src="http://streaming.cineca.it/sestri/courses/cancgen/img/Maris/image053.jpg" style="width:400px;">
+
+---
+## ERBB
+
+- Kireldati algselt lindude erütroblastoosi tüvest R aastal 1935
+    - R-tüvi sisaldas kahte rakulist onkogeeni erbA a erbB
+        - erbA osutus hiljem mitte obligatoorseks hormoonretseptoriks
+        - **erbB oli transformatsiooniks vajalik ja piisav**
+- Membranne türosiin-kinaas, homoloogne EGF retseptoriga 
+- Võrreldes EGFR-iga oli ErbB-l ekstratsellulaarne osa deleteerunud
+    - selline deletsioonimutant ei seo ligandi (EGF), kuid on konstitutiivselt aktiivne
+- inimesel glioblastoomides tavaline analoogne mutant **EGFRvIII**, kus on deleteerunud eksonid 2-7
+- rinnakasvajates HER2/ERBB2/Neu lookuse amplifikatsioon 80% sagedusega *HER2-enriched* subtüübis
+
+--- &twocol
+
+## HER2 lookuse amplifikatsioon rinnakasvajates
+
+***=left
+
+![her2amp](http://o.quizlet.com/4hKzpWIbUoXVlJBgORKAdQ.png)
+
+***=right
+
+![her2](http://o.quizlet.com/wHbte32fOboNNF1Ds9Qsyw.png)
+
+--- &twocol
+
+## SRC
+
+***=left
+
+- Huvitaval kombel SRC-i inimese kasvajatest eriti ei leitud
+    - esineb ~12% kaugele arenenud käärsoole kartsinoomides *colorectal carcinoma*
+- Src-perekonna kinaasid *Src family kinases (SFK)* on (Src, Fyn, Yes, Lck, Lyn, Hck, Fgr and Blk)
+- Paradoksaalselt SRC näiteks rakkude jagunemist ei mõjuta, **toimib adhesioonides ja on seotud vähi invaseerumisega**.
+
+***=right
+
+![src](assets/img/src.png)
+
+---
+## Onkogeenide aktivatsioonimehhanismid
+
+- Regulatoorsed (protoonkogeeni amplifikatsioon, tuumorsupressorgeeni deletsioon)
+- Struktuursed (mutatsioonid)
+- Regulatoorsed $\times$ Struktuursed
+
+
+![muts](http://www.nature.com/ng/journal/v45/n10/images/ng.2762-F2.jpg)
+
+---
+## Mutatsioonid
+
+Lisaks amplifikatsioonile ja üle-ekspressioonile on ka **mutatsioonid**
+
+- H-ras mis isoleeriti inimese kusepõie kartsinoomist ei olnud amplifitseerunud,
+- sekveneerimine näitas somaatilist G->T punktmutatsiooni, mis oli täiesti piisav et H-ras onkogeeniks muuta
+- Vähides esinev mutatsioon koodonites 12 või 61 (G12V) muudab Ras-i konstitutiivselt aktiivseks, rikkudes GAP (*GTP-ase activating protein*) valgu seostumise
+
+
+---
+## Ras-i mutatsioonid
+# Ras geenid on vähkides ühed sagedamini muteerunud geenidest (TCGA andmetel läbilõikes 10%)
+
+Vähipaige/tüüp | % muteerunud RAS geeniga (homoloog)
+---------|-------------------------
+kõhunääre | 90 (K)
+kilpnääre (papillaarne) | 60 (H,K,N)
+kilpnääre (follikulaarne) | 55 (H,K,N)
+käärsool | 45 (K)
+seminoom | 45 (K,N)
+müelodüsplaasia | 40 (N,K)
+kops (mitte-väikserakuline) | 35 (K)
+AML | 30 (N)
+maks | 30 (N)
+melanoom | 15 (K)
+kusepõis | 10 (K)
+neer | 10 (H)
+
+---&twocol
+## Ras valgud
+
+***=left
+
+- **Ras valgud toimivad GDP/GTP-sõltuvate lülititena.**
+- Ras-GDP: inaktiivne/Ras-GTP: aktiivne.
+- Normaalselt on rakkudes Ras seotud GDP-ga ja  mitteaktiivne.
+- Rakuvälised stiimulid (nt. TGF-$\alpha$) põhjustavad transientse Ras-i aktivatsiooni.
+    
+***=right
+
+<img src="http://www.frontiersin.org/files/Articles/57883/fimmu-04-00239-HTML/image_m/fimmu-04-00239-g001.jpg" style="width: 460px;"/>
+
+---&twocol
+
+## Mutantsed Ras valgud on GAP-tundetud
+
+***=left
+
+- **GDP$\leftrightarrow$GTP vahetust stimuleerivad GEF ja GAP valgud**
+    - **GEF** (*guanine nucleotide exchange factor*): laadib Ras-i uue GTP-ga
+    - **GAP** (*GTPase activating factor*): hüdrolüüsib GTP.
+- Ras-i endogeenne GTP hüdrolüüs 100'000$\times$ madalama kiirusega GAP-vahendatud hüdrolüüsist!
+- **Vähkides esinevad Ras mutatsioonid koodonites 12, 13 ja 61 rikuvad ära GAP-valkude seostumise.**
+
+***=right
+
+![](http://www.rcsb.org/pdb/education_discussion/molecule_of_the_month/images/148-RasProtein_5p21.jpg)
+
+[April 2012 Molecule of the Month](http://www.rcsb.org/pdb/101/motm.do?momID=148&evtc=Suggest&evta=Moleculeof%20the%20Month&evtl=OtherOptions)
+
+--- &twocol
+
+## Sagedamini amplifitseerunud genoomipiirkonnad
+
+***=left
+
+<img src="http://www.nature.com/ng/journal/v45/n10/images/ng.2760-F3.jpg" style="width:380px">
+
+***=right
+
+# Olulised korduvad fokaalsed koopiaarvu muutused (SCNA)
+
+Top 10:
+
+Geen | Funktsioon
+-----|-----------
+CCND1 | G1 tsükliin
+EGFR | TK retseptor
+MYC | transkripts. faktor
+ERBB2 | TK retseptor
+CCNE1 | G1 tsükliin
+MCL1 | anti-apoptootiline valk
+MDM2 | p53 E3 ubikvitiini ligaas
+
+
+<footer class="source">Pan-cancer patterns of somatic copy number alteration. Travis I Zack,  Steven E Schumacher,  Scott L Carter,  Andrew D Cherniack,	Gordon Saksena,	Barbara Tabak,	Michael S Lawrence,	Cheng-Zhong Zhang,	Jeremiah Wala,	Craig H Mermel,	Carrie Sougnez,	Stacey B Gabriel,	Bryan Hernandez,	Hui Shen,	Peter W Laird,	Gad Getz,	Matthew Meyerson	& Rameen Beroukhim Nature Genetics 45, 1134–1140 (2013) doi:10.1038/ng.2760
+</footer>
+
+--- &twocol
+## MYC translokatsioon
+
+MYC aktivatsioon translokatsioonilise mehhanismi teel
+
+***=left
+
+- Burkitti lümfoomides
+- c-myc geene translokeeritakse immunoglobuliini lookusesse kõigis BL.
+- Immunoglobulin raske ahel IgH 80%,
+$\kappa$ või $\lambda$ kerge ahel, kumbagi 10%.
+
+Translokatsioon | Fuusion | Sagedus
+----------------|--------|--------
+t(8;14)(q24;q32)| IGH/MYC | 80%
+t(2;8)(p12;q24) | IGK/MYC | 10%
+t(8;22)(q24;q11) | IGL/MYC | 10 %
+
+***=right
+
+<img src="http://www.nature.com/nature/journal/v421/n6921/images/nature01409-f3.2.jpg" style="width:400px">
+
+---
 ## Tumorigenees
 
 - Pahaloomulise vähi teke on pikaajaline protsess, mis tavaliselt võtab aega aastakümneid.
