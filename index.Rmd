@@ -562,6 +562,15 @@ neer | 10 (H)
 
 [April 2012 Molecule of the Month](http://www.rcsb.org/pdb/101/motm.do?momID=148&evtc=Suggest&evta=Moleculeof%20the%20Month&evtl=OtherOptions)
 
+---
+## SH2 grupid vahendavad Ras aktivatsiooni RTK-de poolt
+
+- türosiinkinaas retseptor-P $\rightarrow$ SH2-Shc-P $\rightarrow$ SH2-Grb2-SH3 $\rightarrow$ proline-rich-Sos $\rightarrow$ Ras
+- türosiinkinaas retseptor-P $\rightarrow$ SH2-Grb2-SH3 $\rightarrow$ proline-rich-Sos $\rightarrow$ Ras
+
+![](http://www.rndsystems.com/resources/images/5569.jpg)
+
+
 --- &twocol
 
 ## Sagedamini amplifitseerunud genoomipiirkonnad
