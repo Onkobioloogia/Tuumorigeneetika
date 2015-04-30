@@ -621,6 +621,10 @@ t(8;22)(q24;q11) | IGL/MYC | 10 %
 
 <img src="http://www.nature.com/nature/journal/v421/n6921/images/nature01409-f3.2.jpg" style="width:400px">
 
+--- .segue .dark .nobackground
+## Tuumorsupressorgeenid
+
+
 ---
 ## Tumorigenees
 
