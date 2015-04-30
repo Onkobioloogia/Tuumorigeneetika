@@ -246,14 +246,9 @@ R. Weinberg et. al analüüsisid leiomüoome, 1965. a
 - Klonaalne ekspansioon on sageli seotud p53 või p16 tuumorsupressor geeni kadumisega
 - Vähi progressioon sisaldab järjestikuseid kloonide paljunemiseid.
 
----
-## Kompleksne klonaalne evolutsioon vähis
-
-Barretti söögitoru (BE) areng kartsinoomiks sisaldab TP53 ja CDKN2A mutatsioone ning rekurentseid LOH-e (5q, 9p, 13q, 17p, 18q).
-
 ![BE](http://www.nature.com/ng/journal/v22/n1/images/ng0599_108.gif)
 
-<footer class="source"> Pilt:
+<footer class="source"> Pilt: Barretti söögitoru (BE) areng kartsinoomiks sisaldab TP53 ja CDKN2A mutatsioone ning rekurentseid LOH-e (5q, 9p, 13q, 17p, 18q).
 <a href="http://www.nature.com/ng/journal/v22/n1/full/ng0599_106.html">
 Barrett et al., 1999.
 </a>
