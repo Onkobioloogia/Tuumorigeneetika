@@ -54,6 +54,9 @@ strong {
 }
 </style>
 
+--- .segue .dark .nobackground
+## Vähk kui haigus
+
 --- 
 ## Vähk
 - Mõiste vähk (tuumor, pahaloomuline kasvaja, neoplasm) tähistab suurt hulka erinevaid haiguseid (**NCI ~160 olulisemat**) mis võivad tekkida kõigis keha kudedes. 
@@ -224,6 +227,107 @@ kartsinoomid (*carcinoma*) | sarkoomid (*sarcoma*)
 
 - **Kartsinoomid vastutavad 80% vähisurmade eest**
 
+--- .segue .dark .nobackground
+## Vähiteke
+
+---&twocol
+## Vähiteke on pikajaline protsess
+
+- USA andmete põhjal on 70 a. mehel 1000 korda kõrgem risk surra käärsoole vähki kui 10 a. poisil.
+- Sporaadiline vähk on vana ea haigus ja sellest lähtuvalt võtab pahaloomulise vähi teke ilmselt aega kümneid aastaid.
+
+***=left
+
+```{r uk, echo=FALSE, fig.height=4.5}
+uk <- read.csv("~/Dropbox/onkobioloogia/Tumorigenees/UKage") %>% 
+  melt(.,id="Vanusegrupp") 
+uk$Sugu<-"Naised"
+uk$Sugu[grep("Meeste", uk$variable)]<-"Mehed" 
+uk$variable <- gsub("^[MestNai.]{7}","",uk$variable)
+ggplot(uk,aes(x=Vanusegrupp, y=value, fill=Sugu)) + 
+  geom_bar(stat="identity", position="dodge") + 
+  facet_wrap(~variable, scale="free_y") + 
+  scale_fill_colorblind() +
+theme(axis.text.x=element_text(angle=90,color="black")) + 
+  ylab("") +
+  ggtitle(paste(strwrap("Kõik vähid (C00-C97 välja arvatud C44). \nKeskmiselt uusi vähijuhtumeid aastas ja \nintsidents 100000 inimese kohta, UK, 2009-2011.", width = 50), collapse="\n"))  
+```
+
+***=right
+
+```{r seer, echo=FALSE, fig.height=4.5,fig.width=4}
+seer <- read.csv("~/Dropbox/onkobioloogia/Tumorigenees/SEER")
+seer %>%  melt(id="Vanusegrupp") %>%
+  ggplot(.,aes(x=Vanusegrupp, y=value, fill=variable)) + 
+  geom_bar(stat="identity", position="dodge") + 
+  scale_fill_colorblind() +
+  scale_x_discrete(limits=rev(levels(seer$Vanusegrupp))) +
+  theme(axis.text.x=element_text(angle=90,color="black")) +
+  ggtitle(paste(strwrap("Vanus-korrigeeritud vähi intsidents, USA 2007-2011", width = 20), collapse="\n")) + xlab("")
+```
+
+
+<footer class="source"> Andmed: Vasakul, 
+<a href="http://www.cancerresearchuk.org/cancer-info/cancerstats/incidence/age/">
+Cancer Research UK
+</a> ja paremal, 
+<a href="http://seer.cancer.gov/csr/1975_2011/browse_csr.php?sectionSEL=2&pageSEL=sect_02_table.07.html#table1">
+SEER Cancer Statistics Review 1975-2011.
+</a>
+</footer>
+
+---&twocol
+## Tee vähini võtab tavaliselt palju aega
+
+- Soolevähi intsidents tõuseb tugevalt seitsmendal ja kaheksandal eludekaadil.
+- Seega, iga samm või sündmus vähi suunas toimub kord **5 kuni 10 aasta** jooksul.
+- Kogu protsess võtab aega 20 kuni 40 aastat.
+- Siit nähtub, et **koos vanusega tekib meisse kõigisse paratamatult ka rakke, mis on juba läbinud mingi arvu (kuid mitte kõiki!) vähi tekkeni viivaid astmeid**.
+
+
+```{r sool, echo=FALSE, fig.height=3,fig.width=3}
+read.csv("~/Dropbox/onkobioloogia/Tumorigenees/eurorate") %>% 
+  melt(.,id="Vanusegrupp") %>% filter(value>2&variable=="Sool") %>%
+ggplot(., aes(x = Vanusegrupp, y = value) ) + geom_line(size=2) + xlim(0, 80) + 
+  xlab("Vanus, aastates") + ylab("Surmasid 100000 inimese kohta") + ggtitle("Soolevähk")
+```
+
+---
+## Osa vähke ei sõltu vanusest
+
+- Inimse mesotelioomide (vasakul, tekib asbesti sisse hingamisel ja suitsetamisest) ja hiire nahavähi (benzo[*a*]püreeniga naha värvimisel) epidemioloogiline analüüs näitab, et **välised kantserogeenid on võimelised vähki indutseerima kindla ajakava alusel**.
+- Ka kopsuvähi intsidents sõltub pigem suitsetamise staazist kui vanusest ja suitsetamise maha jätmisel risk enam ei suurene. 
+
+<img src="http://www.nature.com/nature/journal/v411/n6835/images/411390ac.2.jpg" style="width:420px">
+
+<footer class="source"> Pilt:
+<a href="http://www.nature.com/nature/journal/v411/n6835/full/411390a0.html">
+Cancer epidemiology in the last century and the next decade.
+</a>
+</footer>
+
+---&twocol
+## Vähitekke pikaajalisus: suitsetamise mõju kopsuvähi levikule USA-s
+
+
+***=left
+<img src="http://www.nature.com/nrc/journal/v1/n1/images/nrc1001-082a-f3.gif" style="width:340px">
+
+***=right
+
+- Kuni II maailmasõjani oli suitsetamine USA meeste seas vähelevinud.
+- 30-35 aastat hiljem, 1970ndate aastate paiku, hakkas kopsuvähi intsidents järsult tõusma.
+- Praegu on ülemaailmne kopsuvähi suremus ~1.39 miljonit aastas, tipp peaks saabuma 2020-30-ndtate aastate paiku.
+
+<img src="http://picturingtheamericandream.files.wordpress.com/2011/11/swscan01337-copy.jpg" style="width:200px">
+
+<footer class="source"> Andmed:
+<a href="http://www.nature.com/nrc/journal/v1/n1/full/nrc1001-082a.html">
+Tobacco and the global lung cancer epidemic.
+</a>
+</footer>
+
+
 ---
 ## Mis tekitab vähki? Kartsinogeenid!
 
@@ -250,11 +354,25 @@ Katsusaburō Yamagiwa
 
 **Näitas, et kasvajaid on võimalik esile kutsuda**
 
+<img src="http://1.bp.blogspot.com/-R9xfuIxMp9I/UwN1zrnrOJI/AAAAAAAAAX0/CezcBfxBdWk/s1600/image_8.jpeg" style="width:160px;"/>
+
+<footer class="source"> Pilt: http://the-rabbits-blog.blogspot.com/
+</footer>
 
 ---
 ## Kartsinogeenid toimivad mutageenidena
 
 <q>Füüsilise või keemilise katserogeeni poolt transformeerunud rakud kannavad muteerunud geene - *onkogeene* - , mis rikuvad normaalse kasvukontrolli.</q>
+
+---
+
+## Tumorigenees
+
+- Pahaloomulise vähi teke on pikaajaline protsess, mis tavaliselt võtab aega aastakümneid.
+- Kasvaja progressioon põhineb rakkudes akumuleeruvatel juhuslikel geneetilistel või epigeneetilistel mutatsioonidel rakkude jagunemist ja ellujäämist reguleerivates geenides.
+- Mutatsioonid, mis annavad tulevasele vähirakule selektiivse eelise nimetatakse juht- või draivermutatsioonideks (*driver*).
+
+![hnscc](assets/img/CopyOfCRCstages.jpg)
 
 ---
 ## Kasvaja klonaalsus: mono- või polüklonaalne
