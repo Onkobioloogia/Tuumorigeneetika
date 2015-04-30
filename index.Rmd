@@ -624,6 +624,100 @@ t(8;22)(q24;q11) | IGL/MYC | 10 %
 --- .segue .dark .nobackground
 ## Tuumorsupressorgeenid
 
+---
+
+## Tumorigeenne fenotüüp on retsessiivne
+
+- 1980. tehtud katsetes leiti, et normaalsete ja vähirakkude fuseerumisel saadud hübriidsed rakud (*syncytium*) kaotasid tumorigeensuse.
+- Geeni mutantne alleel on metsik-tüüpi alleeli olemasolul retsessiivne,
+    - metsik tüüpi alleel hoiab rakus ära tumorigeense fenotüübi avaldumise, siis ka nimetus **tuumorsupressor geen**.
+- **Tuumorsupressorgeeni funktsiooni kadu toimub rakus ainult selle geeni mõlema alleeli muteerumise läbi**.
+
+
+---&twocol
+## Retinoblastoom
+
+- Retinoblastoom on lapseea vähisündroom mis tekib reetina fotoretseptorite ja ganglionite eellasrakkudes.
+- Intsidents üks juht 15000 kuni 20000 sünni kohta.
+- Arenenud maades keskmine iga diagnoosil 27 kuud unilateraalse vormi korral ja 15 kuud bilateraalse vormi korral.
+
+
+***=left
+
+![rbincidence](http://jco.ascopubs.org/content/23/10/2272/F1.medium.gif)
+
+<footer class="source">doi: 10.1200/JCO.2005.05.054</footer>
+
+***=right
+
+**Päriliku Rb patsientidel on vähirisk suurem.**
+
+- 50 aastat peale retinoblastoomi diagnoosi ja ravi avastatakse 36% päriliku Rb patsientidest mõni teine kasvaja, samas sporaadilise Rb patsientidest ainult 5.7%. 
+
+---&twocol
+
+## Retinoblastoomide tekke kineetika
+
+***=left
+
+<img src="assets/img/Knudson_Rb.png" alt="A New Theory on the Cancer-inducing Mechanism" style="width: 200px;"/>
+
+
+***=right
+
+- Bilateraalsed retinoblastoomid tekivad ühe mutatsiooni (esimese järgu) kineetika järgi $e^{-kt}$
+- Unilateraalsed tekivad kahe mutatsiooni (teise järgu) kineetika järgi $e^{-kt^{2}}$
+
+<footer class="source">Alfred G. Knudson, Jr. Mutation and Cancer: Statistical Study of Retinoblastoma. Proc Natl Acad Sci U S A. Apr 1971; 68(4): 820–823.</footer>
+
+---&twocol
+
+## Geeni mõlema alleeli muteerumine on väga ebatõenäoline
+
+***=left
+
+- Retinoblastoomi puhul ühe mutatsiooni tõenäosus geenis $2\times10^{-7}$
+- Mõlema alleeli muteerumise tõenäosus $10^{-14}$
+- Kuidas siis retinoblastoomid tekkida saavad? Välk ju ei löö ometi kunagi teist korda samasse kohta...
+
+***=right
+
+<img src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Lightning_striking_the_Eiffel_Tower_-_NOAA_edit.jpg/640px-Lightning_striking_the_Eiffel_Tower_-_NOAA_edit.jpg" alt="Välk" style="width: 200px;"/>
+
+<footer class="source">Pilt: wikimedia.</footer>
+
+---
+
+## TSG mutatsioonid
+
+- Mehhanismid mis viivad tuumorsupressorgeeni ühe alleeli 'välja lülitamiseni' on 
+    - **mutatsioonid** ja 
+    - **promootori metülatsioon**.
+- Ühe geenikoopia kadumisele võib järgneda teise alleeli kadu, mis toimub 
+    - teise mehhanismiga kui *de novo* mutatsioonid või metülatsioon ja viib **heterosügootsuse kadumiseni** selles lookuses.
+- **Heterosügootsuse kadumine (LOH)** jätab TSG lookusesse kaks mittefunktsionaalset alleeli.
+- LOH on märksa sagedasem kui mutatsioonid või metülatsioon.
+
+---&twocol
+
+## LOH - heterosügootsuse kadu (loss of heterozygosity)
+
+LOH on kromosomaalne muutus milles läheb vahetusse või kaduma geeni lookus ja seda ümbritsev piirkond.
+
+***=left
+
+LOH-il on erinevaid mehhanisme:
+- Mitootiline rekombinatsioon,
+- Lookuse deletsioon, 
+- Defektne kromosoomide segregatsioon (*nondisjunction* - õdekromatiidid ei lahkne), 
+- Geenikonversioon.
+
+***=right
+
+![loh](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgsRRYH9H6RZfR5--4Ylij1Ybgxi-pupeGp0GdkOQ9OuHgI618)
+
+**LOH-e ühendavaks teguriks on nendega kaasnev oluliselt kõrgem risk neoplastiliseks transformatsiooniks**.
+
 
 ---
 ## Tumorigenees
