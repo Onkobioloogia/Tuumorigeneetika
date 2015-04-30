@@ -54,11 +54,6 @@ strong {
 }
 </style>
 
-
---- .segue .dark .nobackground
-
-## Sissejuhatuseks
-
 --- 
 ## Vähk
 - Mõiste vähk (tuumor, pahaloomuline kasvaja, neoplasm) tähistab suurt hulka erinevaid haiguseid (**NCI ~160 olulisemat**) mis võivad tekkida kõigis keha kudedes. 
@@ -144,7 +139,8 @@ concord %>%
                      labels=c("'95-'99", "'00-'04", "'05-'09")) +
   ylab(bquote(5-year~age-standardised~net~survival)) +
   xlab(bquote(Period~group("(",years,")"))) +
-  theme(axis.text.x = element_text(angle=45,hjust=1))
+  theme(axis.text.x = element_text(angle=45,hjust=1,color="black"))+
+  theme(axis.text=element_text(color="black"))
 ```
 
 <footer class="source">Andmed: Global surveillance of cancer survival 1995-2009,                 25.7M patients, 67 countries (CONCORD-2). Allemani et. al
@@ -157,8 +153,9 @@ concord %>%
 ```{r haigestumus, echo=FALSE, warning=FALSE, message=FALSE, fig.align = 'center',cache=FALSE}
 kasvajad <- read.csv("data/Kasvajad_haigestumus_2000-9.csv", header = TRUE)
 # load libraries
-library(quantmod)
+# library(quantmod)
 library(magrittr)
+library(xts)
 kasv <- melt(kasvajad, id = c("ICD10", "Organ", "Paikmed", "Sugu", "Aasta")) %>%
   filter(!variable == "Vanusrühmad.kokku",
          !Paikmed == "Kõik paikmed v.a. nahk (muu) (C00–C97 v.a.C44)",
@@ -171,6 +168,7 @@ kasv %>%
   theme(axis.text.x  = element_text(angle=90, vjust=0.5)) +
   scale_y_continuous(name="Patsientide arv") +
   scale_x_discrete(name="Aasta") +
+  theme(axis.text=element_text(color="black")) +
   scale_fill_colorblind()
 ```
 <footer class="source">Andmed: TAI vähiregister
@@ -190,6 +188,7 @@ kasv %>%
   scale_y_continuous(name="Patsientide arv 2000-2009") +
   scale_x_discrete(name="Paikmed") + 
   coord_flip() +
+  theme(axis.text=element_text(color="black")) +
   scale_fill_colorblind()
 
 ```
@@ -198,4 +197,66 @@ kasv %>%
 </footer>
 
 ---
+## Vähitüübid
 
+Kliiniliselt võib kasvajad jaotada kaheks
+
+- **healoomulised** (lokaliseerunud, mitteinvasiivsed)
+- **pahaloomulised** (invasiivsed, metastaatilised)
+
+**Metastaasid** ehk vähi siirded vastutavad lõviosa kasvajatest tingitud surmade eest!
+
+
+![benign](http://www.web-books.com/eLibrary/Medicine/Cancer/images/image009.jpg)
+
+---
+## Neli põhilist vähitüüpi
+
+Epiteliaalsed | Mitte-epiteliaalsed
+--------------|--------------------
+kartsinoomid (*carcinoma*) | sarkoomid (*sarcoma*)
+                           | hematopoieetilised
+                           | neuroektodermaaltuumorid
+
+
+- **Kartsinoomid vastutavad 80% vähisurmade eest**
+
+---
+## Kasvaja klonaalsus: mono- või polüklonaalne
+
+**Epigeneetika viitab monoklonaalsele päritolule**
+
+R. Weinberg et. al analüüsisid leiomüoome, 1965. a 
+- X-kromosoomi inaktivatsioon on juhuslik
+- 30% Aafrika päritolu naistel on polümorfsm G6PD geenis (asub X-kromosoomis)
+- heterosügootidel esines leiomüoomis ainult ühte geeni versiooni
+
+---
+## Kasvaja klonaalsus - müeloomid
+
+- Müeloomid pärinevad B-rakkude eellastest, antikehi tootvatest plasmarakkudest
+- Iga antikeha toodab üks kloon
+- Igal patsiendil toodab müeloom vaid ühte antikeha
+
+---
+## Kasvaja evolutsioon: klonaalne ekspansioon
+
+- **Vähi progressiooni iseloomustab geneetilise või epigeneetilise klooni ekspansioon**
+- Kas see on juhuslik või omab selline kloon mingit selektiivset eelist?
+- Klonaalne ekspansioon on sageli seotud p53 või p16 tuumorsupressor geeni kadumisega
+- Vähi progressioon sisaldab järjestikuseid kloonide paljunemiseid.
+
+---
+## Kompleksne klonaalne evolutsioon vähis
+
+Barretti söögitoru (BE) areng kartsinoomiks sisaldab TP53 ja CDKN2A mutatsioone ning rekurentseid LOH-e (5q, 9p, 13q, 17p, 18q).
+
+![BE](http://www.nature.com/ng/journal/v22/n1/images/ng0599_108.gif)
+
+<footer class="source"> Pilt:
+<a href="http://www.nature.com/ng/journal/v22/n1/full/ng0599_106.html">
+Barrett et al., 1999.
+</a>
+</footer>
+
+---
